@@ -37,6 +37,7 @@ const Questions = () => {
           </option>
         ))}
       </select>
+      <br />
       <span className="head">Available Lessons: </span>
 
       <select

@@ -10,10 +10,12 @@
   font-size: 17px;
   font-family: "Times New Roman", Times, serif;
   margin-left: 14px;
+  margin-top: 10px;
 }
 .select-head {
   font-size: 13px;
   padding: 10px 6px;
+  margin-top: 10px;
 }
 .examsheet {
   margin-top: 20px;
