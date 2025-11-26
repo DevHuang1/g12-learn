@@ -1,8 +1,7 @@
-import React, { useState } from "react";
 import "./Questions.css";
 
 const Questions = () => {
-  return <div></div>;
+  return <div>These are the questions.</div>;
 };
 
 export default Questions;
