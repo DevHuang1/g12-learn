@@ -1,7 +1,8 @@
 .navbar {
-  background-color: #1e40af;
+  background-color: #2c3e50;
   color: white;
-  padding: 0.5rem 1rem;
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-container {
@@ -12,12 +13,12 @@
 }
 
 .navbar-logo {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-weight: bold;
 }
 
 .navbar-toggle {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   background: none;
   border: none;
   color: white;
@@ -27,12 +28,18 @@
 
 .navbar-menu {
   display: flex;
+  gap: 1.5rem;
   list-style: none;
-  gap: 1rem;
+  transition: max-height 0.3s ease;
 }
 
 .navbar-menu li {
   cursor: pointer;
+  padding: 0.5rem 0;
+}
+
+.navbar-menu li:hover {
+  text-decoration: underline;
 }
 
 /* Responsive */
@@ -41,15 +48,13 @@
     display: block;
   }
   .navbar-menu {
-    display: none;
+    display: flex;
     flex-direction: column;
     width: 100%;
+    overflow: hidden;
+    max-height: 0;
   }
   .navbar-menu.active {
-    display: flex;
-  }
-  .navbar-menu li {
-    padding: 0.5rem 0;
-    border-top: 1px solid white;
+    max-height: 300px;
   }
 }

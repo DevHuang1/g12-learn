@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./Questions.css";
 
 type Question = {
   id: number;
@@ -37,44 +38,25 @@ const Questions: React.FC = () => {
   };
 
   return (
-    <div style={{ padding: "1rem", maxWidth: "800px", margin: "0 auto" }}>
+    <div className="questions-container">
       {questions.map((q) => (
-        <div key={q.id} style={{ marginBottom: "1.5rem" }}>
-          <p style={{ fontWeight: "bold" }}>
+        <div key={q.id} className="question-card">
+          <p className="question-text">
             {q.id}. {q.question}
           </p>
           <textarea
             value={inputs[q.id] || ""}
             onChange={(e) => handleChange(q.id, e.target.value)}
-            rows={3}
-            style={{
-              width: "100%",
-              padding: "0.5rem",
-              fontSize: "1rem",
-              marginTop: "0.25rem",
-              resize: "vertical",
-            }}
             placeholder="Enter your sentence here..."
           />
           {submitted && (
-            <p style={{ marginTop: "0.5rem" }}>
-              <strong>Expected Answer:</strong> {q.answer}
+            <p className="expected-answer">
+              <strong>Expected:</strong> {q.answer}
             </p>
           )}
         </div>
       ))}
-      <button
-        onClick={handleSubmit}
-        style={{
-          padding: "0.5rem 1rem",
-          fontSize: "1rem",
-          cursor: "pointer",
-          backgroundColor: "#1e40af",
-          color: "white",
-          border: "none",
-          borderRadius: "4px",
-        }}
-      >
+      <button className="submit-btn" onClick={handleSubmit}>
         Submit
       </button>
     </div>
