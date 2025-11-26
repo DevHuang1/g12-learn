@@ -8,7 +8,10 @@ const Navigation: React.FC = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <h1 className="navbar-logo">Pre-Exam English</h1>
-        <button className="navbar-toggle" onClick={() => setOpen(!open)}>
+        <button
+          className="navbar-toggle"
+          onClick={() => setOpen((prev) => !prev)}
+        >
           ☰
         </button>
         <ul className={`navbar-menu ${open ? "active" : ""}`}>
