@@ -9,8 +9,15 @@
 .head {
   font-size: 17px;
   font-family: "Times New Roman", Times, serif;
+  margin-left: 14px;
 }
 .select-head {
   font-size: 13px;
   padding: 10px 6px;
+}
+.examsheet {
+  margin-top: 20px;
+  padding: 20px 20px;
+  height: 80vh;
+  border: 1px solid darkgrey;
 }

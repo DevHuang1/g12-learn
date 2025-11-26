@@ -16,7 +16,6 @@ const Navigation: React.FC = () => {
         </button>
         <ul className={`navbar-menu ${open ? "active" : ""}`}>
           <li>Home</li>
-          <li>Questions</li>
           <li>About</li>
         </ul>
       </div>
