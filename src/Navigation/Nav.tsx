@@ -7,7 +7,7 @@ const Navigation: React.FC = () => {
   return (
     <nav className="navbar">
       <div className="navbar-container">
-        <h1 className="navbar-logo">Pre-Exam English</h1>
+        <h1 className="navbar-logo">Pre-Exam English G12</h1>
         <button
           className="navbar-toggle"
           onClick={() => setOpen((prev) => !prev)}
