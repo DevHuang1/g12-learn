@@ -46,7 +46,7 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
   };
 
   return (
-    <div>
+    <div className="main-section">
       {" "}
       <span className="heading">{lesson} | </span>
       <span className="amount">Amount of questions: </span>
