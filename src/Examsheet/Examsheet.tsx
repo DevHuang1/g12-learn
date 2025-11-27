@@ -104,7 +104,7 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
           </form>
           {submitted && (
             <p className="result">
-              Score: {score}/{selectedDB.length}
+              Score: {score}/{questions.length}
             </p>
           )}
           <button onClick={checkKey}>check keys</button>
@@ -112,7 +112,7 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
             <div className="answerKey">
               <p>Answer Key</p>
               <ol>
-                {selectedDB.map((m) => (
+                {questions.map((m) => (
                   <li key={m.id}>
                     {Array.isArray(m.answer) ? m.answer.join(" / ") : m.answer}
                   </li>
