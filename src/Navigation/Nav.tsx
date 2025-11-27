@@ -30,9 +30,9 @@ const Navigation: React.FC = () => {
               platform for students who can only learn through Internet.
               <br />
               Source of questions: Internet, Textbook and AI
-            </p>{" "}
-            <button onClick={() => setShowPopup(false)}>Close</button>{" "}
-          </div>{" "}
+            </p>
+            <button onClick={() => setShowPopup(false)}>Close</button>
+          </div>
         </div>
       )}
     </nav>
