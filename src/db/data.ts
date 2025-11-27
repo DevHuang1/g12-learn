@@ -4,18 +4,18 @@ const quesDB: QuesDB = {
   "Can, Should, Must": [
     {
       id: 1,
-      question: "Write a sentence using 'go' in past tense.",
-      answer: "I went to the park yesterday.",
+      question: "You look sick. You ____ see the doctor.",
+      answer: "should",
     },
     {
       id: 2,
-      question: "Make a sentence using the word 'beautiful'.",
-      answer: "The sunset was beautiful.",
+      question: "The students ____ obey the school rules",
+      answer: "must",
     },
     {
       id: 3,
-      question: "Use 'because' in a sentence.",
-      answer: "I stayed home because it was raining.",
+      question: "____ you do me a favor? I want you to grab that book.",
+      answer: "Can",
     },
   ],
   "Compound Nouns/Adjectives": [

@@ -11,4 +11,11 @@ input {
   padding: 7px 44px;
   margin-top: 7px;
   text-indent: 0px;
+  border: 2px solid black;
+}
+input.correct {
+  border: 2px solid green;
+}
+input.incorrect {
+  border: 2px solid red;
 }
