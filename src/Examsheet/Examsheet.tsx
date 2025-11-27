@@ -84,7 +84,7 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
                 const correctAnswers = Array.isArray(q.answer)
                   ? q.answer
                   : [q.answer];
-                const correct = correctAnswers.includes(userAnswer);
+                const correct = correctAnswers.includes(userAnswer.trim());
                 const className = submitted
                   ? correct
                     ? "correct"
