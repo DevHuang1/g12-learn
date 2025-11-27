@@ -8,10 +8,12 @@ const Questions = () => {
   const units: string[] = db.selectUnits.map((u: selectType) => u.unit);
 
   const [selectedUnit, setSelectedUnit] = useState<string>(units[0]);
-  const [lessons, setLessons] = useState<string[]>(
-    db.selectUnits.find((u) => u.unit === units[0])?.lessons || []
+  const defaultLessons =
+    db.selectUnits.find((u) => u.unit === units[0])?.lessons || [];
+  const [lessons, setLessons] = useState<string[]>(defaultLessons);
+  const [selectedLesson, setSelectedLesson] = useState<string>(
+    defaultLessons[0] || ""
   );
-  const [selectedLesson, setSelectedLesson] = useState<string>(lessons[0]);
 
   const handleUnitChange = (unit: string) => {
     setSelectedUnit(unit);
