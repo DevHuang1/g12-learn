@@ -25,7 +25,9 @@ const Questions = () => {
     <div className="ques-container">
       <p className="tophead">
         How to use? Choose the desired Unit, Lesson and Question type and then
-        press the generate button to start learning{" "}
+        press the generate button to start learning.
+        <br />
+        #Created by Sitt
       </p>
       <span className="head">Available Units: </span>
 
