@@ -24,8 +24,8 @@ const Questions = () => {
   return (
     <div className="ques-container">
       <p className="tophead">
-        How to use? Choose the desired Unit, Lesson and Question type and then
-        press the generate button to start learning.
+        How to use? Choose the desired Unit, Lesson and then choose the amount
+        of questions to start learning.
         <br />
         #Created by Sitt
       </p>
