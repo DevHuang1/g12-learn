@@ -19,7 +19,7 @@ const quesDB: QuesDB = {
     },
     {
       id: 4,
-      question: "You ____ speak loud in the library",
+      question: "You ____ speak loud in the library.",
       answer: ["mustn't", "must not"],
     },
   ],
