@@ -5,34 +5,39 @@ const quesDB: QuesDB = {
     {
       id: 1,
       question: "You look sick. You ____ see the doctor.",
-      answer: "should",
+      answer: ["should"],
     },
     {
       id: 2,
       question: "The students ____ obey the school rules",
-      answer: "must",
+      answer: ["must"],
     },
     {
       id: 3,
       question: "____ you do me a favor? I want you to grab that book.",
-      answer: "Can",
+      answer: ["Can"],
+    },
+    {
+      id: 4,
+      question: "You ____ speak loud in the library",
+      answer: ["mustn't", "must not"],
     },
   ],
   "Compound Nouns/Adjectives": [
     {
       id: 1,
       question: "Hello a sentence using 'go' in past tense.",
-      answer: "I went to the park yesterday.",
+      answer: ["I went to the park yesterday."],
     },
     {
       id: 2,
       question: "Make a sentence using the word 'beautiful'.",
-      answer: "The sunset was beautiful.",
+      answer: ["The sunset was beautiful."],
     },
     {
       id: 3,
       question: "Use 'because' in a sentence.",
-      answer: "I stayed home because it was raining.",
+      answer: ["I stayed home because it was raining."],
     },
   ],
 };

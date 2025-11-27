@@ -7,7 +7,8 @@
   padding: 20px 20px;
   gap: 20px;
 }
-input {
+input,
+button {
   padding: 7px 44px;
   margin-top: 7px;
   text-indent: 0px;
@@ -18,4 +19,10 @@ input.correct {
 }
 input.incorrect {
   border: 2px solid red;
+}
+.numSelect {
+  padding: 7px 7px;
+}
+.answerKey {
+  padding: 20px 20px;
 }

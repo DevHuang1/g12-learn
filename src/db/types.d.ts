@@ -1,8 +1,3 @@
-export interface dataType {
-  id: number;
-  question: string;
-  answer: string;
-}
 export type selectType = {
   unit: string;
   lessons: string[];
@@ -11,7 +6,7 @@ export type selectType = {
 interface Question {
   id: number;
   question: string;
-  answer: string;
+  answer: string[];
 }
 
 export interface QuesDB {

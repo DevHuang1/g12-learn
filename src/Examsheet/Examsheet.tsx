@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import db from "../db/data";
 import "./Examsheet.css";
 
@@ -7,6 +7,9 @@ interface MyComponentProps {
 }
 
 const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
+  const [showKey, setShowKey] = useState(false);
+  const [numQuestions, setNumQuestions] = useState(5);
+  const [questions, setQuestions] = useState<typeof selectedDB>([]);
   const [inputAnswers, setInputAnswers] = useState<{ [id: number]: string }>(
     {}
   );
@@ -15,6 +18,13 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
   const selectedDB = db.quesDB[lesson];
 
   if (!selectedDB) return <p>No questions found for: {lesson}</p>;
+  useEffect(() => {
+    const shuffled = [...selectedDB].sort(() => Math.random() * 0.5);
+    setQuestions(shuffled.slice(0, numQuestions));
+    setInputAnswers({});
+    setScore(null);
+    setSubmitted(false);
+  }, [lesson, numQuestions, selectedDB]);
   const handleChange = (id: number, value: string) => {
     setInputAnswers((prev) => ({ ...prev, [id]: value }));
   };
@@ -22,26 +32,44 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
     e.preventDefault();
     let correct = 0;
     selectedDB.forEach((s) => {
-      if ((inputAnswers[s.id] || "").trim() === s.answer) {
+      const userAnswer = (inputAnswers[s.id] || "").trim();
+      const answers = Array.isArray(s.answer) ? s.answer : [s.answer];
+      if (answers.includes(userAnswer)) {
         correct += 1;
       }
     });
     setScore(correct);
     setSubmitted(true);
   };
+  const checkKey = () => {
+    setShowKey(true);
+  };
+
   return (
     <div>
       {" "}
       <span className="heading">{lesson} | </span>
-      <span className="marks">
-        Marks {score !== null ? score : 0}/{selectedDB.length}
-      </span>
+      <span className="amount">Amount of questions: </span>
+      <select
+        className="numSelect"
+        value={numQuestions}
+        onChange={(e) => setNumQuestions(Number(e.target.value))}
+      >
+        {[5, 10, 15].map((n) => (
+          <option key={n} value={n}>
+            {n}
+          </option>
+        ))}
+      </select>
       <form onSubmit={handleSubmit}>
         {" "}
         <ol className="quesContainer">
-          {selectedDB.map((q) => {
+          {questions.map((q) => {
             const userAnswer = inputAnswers[q.id] || "";
-            const correct = userAnswer.trim() === q.answer;
+            const correctAnswers = Array.isArray(q.answer)
+              ? q.answer
+              : [q.answer];
+            const correct = correctAnswers.includes(userAnswer);
             const className = submitted
               ? correct
                 ? "correct"
@@ -67,6 +95,19 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
         <p className="result">
           Score: {score}/{selectedDB.length}
         </p>
+      )}
+      <button onClick={checkKey}>check keys</button>
+      {showKey && (
+        <div className="answerKey">
+          <p>Answer Key</p>
+          <ol>
+            {selectedDB.map((m) => (
+              <li key={m.id}>
+                {Array.isArray(m.answer) ? m.answer.join(" / ") : m.answer}
+              </li>
+            ))}
+          </ol>
+        </div>
       )}
     </div>
   );
