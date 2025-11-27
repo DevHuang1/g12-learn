@@ -2,6 +2,7 @@ import { useState } from "react";
 import db from "../db/data";
 import { selectType } from "../db/types";
 import "./Questions.css";
+import Examsheet from "../Examsheet/Examsheet";
 
 const Questions = () => {
   const units: string[] = db.selectUnits.map((u: selectType) => u.unit);
@@ -51,7 +52,9 @@ const Questions = () => {
           </option>
         ))}
       </select>
-      <div className="examsheet"></div>
+      <div className="examsheet">
+        <Examsheet lesson={selectedLesson} />
+      </div>
     </div>
   );
 };
