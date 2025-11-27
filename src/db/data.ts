@@ -4796,6 +4796,2279 @@ const quesDB: QuesDB = {
       ],
     },
   ],
+  "-ed and -ing adjectives": [
+    {
+      id: 1,
+      question:
+        "I'm disappointing/disappointed that you can't come to my wedding.",
+      answer: ["disappointed"],
+    },
+    {
+      id: 2,
+      question: "The movie was excite/exciting from start to finish.",
+      answer: ["exciting"],
+    },
+    {
+      id: 3,
+      question: "She felt embarrass/embarrassed after tripping in public.",
+      answer: ["embarrassed"],
+    },
+    {
+      id: 4,
+      question: "He looks bore/boring during the lecture.",
+      answer: ["bored"],
+    },
+    {
+      id: 5,
+      question: "The children are tire/tired after the long trip.",
+      answer: ["tired"],
+    },
+    {
+      id: 6,
+      question: "The book was interest/interesting and kept me up all night.",
+      answer: ["interesting"],
+    },
+    {
+      id: 7,
+      question: "I am confuse/confused by his explanation.",
+      answer: ["confused"],
+    },
+    {
+      id: 8,
+      question: "She is annoy/annoyed by the loud noise from next door.",
+      answer: ["annoyed"],
+    },
+    {
+      id: 9,
+      question: "The speech was inspire/inspiring for all the students.",
+      answer: ["inspiring"],
+    },
+    {
+      id: 10,
+      question: "They felt fright/frightened when they saw the dark alley.",
+      answer: ["frightened"],
+    },
+    {
+      id: 11,
+      question: "He is amuse/amused by the comedian's jokes.",
+      answer: ["amused"],
+    },
+    {
+      id: 12,
+      question:
+        "The situation is worry/worrying and needs immediate attention.",
+      answer: ["worrying"],
+    },
+    {
+      id: 13,
+      question: "I was amaze/amazed by her performance.",
+      answer: ["amazed"],
+    },
+    {
+      id: 14,
+      question: "The task seems confuse/confusing to most of the students.",
+      answer: ["confusing"],
+    },
+    {
+      id: 15,
+      question: "She is interest/interested in learning new languages.",
+      answer: ["interested"],
+    },
+    {
+      id: 16,
+      question: "The weather is bore/boring today, nothing exciting to do.",
+      answer: ["boring"],
+    },
+    {
+      id: 17,
+      question: "I am fright/frightened to go into the abandoned house.",
+      answer: ["frightened"],
+    },
+    {
+      id: 18,
+      question: "The teacher looks tire/tiring after a long day of classes.",
+      answer: ["tired"],
+    },
+    {
+      id: 19,
+      question: "He is depress/depressed after losing the match.",
+      answer: ["depressed"],
+    },
+    {
+      id: 20,
+      question: "The lecture was exhaust/exhausting, but very informative.",
+      answer: ["exhausting"],
+    },
+    {
+      id: 21,
+      question: "She felt relax/relaxed after the yoga session.",
+      answer: ["relaxed"],
+    },
+    {
+      id: 22,
+      question:
+        "The story was fascinate/fascinating and kept everyone engaged.",
+      answer: ["fascinating"],
+    },
+    {
+      id: 23,
+      question: "I am satisfy/satisfied with the results of my project.",
+      answer: ["satisfied"],
+    },
+    {
+      id: 24,
+      question:
+        "The challenge was frustrate/frustrating, but rewarding in the end.",
+      answer: ["frustrating"],
+    },
+    {
+      id: 25,
+      question: "He seemed confuse/confused by the instructions.",
+      answer: ["confused"],
+    },
+    {
+      id: 26,
+      question:
+        "The presentation was depress/depressing and made us reflect deeply.",
+      answer: ["depressing"],
+    },
+    {
+      id: 27,
+      question: "She felt shock/shocked at the sudden news.",
+      answer: ["shocked"],
+    },
+    {
+      id: 28,
+      question: "The news was shock/shocking to the entire community.",
+      answer: ["shocking"],
+    },
+    {
+      id: 29,
+      question: "He was exhaust/exhausted after running the marathon.",
+      answer: ["exhausted"],
+    },
+    {
+      id: 30,
+      question: "The movie was terrify/terrifying and kept us on edge.",
+      answer: ["terrifying"],
+    },
+    {
+      id: 31,
+      question: "She felt confuse/confused by the complex instructions.",
+      answer: ["confused"],
+    },
+    {
+      id: 32,
+      question: "The lecture was interest/interesting and full of examples.",
+      answer: ["interesting"],
+    },
+    {
+      id: 33,
+      question: "He was bore/boring during the long ceremony.",
+      answer: ["bored"],
+    },
+    {
+      id: 34,
+      question: "The rollercoaster ride was excite/exciting for the kids.",
+      answer: ["exciting"],
+    },
+    {
+      id: 35,
+      question: "I am amaze/amazed at how quickly she solved the puzzle.",
+      answer: ["amazed"],
+    },
+    {
+      id: 36,
+      question: "The noise outside is annoy/annoying.",
+      answer: ["annoying"],
+    },
+    {
+      id: 37,
+      question: "He was depress/depressed after the team lost.",
+      answer: ["depressed"],
+    },
+    {
+      id: 38,
+      question: "The work is exhaust/exhausting but rewarding.",
+      answer: ["exhausting"],
+    },
+    {
+      id: 39,
+      question: "She was tire/tired after a long day at school.",
+      answer: ["tired"],
+    },
+    {
+      id: 40,
+      question: "The magician’s performance was amaze/amazing.",
+      answer: ["amazing"],
+    },
+    {
+      id: 41,
+      question: "The story was fright/frightening for young children.",
+      answer: ["frightening"],
+    },
+    {
+      id: 42,
+      question: "He felt fright/frightened when the lights went out.",
+      answer: ["frightened"],
+    },
+    {
+      id: 43,
+      question: "The comedian was amuse/amusing everyone with his jokes.",
+      answer: ["amusing"],
+    },
+    {
+      id: 44,
+      question: "She was amuse/amused by the clever prank.",
+      answer: ["amused"],
+    },
+    {
+      id: 45,
+      question: "The task was confuse/confusing to the new students.",
+      answer: ["confusing"],
+    },
+    {
+      id: 46,
+      question: "He felt confuse/confused by the sudden change in plans.",
+      answer: ["confused"],
+    },
+    {
+      id: 47,
+      question: "The lecture was bore/boring because it lacked examples.",
+      answer: ["boring"],
+    },
+    {
+      id: 48,
+      question: "I am excite/excited about the upcoming concert.",
+      answer: ["excited"],
+    },
+    {
+      id: 49,
+      question: "The situation is worry/worrying and needs careful attention.",
+      answer: ["worrying"],
+    },
+    {
+      id: 50,
+      question: "He was worry/worried about missing the deadline.",
+      answer: ["worried"],
+    },
+    {
+      id: 51,
+      question: "She is interest/interested in learning Spanish.",
+      answer: ["interested"],
+    },
+    {
+      id: 52,
+      question: "The movie was interest/interesting and full of suspense.",
+      answer: ["interesting"],
+    },
+    {
+      id: 53,
+      question: "He was frustrate/frustrated by the slow progress.",
+      answer: ["frustrated"],
+    },
+    {
+      id: 54,
+      question: "The situation is frustrate/frustrating for everyone involved.",
+      answer: ["frustrating"],
+    },
+    {
+      id: 55,
+      question: "I am satisfy/satisfied with the results of my exam.",
+      answer: ["satisfied"],
+    },
+    {
+      id: 56,
+      question: "The outcome was satisfy/satisfying and exceeded expectations.",
+      answer: ["satisfying"],
+    },
+    {
+      id: 57,
+      question: "She felt shock/shocked by the sudden announcement.",
+      answer: ["shocked"],
+    },
+    {
+      id: 58,
+      question: "The news was shock/shocking and unexpected.",
+      answer: ["shocking"],
+    },
+    {
+      id: 59,
+      question: "He was depress/depressed after hearing the bad news.",
+      answer: ["depressed"],
+    },
+    {
+      id: 60,
+      question: "The documentary was depress/depressing and deeply moving.",
+      answer: ["depressing"],
+    },
+    {
+      id: 61,
+      question: "The child was excite/excited to open the gift.",
+      answer: ["excited"],
+    },
+    {
+      id: 62,
+      question: "The party was excite/exciting with music and dancing.",
+      answer: ["exciting"],
+    },
+    {
+      id: 63,
+      question: "I am tire/tired after running five kilometers.",
+      answer: ["tired"],
+    },
+    {
+      id: 64,
+      question: "The hike was tire/tiring but enjoyable.",
+      answer: ["tiring"],
+    },
+    {
+      id: 65,
+      question: "She felt embarrass/embarrassed when she forgot the lines.",
+      answer: ["embarrassed"],
+    },
+    {
+      id: 66,
+      question:
+        "The performance was embarrass/embarrassing because of the mistakes.",
+      answer: ["embarrassing"],
+    },
+    {
+      id: 67,
+      question: "He is confuse/confused by the instructions on the package.",
+      answer: ["confused"],
+    },
+    {
+      id: 68,
+      question: "The task is confuse/confusing and needs clarification.",
+      answer: ["confusing"],
+    },
+    {
+      id: 69,
+      question: "She felt amaze/amazed by the breathtaking view.",
+      answer: ["amazed"],
+    },
+    {
+      id: 70,
+      question: "The artwork was amaze/amazing and drew admiration.",
+      answer: ["amazing"],
+    },
+    {
+      id: 71,
+      question: "The lecture was bore/boring and many students nodded off.",
+      answer: ["boring"],
+    },
+    {
+      id: 72,
+      question: "He felt bore/bored during the long speech.",
+      answer: ["bored"],
+    },
+    {
+      id: 73,
+      question: "The child was fright/frightened by the loud thunder.",
+      answer: ["frightened"],
+    },
+    {
+      id: 74,
+      question: "The haunted house was fright/frightening for visitors.",
+      answer: ["frightening"],
+    },
+    {
+      id: 75,
+      question: "He is annoy/annoyed by the constant interruptions.",
+      answer: ["annoyed"],
+    },
+    {
+      id: 76,
+      question: "The dripping faucet is annoy/annoying me.",
+      answer: ["annoying"],
+    },
+    {
+      id: 77,
+      question: "She felt depress/depressed after the argument.",
+      answer: ["depressed"],
+    },
+    {
+      id: 78,
+      question: "The movie was depress/depressing and quite sad.",
+      answer: ["depressing"],
+    },
+    {
+      id: 79,
+      question: "I am excite/excited for the weekend trip.",
+      answer: ["excited"],
+    },
+    {
+      id: 80,
+      question: "The rollercoaster ride was excite/exciting and thrilling.",
+      answer: ["exciting"],
+    },
+    {
+      id: 81,
+      question: "He was exhaust/exhausted after working all day.",
+      answer: ["exhausted"],
+    },
+    {
+      id: 82,
+      question: "The schedule is exhaust/exhausting and nonstop.",
+      answer: ["exhausting"],
+    },
+    {
+      id: 83,
+      question: "She is interest/interested in volunteering abroad.",
+      answer: ["interested"],
+    },
+    {
+      id: 84,
+      question: "The workshop was interest/interesting and informative.",
+      answer: ["interesting"],
+    },
+    {
+      id: 85,
+      question: "He felt shock/shocked by the sudden change in plans.",
+      answer: ["shocked"],
+    },
+    {
+      id: 86,
+      question: "The news was shock/shocking and unexpected.",
+      answer: ["shocking"],
+    },
+    {
+      id: 87,
+      question: "The audience was amuse/amused by the clown’s antics.",
+      answer: ["amused"],
+    },
+    {
+      id: 88,
+      question: "The performance was amuse/amusing and made everyone laugh.",
+      answer: ["amusing"],
+    },
+    {
+      id: 89,
+      question: "She was frustrate/frustrated with the repeated errors.",
+      answer: ["frustrated"],
+    },
+    {
+      id: 90,
+      question: "The test was frustrate/frustrating and challenging.",
+      answer: ["frustrating"],
+    },
+    {
+      id: 91,
+      question: "He felt relax/relaxed after a long walk in the park.",
+      answer: ["relaxed"],
+    },
+    {
+      id: 92,
+      question: "The massage was relax/relaxing and pleasant.",
+      answer: ["relaxing"],
+    },
+    {
+      id: 93,
+      question: "The movie was terrify/terrifying and kept us on edge.",
+      answer: ["terrifying"],
+    },
+    {
+      id: 94,
+      question: "He felt terrify/terrified by the sudden noise.",
+      answer: ["terrified"],
+    },
+    {
+      id: 95,
+      question: "She was exhaust/exhausted after studying all night.",
+      answer: ["exhausted"],
+    },
+    {
+      id: 96,
+      question: "The work was exhaust/exhausting and required full attention.",
+      answer: ["exhausting"],
+    },
+    {
+      id: 97,
+      question: "He is excite/excited to meet his favorite author.",
+      answer: ["excited"],
+    },
+    {
+      id: 98,
+      question: "The show was excite/exciting with many surprises.",
+      answer: ["exciting"],
+    },
+    {
+      id: 99,
+      question: "She felt embarrass/embarrassed during the awkward silence.",
+      answer: ["embarrassed"],
+    },
+    {
+      id: 100,
+      question: "The mistake was embarrass/embarrassing but forgivable.",
+      answer: ["embarrassing"],
+    },
+  ],
+  "Adjectives with prepositions": [
+    {
+      id: 1,
+      question:
+        "My parents are not (A. worried about, B. aware of, C. pleased with) me as they know that I can take care of myself.",
+      answer: ["A"],
+    },
+    {
+      id: 2,
+      question:
+        "She was extremely (A. satisfied with, B. excited about, C. famous for) the news of her promotion.",
+      answer: ["B"],
+    },
+    {
+      id: 3,
+      question:
+        "He is always (A. interested in, B. afraid of, C. jealous of) his sister’s achievements.",
+      answer: ["C"],
+    },
+    {
+      id: 4,
+      question:
+        "The students were (A. aware of, B. tired of, C. responsible for) the repetitive tasks assigned by the teacher.",
+      answer: ["B"],
+    },
+    {
+      id: 5,
+      question:
+        "She is (A. famous for, B. good at, C. afraid of) playing the violin beautifully.",
+      answer: ["B"],
+    },
+    {
+      id: 6,
+      question:
+        "He is (A. proud of, B. worried about, C. interested in) his son’s accomplishments.",
+      answer: ["A"],
+    },
+    {
+      id: 7,
+      question:
+        "The manager was (A. afraid of, B. interested in, C. annoyed with) the repeated mistakes in the report.",
+      answer: ["C"],
+    },
+    {
+      id: 8,
+      question:
+        "They were (A. jealous of, B. responsible for, C. excited about) the upcoming trip abroad.",
+      answer: ["C"],
+    },
+    {
+      id: 9,
+      question:
+        "She felt (A. embarrassed about, B. good at, C. afraid of) forgetting the lines during the performance.",
+      answer: ["A"],
+    },
+    {
+      id: 10,
+      question:
+        "The scientist was (A. fascinated by, B. worried about, C. pleased with) the new discovery.",
+      answer: ["A"],
+    },
+    {
+      id: 11,
+      question:
+        "He is (A. keen on, B. tired of, C. afraid of) learning new languages.",
+      answer: ["A"],
+    },
+    {
+      id: 12,
+      question:
+        "The teacher is (A. satisfied with, B. jealous of, C. afraid of) the students’ progress.",
+      answer: ["A"],
+    },
+    {
+      id: 13,
+      question:
+        "She is (A. interested in, B. afraid of, C. good at) the new course.",
+      answer: ["A"],
+    },
+    {
+      id: 14,
+      question:
+        "He is (A. worried about, B. proud of, C. famous for) his daughter’s exam results.",
+      answer: ["B"],
+    },
+    {
+      id: 15,
+      question:
+        "The tourists were (A. tired of, B. excited about, C. afraid of) waiting in line for hours.",
+      answer: ["B"],
+    },
+    {
+      id: 16,
+      question:
+        "He is (A. good at, B. jealous of, C. fascinated by) solving complex puzzles.",
+      answer: ["A"],
+    },
+    {
+      id: 17,
+      question:
+        "She felt (A. pleased with, B. afraid of, C. interested in) her performance in the play.",
+      answer: ["A"],
+    },
+    {
+      id: 18,
+      question:
+        "The child was (A. fascinated by, B. tired of, C. worried about) the magic show.",
+      answer: ["A"],
+    },
+    {
+      id: 19,
+      question:
+        "He is (A. responsible for, B. jealous of, C. good at) managing the team efficiently.",
+      answer: ["A"],
+    },
+    {
+      id: 20,
+      question:
+        "She is (A. afraid of, B. famous for, C. interested in) speaking in public.",
+      answer: ["A"],
+    },
+    {
+      id: 21,
+      question:
+        "He is (A. afraid of, B. interested in, C. proud of) trying new sports.",
+      answer: ["B"],
+    },
+    {
+      id: 22,
+      question:
+        "The students were (A. tired of, B. fascinated by, C. jealous of) the long lecture.",
+      answer: ["A"],
+    },
+    {
+      id: 23,
+      question:
+        "She is (A. satisfied with, B. afraid of, C. excited about) her exam results.",
+      answer: ["A"],
+    },
+    {
+      id: 24,
+      question:
+        "The actor is (A. famous for, B. worried about, C. pleased with) his humanitarian work.",
+      answer: ["A"],
+    },
+    {
+      id: 25,
+      question:
+        "He was (A. jealous of, B. interested in, C. afraid of) his friend’s promotion.",
+      answer: ["A"],
+    },
+    {
+      id: 26,
+      question:
+        "The teacher is (A. proud of, B. fascinated by, C. tired of) the students’ improvements.",
+      answer: ["A"],
+    },
+    {
+      id: 27,
+      question:
+        "She felt (A. embarrassed about, B. excited about, C. pleased with) forgetting her lines.",
+      answer: ["A"],
+    },
+    {
+      id: 28,
+      question:
+        "The team was (A. worried about, B. satisfied with, C. jealous of) winning the championship.",
+      answer: ["B"],
+    },
+    {
+      id: 29,
+      question:
+        "He is (A. good at, B. afraid of, C. interested in) mathematics competitions.",
+      answer: ["A"],
+    },
+    {
+      id: 30,
+      question:
+        "She is (A. fascinated by, B. tired of, C. responsible for) astronomy.",
+      answer: ["A"],
+    },
+    {
+      id: 31,
+      question:
+        "The child is (A. afraid of, B. excited about, C. pleased with) the dark room.",
+      answer: ["A"],
+    },
+    {
+      id: 32,
+      question:
+        "He was (A. tired of, B. fascinated by, C. interested in) waiting in line.",
+      answer: ["A"],
+    },
+    {
+      id: 33,
+      question:
+        "She is (A. proud of, B. jealous of, C. afraid of) completing her first marathon.",
+      answer: ["A"],
+    },
+    {
+      id: 34,
+      question:
+        "They were (A. excited about, B. responsible for, C. pleased with) the holiday trip.",
+      answer: ["A"],
+    },
+    {
+      id: 35,
+      question:
+        "He felt (A. embarrassed about, B. fascinated by, C. interested in) the mistake he made.",
+      answer: ["A"],
+    },
+    {
+      id: 36,
+      question:
+        "She is (A. interested in, B. afraid of, C. tired of) learning new languages.",
+      answer: ["A"],
+    },
+    {
+      id: 37,
+      question:
+        "He is (A. responsible for, B. jealous of, C. excited about) managing the project.",
+      answer: ["A"],
+    },
+    {
+      id: 38,
+      question:
+        "The scientist was (A. fascinated by, B. tired of, C. worried about) the experiment results.",
+      answer: ["A"],
+    },
+    {
+      id: 39,
+      question:
+        "She is (A. worried about, B. proud of, C. interested in) her friend’s health.",
+      answer: ["A"],
+    },
+    {
+      id: 40,
+      question:
+        "He is (A. excited about, B. fascinated by, C. tired of) the new technology.",
+      answer: ["A"],
+    },
+    {
+      id: 41,
+      question:
+        "They were (A. jealous of, B. proud of, C. fascinated by) their colleague’s achievements.",
+      answer: ["B"],
+    },
+    {
+      id: 42,
+      question:
+        "She felt (A. pleased with, B. tired of, C. afraid of) the completed artwork.",
+      answer: ["A"],
+    },
+    {
+      id: 43,
+      question:
+        "He is (A. good at, B. fascinated by, C. afraid of) painting landscapes.",
+      answer: ["A"],
+    },
+    {
+      id: 44,
+      question:
+        "The teacher was (A. proud of, B. excited about, C. jealous of) the students’ performance.",
+      answer: ["A"],
+    },
+    {
+      id: 45,
+      question:
+        "She is (A. fascinated by, B. responsible for, C. tired of) classical music.",
+      answer: ["A"],
+    },
+    {
+      id: 46,
+      question:
+        "He is (A. afraid of, B. satisfied with, C. jealous of) making mistakes.",
+      answer: ["A"],
+    },
+    {
+      id: 47,
+      question:
+        "They were (A. excited about, B. tired of, C. interested in) the science exhibition.",
+      answer: ["A"],
+    },
+    {
+      id: 48,
+      question:
+        "She is (A. pleased with, B. fascinated by, C. jealous of) the final project.",
+      answer: ["A"],
+    },
+    {
+      id: 49,
+      question:
+        "He is (A. interested in, B. tired of, C. worried about) the new course.",
+      answer: ["A"],
+    },
+    {
+      id: 50,
+      question:
+        "The child felt (A. afraid of, B. proud of, C. fascinated by) the thunderstorm.",
+      answer: ["A"],
+    },
+    {
+      id: 51,
+      question:
+        "He is (A. responsible for, B. fascinated by, C. excited about) coordinating the event.",
+      answer: ["A"],
+    },
+    {
+      id: 52,
+      question:
+        "She felt (A. embarrassed about, B. pleased with, C. jealous of) the wrong answer she gave.",
+      answer: ["A"],
+    },
+    {
+      id: 53,
+      question:
+        "They were (A. fascinated by, B. proud of, C. tired of) the historical documentary.",
+      answer: ["A"],
+    },
+    {
+      id: 54,
+      question:
+        "He is (A. worried about, B. interested in, C. jealous of) his health condition.",
+      answer: ["A"],
+    },
+    {
+      id: 55,
+      question:
+        "She is (A. excited about, B. tired of, C. responsible for) the upcoming festival.",
+      answer: ["A"],
+    },
+    {
+      id: 56,
+      question:
+        "The students were (A. proud of, B. jealous of, C. fascinated by) their science projects.",
+      answer: ["A"],
+    },
+    {
+      id: 57,
+      question:
+        "He felt (A. satisfied with, B. afraid of, C. tired of) the test results.",
+      answer: ["A"],
+    },
+    {
+      id: 58,
+      question:
+        "She is (A. interested in, B. jealous of, C. afraid of) volunteering abroad.",
+      answer: ["A"],
+    },
+    {
+      id: 59,
+      question:
+        "He is (A. good at, B. pleased with, C. fascinated by) solving complex problems.",
+      answer: ["A"],
+    },
+    {
+      id: 60,
+      question:
+        "They were (A. tired of, B. excited about, C. proud of) the long journey.",
+      answer: ["B"],
+    },
+    {
+      id: 61,
+      question:
+        "She is (A. pleased with, B. fascinated by, C. afraid of) the completed presentation.",
+      answer: ["A"],
+    },
+    {
+      id: 62,
+      question:
+        "He is (A. responsible for, B. jealous of, C. interested in) the office accounts.",
+      answer: ["A"],
+    },
+    {
+      id: 63,
+      question:
+        "The audience was (A. fascinated by, B. tired of, C. afraid of) the magic show.",
+      answer: ["A"],
+    },
+    {
+      id: 64,
+      question:
+        "She is (A. afraid of, B. pleased with, C. excited about) the storm outside.",
+      answer: ["A"],
+    },
+    {
+      id: 65,
+      question:
+        "He is (A. proud of, B. fascinated by, C. tired of) his daughter’s painting.",
+      answer: ["A"],
+    },
+    {
+      id: 66,
+      question:
+        "They were (A. tired of, B. interested in, C. jealous of) the noisy neighbors.",
+      answer: ["A"],
+    },
+    {
+      id: 67,
+      question:
+        "She felt (A. embarrassed about, B. fascinated by, C. worried about) forgetting her speech.",
+      answer: ["A"],
+    },
+    {
+      id: 68,
+      question:
+        "He is (A. good at, B. jealous of, C. interested in) cooking traditional dishes.",
+      answer: ["A"],
+    },
+    {
+      id: 69,
+      question:
+        "The teacher was (A. satisfied with, B. fascinated by, C. afraid of) the students’ answers.",
+      answer: ["A"],
+    },
+    {
+      id: 70,
+      question:
+        "She is (A. fascinated by, B. responsible for, C. afraid of) the ancient ruins.",
+      answer: ["A"],
+    },
+    {
+      id: 71,
+      question:
+        "He felt (A. afraid of, B. pleased with, C. excited about) the challenging climb.",
+      answer: ["A"],
+    },
+    {
+      id: 72,
+      question:
+        "They were (A. proud of, B. tired of, C. jealous of) winning the competition.",
+      answer: ["A"],
+    },
+    {
+      id: 73,
+      question:
+        "She is (A. interested in, B. fascinated by, C. afraid of) reading scientific journals.",
+      answer: ["A"],
+    },
+    {
+      id: 74,
+      question:
+        "He is (A. worried about, B. good at, C. fascinated by) finishing the project on time.",
+      answer: ["A"],
+    },
+    {
+      id: 75,
+      question:
+        "They were (A. excited about, B. proud of, C. tired of) the weekend trip.",
+      answer: ["A"],
+    },
+    {
+      id: 76,
+      question:
+        "She is (A. pleased with, B. fascinated by, C. afraid of) her exam performance.",
+      answer: ["A"],
+    },
+    {
+      id: 77,
+      question:
+        "He is (A. responsible for, B. jealous of, C. interested in) maintaining the garden.",
+      answer: ["A"],
+    },
+    {
+      id: 78,
+      question:
+        "The audience was (A. fascinated by, B. tired of, C. worried about) the speech.",
+      answer: ["A"],
+    },
+    {
+      id: 79,
+      question:
+        "She is (A. afraid of, B. pleased with, C. excited about) speaking in front of a crowd.",
+      answer: ["A"],
+    },
+    {
+      id: 80,
+      question:
+        "He is (A. proud of, B. fascinated by, C. tired of) his team’s achievements.",
+      answer: ["A"],
+    },
+    {
+      id: 81,
+      question:
+        "They were (A. tired of, B. interested in, C. excited about) the long wait.",
+      answer: ["C"],
+    },
+    {
+      id: 82,
+      question:
+        "She is (A. pleased with, B. fascinated by, C. afraid of) the art exhibition.",
+      answer: ["A"],
+    },
+    {
+      id: 83,
+      question:
+        "He is (A. good at, B. jealous of, C. responsible for) chess tournaments.",
+      answer: ["A"],
+    },
+    {
+      id: 84,
+      question:
+        "The teacher was (A. satisfied with, B. fascinated by, C. afraid of) the project submissions.",
+      answer: ["A"],
+    },
+    {
+      id: 85,
+      question:
+        "She is (A. fascinated by, B. responsible for, C. tired of) wildlife documentaries.",
+      answer: ["A"],
+    },
+    {
+      id: 86,
+      question:
+        "He felt (A. embarrassed about, B. excited about, C. pleased with) forgetting his lines.",
+      answer: ["A"],
+    },
+    {
+      id: 87,
+      question:
+        "They were (A. jealous of, B. fascinated by, C. proud of) the new student’s achievements.",
+      answer: ["C"],
+    },
+    {
+      id: 88,
+      question:
+        "She is (A. interested in, B. afraid of, C. pleased with) volunteering at the shelter.",
+      answer: ["A"],
+    },
+    {
+      id: 89,
+      question:
+        "He is (A. worried about, B. fascinated by, C. tired of) the upcoming exams.",
+      answer: ["A"],
+    },
+    {
+      id: 90,
+      question:
+        "They were (A. excited about, B. proud of, C. afraid of) the award ceremony.",
+      answer: ["A"],
+    },
+    {
+      id: 91,
+      question:
+        "She is (A. pleased with, B. fascinated by, C. jealous of) her performance.",
+      answer: ["A"],
+    },
+    {
+      id: 92,
+      question:
+        "He is (A. responsible for, B. interested in, C. afraid of) organizing the conference.",
+      answer: ["A"],
+    },
+    {
+      id: 93,
+      question:
+        "The audience was (A. fascinated by, B. tired of, C. worried about) the final act.",
+      answer: ["A"],
+    },
+    {
+      id: 94,
+      question:
+        "She is (A. afraid of, B. pleased with, C. excited about) the dark alley.",
+      answer: ["A"],
+    },
+    {
+      id: 95,
+      question:
+        "He is (A. proud of, B. fascinated by, C. tired of) his students’ progress.",
+      answer: ["A"],
+    },
+    {
+      id: 96,
+      question:
+        "They were (A. tired of, B. interested in, C. excited about) waiting for the bus.",
+      answer: ["C"],
+    },
+    {
+      id: 97,
+      question:
+        "She is (A. pleased with, B. fascinated by, C. afraid of) her team’s success.",
+      answer: ["A"],
+    },
+    {
+      id: 98,
+      question:
+        "He is (A. good at, B. jealous of, C. fascinated by) solving riddles.",
+      answer: ["A"],
+    },
+    {
+      id: 99,
+      question:
+        "The teacher was (A. satisfied with, B. fascinated by, C. afraid of) the class participation.",
+      answer: ["A"],
+    },
+    {
+      id: 100,
+      question:
+        "She is (A. fascinated by, B. responsible for, C. afraid of) the new culture she’s exploring.",
+      answer: ["A"],
+    },
+  ],
+  "Colour idioms": [
+    {
+      id: 1,
+      question:
+        "Moe Moe is (A. out of the red, B. green with envy, C. in the red) over Sandra's new shoes.",
+      answer: ["B"],
+    },
+    {
+      id: 2,
+      question:
+        "The company is (A. tickled pink, B. in the red, C. white as a sheet) after the financial loss.",
+      answer: ["B"],
+    },
+    {
+      id: 3,
+      question:
+        "He turned (A. in the red, B. white as a sheet, C. green with envy) when he saw his rival’s success.",
+      answer: ["C"],
+    },
+    {
+      id: 4,
+      question:
+        "After hearing the shocking news, she went (A. green with envy, B. tickled pink, C. white as a sheet).",
+      answer: ["C"],
+    },
+    {
+      id: 5,
+      question:
+        "They were (A. tickled pink, B. out of the red, C. in the red) about winning the lottery.",
+      answer: ["A"],
+    },
+    {
+      id: 6,
+      question:
+        "He felt (A. in the red, B. green with envy, C. white as a sheet) when his friend got the promotion.",
+      answer: ["B"],
+    },
+    {
+      id: 7,
+      question:
+        "The restaurant went (A. tickled pink, B. out of the red, C. in the red) after the pandemic.",
+      answer: ["C"],
+    },
+    {
+      id: 8,
+      question:
+        "She was (A. green with envy, B. tickled pink, C. white as a sheet) when her book got published.",
+      answer: ["B"],
+    },
+    {
+      id: 9,
+      question:
+        "He looked (A. tickled pink, B. in the red, C. white as a sheet) when he heard the terrifying news.",
+      answer: ["C"],
+    },
+    {
+      id: 10,
+      question:
+        "The young artist was (A. in the red, B. green with envy, C. tickled pink) at seeing her friend’s artwork appreciated.",
+      answer: ["B"],
+    },
+    {
+      id: 11,
+      question:
+        "Although she had studied hard, she was (A. green with envy, B. tickled pink, C. white as a sheet) when her friend got the award.",
+      answer: ["B"],
+    },
+    {
+      id: 12,
+      question:
+        "Walking into the empty room, he turned (A. white as a sheet, B. green with envy, C. tickled pink) at the unexpected mess.",
+      answer: ["C"],
+    },
+    {
+      id: 13,
+      question:
+        "They were (A. out of the red, B. tickled pink, C. green with envy) once the project was finally approved.",
+      answer: ["A"],
+    },
+    {
+      id: 14,
+      question:
+        "She whispered to herself, feeling (A. green with envy, B. white as a sheet, C. tickled pink) about her colleague’s success.",
+      answer: ["C"],
+    },
+    {
+      id: 15,
+      question:
+        "After the long hike, he looked (A. tickled pink, B. out of the red, C. white as a sheet) at the breathtaking view.",
+      answer: ["B"],
+    },
+    {
+      id: 16,
+      question:
+        "The student, having heard the results, was (A. green with envy, B. tickled pink, C. white as a sheet) of his rival’s high score.",
+      answer: ["C"],
+    },
+    {
+      id: 17,
+      question:
+        "Even though she was exhausted, she felt (A. tickled pink, B. out of the red, C. green with envy) after helping the children.",
+      answer: ["B"],
+    },
+    {
+      id: 18,
+      question:
+        "He turned (A. white as a sheet, B. tickled pink, C. green with envy) when the unexpected guest arrived.",
+      answer: ["C"],
+    },
+    {
+      id: 19,
+      question:
+        "Seeing her sister’s new dress, she went (A. green with envy, B. tickled pink, C. white as a sheet).",
+      answer: ["A"],
+    },
+    {
+      id: 20,
+      question:
+        "Once the debts were cleared, the company was (A. tickled pink, B. out of the red, C. green with envy).",
+      answer: ["C"],
+    },
+    {
+      id: 21,
+      question:
+        "The little boy was (A. tickled pink, B. white as a sheet, C. green with envy) when he saw the puppy in the shop window.",
+      answer: ["B"],
+    },
+    {
+      id: 22,
+      question:
+        "He looked (A. green with envy, B. tickled pink, C. out of the red) after learning his neighbor bought a new car.",
+      answer: ["C"],
+    },
+    {
+      id: 23,
+      question:
+        "She felt (A. tickled pink, B. white as a sheet, C. green with envy) on her birthday when everyone sang for her.",
+      answer: ["A"],
+    },
+    {
+      id: 24,
+      question:
+        "After receiving the shocking news, he turned (A. white as a sheet, B. green with envy, C. tickled pink).",
+      answer: ["B"],
+    },
+    {
+      id: 25,
+      question:
+        "Watching her colleague get promoted, she was (A. green with envy, B. tickled pink, C. out of the red).",
+      answer: ["C"],
+    },
+    {
+      id: 26,
+      question:
+        "The chef was (A. tickled pink, B. green with envy, C. white as a sheet) at seeing his dish featured in the magazine.",
+      answer: ["B"],
+    },
+    {
+      id: 27,
+      question:
+        "Despite the storm, the sailors were (A. out of the red, B. tickled pink, C. green with envy) when they docked safely.",
+      answer: ["A"],
+    },
+    {
+      id: 28,
+      question:
+        "He felt (A. white as a sheet, B. green with envy, C. tickled pink) after watching the horror movie.",
+      answer: ["C"],
+    },
+    {
+      id: 29,
+      question:
+        "Seeing the lottery results, she went (A. tickled pink, B. out of the red, C. green with envy).",
+      answer: ["B"],
+    },
+    {
+      id: 30,
+      question:
+        "The students were (A. green with envy, B. tickled pink, C. white as a sheet) when the top scorer received a trophy.",
+      answer: ["C"],
+    },
+    {
+      id: 31,
+      question:
+        "Having just won the competition, he was (A. tickled pink, B. green with envy, C. out of the red).",
+      answer: ["B"],
+    },
+    {
+      id: 32,
+      question:
+        "She turned (A. white as a sheet, B. tickled pink, C. green with envy) when the glass slipped from her hands.",
+      answer: ["C"],
+    },
+    {
+      id: 33,
+      question:
+        "The couple felt (A. tickled pink, B. out of the red, C. green with envy) after receiving their wedding invitations.",
+      answer: ["A"],
+    },
+    {
+      id: 34,
+      question:
+        "Walking through the gallery, he looked (A. green with envy, B. tickled pink, C. white as a sheet) at the art pieces.",
+      answer: ["B"],
+    },
+    {
+      id: 35,
+      question:
+        "Despite losing the match, the team was (A. out of the red, B. tickled pink, C. green with envy) because of their improvement.",
+      answer: ["C"],
+    },
+    {
+      id: 36,
+      question:
+        "He went (A. tickled pink, B. white as a sheet, C. green with envy) after hearing he had passed the exam.",
+      answer: ["B"],
+    },
+    {
+      id: 37,
+      question:
+        "Seeing the promotion announcement, she was (A. green with envy, B. tickled pink, C. out of the red).",
+      answer: ["C"],
+    },
+    {
+      id: 38,
+      question:
+        "The audience turned (A. white as a sheet, B. tickled pink, C. green with envy) when the lights went out suddenly.",
+      answer: ["B"],
+    },
+    {
+      id: 39,
+      question:
+        "After finishing the marathon, he was (A. tickled pink, B. out of the red, C. green with envy).",
+      answer: ["C"],
+    },
+    {
+      id: 40,
+      question:
+        "He felt (A. green with envy, B. tickled pink, C. white as a sheet) seeing his rival’s success.",
+      answer: ["B"],
+    },
+    {
+      id: 41,
+      question:
+        "She was (A. tickled pink, B. white as a sheet, C. green with envy) when her artwork got displayed.",
+      answer: ["C"],
+    },
+    {
+      id: 42,
+      question:
+        "The children, having seen the magician, went (A. tickled pink, B. green with envy, C. out of the red).",
+      answer: ["B"],
+    },
+    {
+      id: 43,
+      question:
+        "He turned (A. white as a sheet, B. tickled pink, C. green with envy) when the earthquake alarm rang.",
+      answer: ["C"],
+    },
+    {
+      id: 44,
+      question:
+        "Despite the difficulties, she was (A. tickled pink, B. out of the red, C. green with envy) about completing the project.",
+      answer: ["B"],
+    },
+    {
+      id: 45,
+      question:
+        "Seeing the first prize, he felt (A. green with envy, B. tickled pink, C. white as a sheet).",
+      answer: ["C"],
+    },
+    {
+      id: 46,
+      question:
+        "After receiving the gift, she was (A. tickled pink, B. green with envy, C. out of the red).",
+      answer: ["B"],
+    },
+    {
+      id: 47,
+      question:
+        "He turned (A. white as a sheet, B. tickled pink, C. green with envy) at the sudden loud noise.",
+      answer: ["B"],
+    },
+    {
+      id: 48,
+      question:
+        "The audience was (A. tickled pink, B. out of the red, C. green with envy) after the amazing performance.",
+      answer: ["C"],
+    },
+    {
+      id: 49,
+      question:
+        "She felt (A. green with envy, B. tickled pink, C. white as a sheet) when her friend received a promotion.",
+      answer: ["B"],
+    },
+    {
+      id: 50,
+      question:
+        "Having completed the project successfully, he was (A. tickled pink, B. green with envy, C. out of the red).",
+      answer: ["C"],
+    },
+  ],
+  "Subordinating conjunctions in adverbial clauses": [
+    {
+      id: 1,
+      question:
+        "We had to stand all the way. All the seats on the bus were occupied.",
+      answer: [
+        "We had to stand all the way because all the seats on the bus were occupied.",
+        "We had to stand all the way as all the seats on the bus were occupied.",
+        "We had to stand all the way since all the seats on the bus were occupied.",
+      ],
+    },
+    {
+      id: 2,
+      question: "She left the house. The rain started pouring.",
+      answer: [
+        "She left the house just as the rain started pouring.",
+        "She left the house when the rain started pouring.",
+        "She left the house after the rain started pouring.",
+      ],
+    },
+    {
+      id: 3,
+      question: "He completed the report. He wanted to impress his boss.",
+      answer: [
+        "He completed the report so that he could impress his boss.",
+        "He completed the report in order that he could impress his boss.",
+      ],
+    },
+    {
+      id: 4,
+      question: "I will bring an umbrella. It rains tomorrow.",
+      answer: [
+        "I will bring an umbrella if it rains tomorrow.",
+        "I will bring an umbrella in case it rains tomorrow.",
+      ],
+    },
+    {
+      id: 5,
+      question: "She talks softly. She wants everyone to feel comfortable.",
+      answer: [
+        "She talks softly so that everyone can feel comfortable.",
+        "She talks softly in order that everyone can feel comfortable.",
+      ],
+    },
+    {
+      id: 6,
+      question: "He studied hard. He didn’t want to fail the exam.",
+      answer: [
+        "He studied hard because he didn’t want to fail the exam.",
+        "He studied hard as he didn’t want to fail the exam.",
+        "He studied hard since he didn’t want to fail the exam.",
+      ],
+    },
+    {
+      id: 7,
+      question: "I enjoy living in this city. I was born here.",
+      answer: [
+        "I enjoy living in this city because I was born here.",
+        "I enjoy living in this city since I was born here.",
+      ],
+    },
+    {
+      id: 8,
+      question: "She left early. Her friends were still at the party.",
+      answer: [
+        "She left early although her friends were still at the party.",
+        "She left early even though her friends were still at the party.",
+        "She left early though her friends were still at the party.",
+      ],
+    },
+    {
+      id: 9,
+      question: "He ran faster than anyone else in the race.",
+      answer: [
+        "He ran as fast as anyone else in the race.",
+        "He ran faster than anyone else because he was well trained.",
+      ],
+    },
+    {
+      id: 10,
+      question: "The dog barked loudly. The thief tried to escape.",
+      answer: [
+        "The dog barked so loudly that the thief tried to escape.",
+        "The dog barked in such a way that the thief tried to escape.",
+      ],
+    },
+    {
+      id: 11,
+      question: "She returned the book. She had borrowed it last week.",
+      answer: [
+        "She returned the book after she had borrowed it last week.",
+        "She returned the book once she had borrowed it last week.",
+      ],
+    },
+    {
+      id: 12,
+      question: "He looked everywhere. His keys were nowhere to be found.",
+      answer: [
+        "He looked everywhere where his keys might be.",
+        "He looked around the place where his keys might be.",
+      ],
+    },
+    {
+      id: 13,
+      question: "I will attend the meeting. I finish my work on time.",
+      answer: [
+        "I will attend the meeting provided that I finish my work on time.",
+        "I will attend the meeting as long as I finish my work on time.",
+      ],
+    },
+    {
+      id: 14,
+      question: "She was very tired. She continued to work.",
+      answer: [
+        "She continued to work although she was very tired.",
+        "She continued to work even though she was very tired.",
+      ],
+    },
+    {
+      id: 15,
+      question: "We stayed indoors. It was too hot outside.",
+      answer: [
+        "We stayed indoors because it was too hot outside.",
+        "We stayed indoors since it was too hot outside.",
+      ],
+    },
+    {
+      id: 16,
+      question: "He hid the gift. His sister was in the room.",
+      answer: [
+        "He hid the gift while his sister was in the room.",
+        "He hid the gift as his sister was in the room.",
+      ],
+    },
+    {
+      id: 17,
+      question: "I spoke slowly. My friend couldn’t understand me.",
+      answer: [
+        "I spoke slowly so that my friend could understand me.",
+        "I spoke slowly in order that my friend could understand me.",
+      ],
+    },
+    {
+      id: 18,
+      question: "He missed the train. He woke up late.",
+      answer: [
+        "He missed the train because he woke up late.",
+        "He missed the train as he woke up late.",
+      ],
+    },
+    {
+      id: 19,
+      question: "The children played outside. It stopped raining.",
+      answer: [
+        "The children played outside after it stopped raining.",
+        "The children played outside once it stopped raining.",
+      ],
+    },
+    {
+      id: 20,
+      question: "She didn’t answer the phone. She was busy.",
+      answer: [
+        "She didn’t answer the phone because she was busy.",
+        "She didn’t answer the phone as she was busy.",
+        "She didn’t answer the phone since she was busy.",
+      ],
+    },
+    {
+      id: 21,
+      question: "He took an umbrella. It looked like it was going to rain.",
+      answer: [
+        "He took an umbrella because it looked like it was going to rain.",
+        "He took an umbrella as it looked like it was going to rain.",
+        "He took an umbrella since it looked like it was going to rain.",
+      ],
+    },
+    {
+      id: 22,
+      question: "She stayed calm. Everyone around her was panicking.",
+      answer: [
+        "She stayed calm although everyone around her was panicking.",
+        "She stayed calm even though everyone around her was panicking.",
+        "She stayed calm though everyone around her was panicking.",
+      ],
+    },
+    {
+      id: 23,
+      question: "I will join the online class. I finish my work on time.",
+      answer: [
+        "I will join the online class provided that I finish my work on time.",
+        "I will join the online class as long as I finish my work on time.",
+      ],
+    },
+    {
+      id: 24,
+      question: "He trained hard. He wanted to win the competition.",
+      answer: [
+        "He trained hard so that he could win the competition.",
+        "He trained hard in order that he could win the competition.",
+      ],
+    },
+    {
+      id: 25,
+      question: "The cat hid under the bed. The dog was barking loudly.",
+      answer: [
+        "The cat hid under the bed while the dog was barking loudly.",
+        "The cat hid under the bed as the dog was barking loudly.",
+      ],
+    },
+    {
+      id: 26,
+      question: "I was late to the party. I missed the opening speech.",
+      answer: [
+        "I was late to the party because I missed the opening speech.",
+        "I was late to the party as I missed the opening speech.",
+        "I was late to the party since I missed the opening speech.",
+      ],
+    },
+    {
+      id: 27,
+      question: "She took notes. She wanted to remember everything.",
+      answer: [
+        "She took notes so that she could remember everything.",
+        "She took notes in order that she could remember everything.",
+      ],
+    },
+    {
+      id: 28,
+      question: "He works faster than anyone else in the office.",
+      answer: [
+        "He works as fast as anyone else in the office.",
+        "He works faster than anyone else because he is well trained.",
+      ],
+    },
+    {
+      id: 29,
+      question: "I didn’t call you. I lost my phone.",
+      answer: [
+        "I didn’t call you because I lost my phone.",
+        "I didn’t call you as I lost my phone.",
+        "I didn’t call you since I lost my phone.",
+      ],
+    },
+    {
+      id: 30,
+      question: "The students went home. The school bell rang.",
+      answer: [
+        "The students went home when the school bell rang.",
+        "The students went home after the school bell rang.",
+        "The students went home as soon as the school bell rang.",
+      ],
+    },
+    {
+      id: 31,
+      question: "He missed the meeting. He overslept.",
+      answer: [
+        "He missed the meeting because he overslept.",
+        "He missed the meeting as he overslept.",
+        "He missed the meeting since he overslept.",
+      ],
+    },
+    {
+      id: 32,
+      question: "She whispered. She didn’t want to wake the baby.",
+      answer: [
+        "She whispered so that she wouldn’t wake the baby.",
+        "She whispered in order that she wouldn’t wake the baby.",
+      ],
+    },
+    {
+      id: 33,
+      question: "We can leave early. The project is finished.",
+      answer: [
+        "We can leave early since the project is finished.",
+        "We can leave early because the project is finished.",
+        "We can leave early as the project is finished.",
+      ],
+    },
+    {
+      id: 34,
+      question: "He stayed calm. The situation was very stressful.",
+      answer: [
+        "He stayed calm although the situation was very stressful.",
+        "He stayed calm even though the situation was very stressful.",
+        "He stayed calm though the situation was very stressful.",
+      ],
+    },
+    {
+      id: 35,
+      question: "I will lend you my notes. You promise to return them.",
+      answer: [
+        "I will lend you my notes provided that you promise to return them.",
+        "I will lend you my notes as long as you promise to return them.",
+      ],
+    },
+    {
+      id: 36,
+      question: "She closed the window. It was very windy.",
+      answer: [
+        "She closed the window because it was very windy.",
+        "She closed the window as it was very windy.",
+        "She closed the window since it was very windy.",
+      ],
+    },
+    {
+      id: 37,
+      question: "He ran fast. He wanted to catch the bus.",
+      answer: [
+        "He ran fast so that he could catch the bus.",
+        "He ran fast in order that he could catch the bus.",
+      ],
+    },
+    {
+      id: 38,
+      question: "The boy kept quiet. His teacher was speaking.",
+      answer: [
+        "The boy kept quiet while his teacher was speaking.",
+        "The boy kept quiet as his teacher was speaking.",
+      ],
+    },
+    {
+      id: 39,
+      question: "She didn’t attend the meeting. She was unwell.",
+      answer: [
+        "She didn’t attend the meeting because she was unwell.",
+        "She didn’t attend the meeting as she was unwell.",
+        "She didn’t attend the meeting since she was unwell.",
+      ],
+    },
+    {
+      id: 40,
+      question: "He was shocked. He heard the unexpected news.",
+      answer: [
+        "He was shocked when he heard the unexpected news.",
+        "He was shocked after he heard the unexpected news.",
+        "He was shocked as soon as he heard the unexpected news.",
+      ],
+    },
+    {
+      id: 41,
+      question: "The children ran outside. It stopped raining.",
+      answer: [
+        "The children ran outside after it stopped raining.",
+        "The children ran outside once it stopped raining.",
+      ],
+    },
+    {
+      id: 42,
+      question: "She couldn’t join the team. She was injured.",
+      answer: [
+        "She couldn’t join the team because she was injured.",
+        "She couldn’t join the team as she was injured.",
+        "She couldn’t join the team since she was injured.",
+      ],
+    },
+    {
+      id: 43,
+      question: "He worked hard. He wanted to succeed.",
+      answer: [
+        "He worked hard so that he could succeed.",
+        "He worked hard in order that he could succeed.",
+      ],
+    },
+    {
+      id: 44,
+      question: "I waited for him. He was late.",
+      answer: [
+        "I waited for him because he was late.",
+        "I waited for him as he was late.",
+        "I waited for him since he was late.",
+      ],
+    },
+    {
+      id: 45,
+      question: "She smiled. He told a funny story.",
+      answer: [
+        "She smiled when he told a funny story.",
+        "She smiled as he told a funny story.",
+        "She smiled while he told a funny story.",
+      ],
+    },
+    {
+      id: 46,
+      question: "He missed the bus. He woke up late.",
+      answer: [
+        "He missed the bus because he woke up late.",
+        "He missed the bus as he woke up late.",
+        "He missed the bus since he woke up late.",
+      ],
+    },
+    {
+      id: 47,
+      question: "I will help you. You promise to complete the work.",
+      answer: [
+        "I will help you provided that you promise to complete the work.",
+        "I will help you as long as you promise to complete the work.",
+        "I will help if you promise to complete the work.",
+      ],
+    },
+    {
+      id: 48,
+      question: "She wore sunglasses. The sun was bright.",
+      answer: [
+        "She wore sunglasses because the sun was bright.",
+        "She wore sunglasses as the sun was bright.",
+        "She wore sunglasses since the sun was bright.",
+      ],
+    },
+    {
+      id: 49,
+      question: "He whispered. The baby was sleeping.",
+      answer: [
+        "He whispered so that the baby wouldn’t wake up.",
+        "He whispered in order that the baby wouldn’t wake up.",
+      ],
+    },
+    {
+      id: 50,
+      question: "We stayed home. It was raining heavily.",
+      answer: [
+        "We stayed home because it was raining heavily.",
+        "We stayed home as it was raining heavily.",
+        "We stayed home since it was raining heavily.",
+      ],
+    },
+    {
+      id: 51,
+      question: "He apologized. She was upset with him.",
+      answer: [
+        "He apologized because she was upset with him.",
+        "He apologized as she was upset with him.",
+        "He apologized since she was upset with him.",
+      ],
+    },
+    {
+      id: 52,
+      question: "She stayed home. The weather was too cold.",
+      answer: [
+        "She stayed home because the weather was too cold.",
+        "She stayed home as the weather was too cold.",
+        "She stayed home since the weather was too cold.",
+      ],
+    },
+    {
+      id: 53,
+      question: "He continued to speak. Everyone was listening attentively.",
+      answer: [
+        "He continued to speak while everyone was listening attentively.",
+        "He continued to speak as everyone was listening attentively.",
+      ],
+    },
+    {
+      id: 54,
+      question: "I will attend the seminar. I finish my report on time.",
+      answer: [
+        "I will attend the seminar provided that I finish my report on time.",
+        "I will attend the seminar as long as I finish my report on time.",
+      ],
+    },
+    {
+      id: 55,
+      question: "The teacher praised him. He answered all questions correctly.",
+      answer: [
+        "The teacher praised him because he answered all questions correctly.",
+        "The teacher praised him as he answered all questions correctly.",
+        "The teacher praised him since he answered all questions correctly.",
+      ],
+    },
+    {
+      id: 56,
+      question: "She wore a coat. It was snowing outside.",
+      answer: [
+        "She wore a coat because it was snowing outside.",
+        "She wore a coat as it was snowing outside.",
+        "She wore a coat since it was snowing outside.",
+      ],
+    },
+    {
+      id: 57,
+      question: "He studied diligently. He wanted to secure a scholarship.",
+      answer: [
+        "He studied diligently so that he could secure a scholarship.",
+        "He studied diligently in order that he could secure a scholarship.",
+      ],
+    },
+    {
+      id: 58,
+      question: "The children played in the park. Their parents watched them.",
+      answer: [
+        "The children played in the park while their parents watched them.",
+        "The children played in the park as their parents watched them.",
+      ],
+    },
+    {
+      id: 59,
+      question: "She didn’t go out. She felt unwell.",
+      answer: [
+        "She didn’t go out because she felt unwell.",
+        "She didn’t go out as she felt unwell.",
+        "She didn’t go out since she felt unwell.",
+      ],
+    },
+    {
+      id: 60,
+      question: "He left the room. He had completed his task.",
+      answer: [
+        "He left the room after he had completed his task.",
+        "He left the room once he had completed his task.",
+      ],
+    },
+    {
+      id: 61,
+      question:
+        "The student improved her performance. She practiced every day.",
+      answer: [
+        "The student improved her performance because she practiced every day.",
+        "The student improved her performance as she practiced every day.",
+        "The student improved her performance since she practiced every day.",
+      ],
+    },
+    {
+      id: 62,
+      question: "She spoke quietly. The baby was sleeping.",
+      answer: [
+        "She spoke quietly so that the baby wouldn’t wake up.",
+        "She spoke quietly in order that the baby wouldn’t wake up.",
+      ],
+    },
+    {
+      id: 63,
+      question: "He felt proud. His team won the championship.",
+      answer: [
+        "He felt proud because his team won the championship.",
+        "He felt proud as his team won the championship.",
+        "He felt proud since his team won the championship.",
+      ],
+    },
+    {
+      id: 64,
+      question: "The plane took off. The weather was clear.",
+      answer: [
+        "The plane took off because the weather was clear.",
+        "The plane took off as the weather was clear.",
+        "The plane took off since the weather was clear.",
+      ],
+    },
+    {
+      id: 65,
+      question: "She wore sunglasses. The sunlight was bright.",
+      answer: [
+        "She wore sunglasses because the sunlight was bright.",
+        "She wore sunglasses as the sunlight was bright.",
+        "She wore sunglasses since the sunlight was bright.",
+      ],
+    },
+    {
+      id: 66,
+      question: "He waited outside. The store hadn’t opened yet.",
+      answer: [
+        "He waited outside because the store hadn’t opened yet.",
+        "He waited outside as the store hadn’t opened yet.",
+        "He waited outside since the store hadn’t opened yet.",
+      ],
+    },
+    {
+      id: 67,
+      question: "She didn’t answer immediately. She was thinking carefully.",
+      answer: [
+        "She didn’t answer immediately because she was thinking carefully.",
+        "She didn’t answer immediately as she was thinking carefully.",
+        "She didn’t answer immediately since she was thinking carefully.",
+      ],
+    },
+    {
+      id: 68,
+      question: "He felt exhausted. He had been jogging for hours.",
+      answer: [
+        "He felt exhausted because he had been jogging for hours.",
+        "He felt exhausted as he had been jogging for hours.",
+        "He felt exhausted since he had been jogging for hours.",
+      ],
+    },
+    {
+      id: 69,
+      question:
+        "They celebrated the festival. They had decorated the house beautifully.",
+      answer: [
+        "They celebrated the festival because they had decorated the house beautifully.",
+        "They celebrated the festival as they had decorated the house beautifully.",
+        "They celebrated the festival since they had decorated the house beautifully.",
+      ],
+    },
+    {
+      id: 70,
+      question: "She kept working. She was tired.",
+      answer: [
+        "She kept working although she was tired.",
+        "She kept working even though she was tired.",
+        "She kept working though she was tired.",
+      ],
+    },
+    {
+      id: 71,
+      question: "He bought the tickets. He wanted to attend the concert.",
+      answer: [
+        "He bought the tickets so that he could attend the concert.",
+        "He bought the tickets in order that he could attend the concert.",
+      ],
+    },
+    {
+      id: 72,
+      question: "The dog barked. The stranger approached the house.",
+      answer: [
+        "The dog barked when the stranger approached the house.",
+        "The dog barked as the stranger approached the house.",
+        "The dog barked while the stranger approached the house.",
+      ],
+    },
+    {
+      id: 73,
+      question: "I won’t join the picnic. I finish my assignments.",
+      answer: [
+        "I won’t join the picnic unless I finish my assignments.",
+        "I won’t join the picnic provided that I don’t finish my assignments.",
+        "I won’t join the picnic if I don’t finish my assignments.",
+      ],
+    },
+    {
+      id: 74,
+      question: "She felt happy. Her friends organized a surprise party.",
+      answer: [
+        "She felt happy because her friends organized a surprise party.",
+        "She felt happy as her friends organized a surprise party.",
+        "She felt happy since her friends organized a surprise party.",
+      ],
+    },
+    {
+      id: 75,
+      question: "He left immediately. The meeting was over.",
+      answer: [
+        "He left immediately after the meeting was over.",
+        "He left immediately once the meeting was over.",
+      ],
+    },
+    {
+      id: 76,
+      question: "She avoided the main road. There was heavy traffic.",
+      answer: [
+        "She avoided the main road because there was heavy traffic.",
+        "She avoided the main road as there was heavy traffic.",
+        "She avoided the main road since there was heavy traffic.",
+      ],
+    },
+    {
+      id: 77,
+      question:
+        "He trained every day. He wanted to participate in the marathon.",
+      answer: [
+        "He trained every day so that he could participate in the marathon.",
+        "He trained every day in order that he could participate in the marathon.",
+      ],
+    },
+    {
+      id: 78,
+      question: "The child hid. The thunder scared him.",
+      answer: [
+        "The child hid because the thunder scared him.",
+        "The child hid as the thunder scared him.",
+        "The child hid since the thunder scared him.",
+      ],
+    },
+    {
+      id: 79,
+      question: "She finished her work quickly. She wanted to go out.",
+      answer: [
+        "She finished her work quickly so that she could go out.",
+        "She finished her work quickly in order that she could go out.",
+      ],
+    },
+    {
+      id: 80,
+      question: "He kept calm. The situation was dangerous.",
+      answer: [
+        "He kept calm although the situation was dangerous.",
+        "He kept calm even though the situation was dangerous.",
+        "He kept calm though the situation was dangerous.",
+      ],
+    },
+    {
+      id: 81,
+      question: "He stayed silent. He didn’t want to upset anyone.",
+      answer: [
+        "He stayed silent so that he wouldn’t upset anyone.",
+        "He stayed silent in order that he wouldn’t upset anyone.",
+      ],
+    },
+    {
+      id: 82,
+      question: "She smiled. She remembered a happy moment.",
+      answer: [
+        "She smiled when she remembered a happy moment.",
+        "She smiled as she remembered a happy moment.",
+        "She smiled while she remembered a happy moment.",
+      ],
+    },
+    {
+      id: 83,
+      question: "The meeting was postponed. The manager was busy.",
+      answer: [
+        "The meeting was postponed because the manager was busy.",
+        "The meeting was postponed as the manager was busy.",
+        "The meeting was postponed since the manager was busy.",
+      ],
+    },
+    {
+      id: 84,
+      question: "I will help you. You promise to do your best.",
+      answer: [
+        "I will help you provided that you promise to do your best.",
+        "I will help you as long as you promise to do your best.",
+      ],
+    },
+    {
+      id: 85,
+      question: "He didn’t react. He was shocked by the news.",
+      answer: [
+        "He didn’t react because he was shocked by the news.",
+        "He didn’t react as he was shocked by the news.",
+        "He didn’t react since he was shocked by the news.",
+      ],
+    },
+    {
+      id: 86,
+      question: "She left the room. The lecture had ended.",
+      answer: [
+        "She left the room after the lecture had ended.",
+        "She left the room once the lecture had ended.",
+      ],
+    },
+    {
+      id: 87,
+      question: "He kept running. He wanted to finish before sunset.",
+      answer: [
+        "He kept running so that he could finish before sunset.",
+        "He kept running in order that he could finish before sunset.",
+      ],
+    },
+    {
+      id: 88,
+      question: "The students were quiet. The principal was speaking.",
+      answer: [
+        "The students were quiet while the principal was speaking.",
+        "The students were quiet as the principal was speaking.",
+      ],
+    },
+    {
+      id: 89,
+      question: "She was nervous. She had never performed on stage before.",
+      answer: [
+        "She was nervous because she had never performed on stage before.",
+        "She was nervous as she had never performed on stage before.",
+        "She was nervous since she had never performed on stage before.",
+      ],
+    },
+    {
+      id: 90,
+      question: "He did the work efficiently. He wanted to impress his boss.",
+      answer: [
+        "He did the work efficiently so that he could impress his boss.",
+        "He did the work efficiently in order that he could impress his boss.",
+      ],
+    },
+    {
+      id: 91,
+      question: "She stayed calm. Everyone was panicking.",
+      answer: [
+        "She stayed calm although everyone was panicking.",
+        "She stayed calm even though everyone was panicking.",
+        "She stayed calm though everyone was panicking.",
+      ],
+    },
+    {
+      id: 92,
+      question: "I will go shopping. I finish my homework.",
+      answer: [
+        "I will go shopping provided that I finish my homework.",
+        "I will go shopping as long as I finish my homework.",
+      ],
+    },
+    {
+      id: 93,
+      question: "He went to the doctor. He felt very ill.",
+      answer: [
+        "He went to the doctor because he felt very ill.",
+        "He went to the doctor as he felt very ill.",
+        "He went to the doctor since he felt very ill.",
+      ],
+    },
+    {
+      id: 94,
+      question: "She closed the door. The wind was strong.",
+      answer: [
+        "She closed the door because the wind was strong.",
+        "She closed the door as the wind was strong.",
+        "She closed the door since the wind was strong.",
+      ],
+    },
+    {
+      id: 95,
+      question: "He whispered. The baby was sleeping.",
+      answer: [
+        "He whispered so that the baby wouldn’t wake up.",
+        "He whispered in order that the baby wouldn’t wake up.",
+      ],
+    },
+    {
+      id: 96,
+      question: "She packed her bag. She was leaving for the trip.",
+      answer: [
+        "She packed her bag because she was leaving for the trip.",
+        "She packed her bag as she was leaving for the trip.",
+        "She packed her bag since she was leaving for the trip.",
+      ],
+    },
+    {
+      id: 97,
+      question: "He couldn’t attend the meeting. He had a prior engagement.",
+      answer: [
+        "He couldn’t attend the meeting because he had a prior engagement.",
+        "He couldn’t attend the meeting as he had a prior engagement.",
+        "He couldn’t attend the meeting since he had a prior engagement.",
+      ],
+    },
+    {
+      id: 98,
+      question: "They cheered. Their team scored a goal.",
+      answer: [
+        "They cheered when their team scored a goal.",
+        "They cheered as their team scored a goal.",
+        "They cheered while their team scored a goal.",
+      ],
+    },
+    {
+      id: 99,
+      question: "She felt relieved. The exam was over.",
+      answer: [
+        "She felt relieved because the exam was over.",
+        "She felt relieved as the exam was over.",
+        "She felt relieved since the exam was over.",
+      ],
+    },
+    {
+      id: 100,
+      question: "He finished the race. He was exhausted.",
+      answer: [
+        "He finished the race although he was exhausted.",
+        "He finished the race even though he was exhausted.",
+        "He finished the race though he was exhausted.",
+      ],
+    },
+  ],
 };
 
 const selectUnits: selectType[] = [
