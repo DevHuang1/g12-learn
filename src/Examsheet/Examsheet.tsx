@@ -49,7 +49,11 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
     setSubmitted(true);
   };
   const checkKey = () => {
-    setShowKey(true);
+    if (!showKey) {
+      setShowKey(true);
+    } else {
+      setShowKey(false);
+    }
   };
 
   return (
@@ -107,7 +111,7 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
               Score: {score}/{questions.length}
             </p>
           )}
-          <button onClick={checkKey}>check keys</button>
+          <button onClick={checkKey}>check/hide keys</button>
           {showKey && (
             <div className="answerKey">
               <p>Answer Key</p>
