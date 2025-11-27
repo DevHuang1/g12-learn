@@ -5356,20 +5356,20 @@ const quesDB: QuesDB = {
     {
       id: 9,
       question:
-        "She felt (A. embarrassed about, B. good at, C. afraid of) forgetting the lines during the performance.",
-      answer: ["A"],
+        "She felt (A. good at , B. embarrassed about, C. afraid of) forgetting the lines during the performance.",
+      answer: ["B"],
     },
     {
       id: 10,
       question:
-        "The scientist was (A. fascinated by, B. worried about, C. pleased with) the new discovery.",
-      answer: ["A"],
+        "The scientist was (A. worried about, B. fascinated by, C. pleased with) the new discovery.",
+      answer: ["B"],
     },
     {
       id: 11,
       question:
-        "He is (A. keen on, B. tired of, C. afraid of) learning new languages.",
-      answer: ["A"],
+        "He is (A. afraid of, B. tired of, C. keen on) learning new languages.",
+      answer: ["C"],
     },
     {
       id: 12,
@@ -5380,8 +5380,8 @@ const quesDB: QuesDB = {
     {
       id: 13,
       question:
-        "She is (A. interested in, B. afraid of, C. good at) the new course.",
-      answer: ["A"],
+        "She is (A. afraid of, B. interested in, C. good at) the new course.",
+      answer: ["B"],
     },
     {
       id: 14,
@@ -5417,13 +5417,13 @@ const quesDB: QuesDB = {
       id: 19,
       question:
         "He is (A. responsible for, B. jealous of, C. good at) managing the team efficiently.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 20,
       question:
         "She is (A. afraid of, B. famous for, C. interested in) speaking in public.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 21,
@@ -5435,19 +5435,19 @@ const quesDB: QuesDB = {
       id: 22,
       question:
         "The students were (A. tired of, B. fascinated by, C. jealous of) the long lecture.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 23,
       question:
         "She is (A. satisfied with, B. afraid of, C. excited about) her exam results.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 24,
       question:
         "The actor is (A. famous for, B. worried about, C. pleased with) his humanitarian work.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 25,
@@ -5459,13 +5459,13 @@ const quesDB: QuesDB = {
       id: 26,
       question:
         "The teacher is (A. proud of, B. fascinated by, C. tired of) the students’ improvements.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 27,
       question:
         "She felt (A. embarrassed about, B. excited about, C. pleased with) forgetting her lines.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 28,
@@ -5489,13 +5489,13 @@ const quesDB: QuesDB = {
       id: 31,
       question:
         "The child is (A. afraid of, B. excited about, C. pleased with) the dark room.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 32,
       question:
         "He was (A. tired of, B. fascinated by, C. interested in) waiting in line.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 33,
@@ -5507,13 +5507,13 @@ const quesDB: QuesDB = {
       id: 34,
       question:
         "They were (A. excited about, B. responsible for, C. pleased with) the holiday trip.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 35,
       question:
         "He felt (A. embarrassed about, B. fascinated by, C. interested in) the mistake he made.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 36,
@@ -5525,7 +5525,7 @@ const quesDB: QuesDB = {
       id: 37,
       question:
         "He is (A. responsible for, B. jealous of, C. excited about) managing the project.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 38,
@@ -5537,19 +5537,19 @@ const quesDB: QuesDB = {
       id: 39,
       question:
         "She is (A. worried about, B. proud of, C. interested in) her friend’s health.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 40,
       question:
         "He is (A. excited about, B. fascinated by, C. tired of) the new technology.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 41,
       question:
         "They were (A. jealous of, B. proud of, C. fascinated by) their colleague’s achievements.",
-      answer: ["B"],
+      answer: ["C"],
     },
     {
       id: 42,
@@ -5567,19 +5567,19 @@ const quesDB: QuesDB = {
       id: 44,
       question:
         "The teacher was (A. proud of, B. excited about, C. jealous of) the students’ performance.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 45,
       question:
         "She is (A. fascinated by, B. responsible for, C. tired of) classical music.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 46,
       question:
         "He is (A. afraid of, B. satisfied with, C. jealous of) making mistakes.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 47,
@@ -5591,31 +5591,31 @@ const quesDB: QuesDB = {
       id: 48,
       question:
         "She is (A. pleased with, B. fascinated by, C. jealous of) the final project.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 49,
       question:
         "He is (A. interested in, B. tired of, C. worried about) the new course.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 50,
       question:
         "The child felt (A. afraid of, B. proud of, C. fascinated by) the thunderstorm.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 51,
       question:
         "He is (A. responsible for, B. fascinated by, C. excited about) coordinating the event.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 52,
       question:
         "She felt (A. embarrassed about, B. pleased with, C. jealous of) the wrong answer she gave.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 53,
@@ -5627,7 +5627,7 @@ const quesDB: QuesDB = {
       id: 54,
       question:
         "He is (A. worried about, B. interested in, C. jealous of) his health condition.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 55,
@@ -5639,7 +5639,7 @@ const quesDB: QuesDB = {
       id: 56,
       question:
         "The students were (A. proud of, B. jealous of, C. fascinated by) their science projects.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 57,
@@ -5657,7 +5657,7 @@ const quesDB: QuesDB = {
       id: 59,
       question:
         "He is (A. good at, B. pleased with, C. fascinated by) solving complex problems.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 60,
@@ -5669,13 +5669,13 @@ const quesDB: QuesDB = {
       id: 61,
       question:
         "She is (A. pleased with, B. fascinated by, C. afraid of) the completed presentation.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 62,
       question:
         "He is (A. responsible for, B. jealous of, C. interested in) the office accounts.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 63,
@@ -5687,25 +5687,25 @@ const quesDB: QuesDB = {
       id: 64,
       question:
         "She is (A. afraid of, B. pleased with, C. excited about) the storm outside.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 65,
       question:
         "He is (A. proud of, B. fascinated by, C. tired of) his daughter’s painting.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 66,
       question:
         "They were (A. tired of, B. interested in, C. jealous of) the noisy neighbors.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 67,
       question:
         "She felt (A. embarrassed about, B. fascinated by, C. worried about) forgetting her speech.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 68,
@@ -5717,7 +5717,7 @@ const quesDB: QuesDB = {
       id: 69,
       question:
         "The teacher was (A. satisfied with, B. fascinated by, C. afraid of) the students’ answers.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 70,
@@ -5729,7 +5729,7 @@ const quesDB: QuesDB = {
       id: 71,
       question:
         "He felt (A. afraid of, B. pleased with, C. excited about) the challenging climb.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 72,
@@ -5741,7 +5741,7 @@ const quesDB: QuesDB = {
       id: 73,
       question:
         "She is (A. interested in, B. fascinated by, C. afraid of) reading scientific journals.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 74,
@@ -5753,7 +5753,7 @@ const quesDB: QuesDB = {
       id: 75,
       question:
         "They were (A. excited about, B. proud of, C. tired of) the weekend trip.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 76,
@@ -5765,25 +5765,25 @@ const quesDB: QuesDB = {
       id: 77,
       question:
         "He is (A. responsible for, B. jealous of, C. interested in) maintaining the garden.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 78,
       question:
         "The audience was (A. fascinated by, B. tired of, C. worried about) the speech.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 79,
       question:
         "She is (A. afraid of, B. pleased with, C. excited about) speaking in front of a crowd.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 80,
       question:
         "He is (A. proud of, B. fascinated by, C. tired of) his team’s achievements.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 81,
@@ -5795,13 +5795,13 @@ const quesDB: QuesDB = {
       id: 82,
       question:
         "She is (A. pleased with, B. fascinated by, C. afraid of) the art exhibition.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 83,
       question:
         "He is (A. good at, B. jealous of, C. responsible for) chess tournaments.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 84,
@@ -5813,13 +5813,13 @@ const quesDB: QuesDB = {
       id: 85,
       question:
         "She is (A. fascinated by, B. responsible for, C. tired of) wildlife documentaries.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 86,
       question:
         "He felt (A. embarrassed about, B. excited about, C. pleased with) forgetting his lines.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 87,
@@ -5837,25 +5837,25 @@ const quesDB: QuesDB = {
       id: 89,
       question:
         "He is (A. worried about, B. fascinated by, C. tired of) the upcoming exams.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 90,
       question:
         "They were (A. excited about, B. proud of, C. afraid of) the award ceremony.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 91,
       question:
         "She is (A. pleased with, B. fascinated by, C. jealous of) her performance.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 92,
       question:
         "He is (A. responsible for, B. interested in, C. afraid of) organizing the conference.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 93,
@@ -5867,37 +5867,37 @@ const quesDB: QuesDB = {
       id: 94,
       question:
         "She is (A. afraid of, B. pleased with, C. excited about) the dark alley.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 95,
       question:
         "He is (A. proud of, B. fascinated by, C. tired of) his students’ progress.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 96,
       question:
         "They were (A. tired of, B. interested in, C. excited about) waiting for the bus.",
-      answer: ["C"],
+      answer: ["B"],
     },
     {
       id: 97,
       question:
         "She is (A. pleased with, B. fascinated by, C. afraid of) her team’s success.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 98,
       question:
         "He is (A. good at, B. jealous of, C. fascinated by) solving riddles.",
-      answer: ["A"],
+      answer: ["B"],
     },
     {
       id: 99,
       question:
         "The teacher was (A. satisfied with, B. fascinated by, C. afraid of) the class participation.",
-      answer: ["A"],
+      answer: ["C"],
     },
     {
       id: 100,
