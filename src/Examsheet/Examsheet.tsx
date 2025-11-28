@@ -1,6 +1,14 @@
 import { useEffect, useState } from "react";
 import db from "../db/data";
 import "./Examsheet.css";
+function normalizeAnswer(text: string): string {
+  return text
+    .trim()
+    .replace(/\s+([.,!?;:])/g, "$1")
+    .replace(/([.,!?;:])(?=\S)/g, "$1 ")
+    .replace(/\s+/g, " ")
+    .toLowerCase();
+}
 
 interface MyComponentProps {
   lesson: string;
@@ -41,7 +49,10 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
     selectedDB.forEach((s) => {
       const userAnswer = (inputAnswers[s.id] || "").trim();
       const answers = Array.isArray(s.answer) ? s.answer : [s.answer];
-      if (answers.includes(userAnswer)) {
+      const normalizedUser = normalizeAnswer(userAnswer);
+      const normalizedAnswers = answers.map((a) => normalizeAnswer(a));
+
+      if (normalizedAnswers.includes(normalizedUser)) {
         correct += 1;
       }
     });
@@ -84,7 +95,13 @@ const Examsheet: React.FC<MyComponentProps> = ({ lesson }) => {
                 const correctAnswers = Array.isArray(q.answer)
                   ? q.answer
                   : [q.answer];
-                const correct = correctAnswers.includes(userAnswer.trim());
+                const normalizedUser = normalizeAnswer(userAnswer);
+                const normalizedCorrect = correctAnswers.map((a) =>
+                  normalizeAnswer(a)
+                );
+                const correct =
+                  submitted && normalizedCorrect.includes(normalizedUser);
+
                 const className = submitted
                   ? correct
                     ? "correct"
