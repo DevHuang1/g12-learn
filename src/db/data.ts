@@ -9749,6 +9749,806 @@ const quesDB: QuesDB = {
       ],
     },
   ],
+  Conditionals: [
+    {
+      id: 1,
+      question: "I want to phone him, but I don't know his phone number.",
+      answer: [
+        "If I knew his phone number, I would phone him.",
+        "I would phone him if I knew his phone number",
+      ],
+    },
+    {
+      id: 2,
+      question: "She didn't study last night, so she is nervous now.",
+      answer: [
+        "If she had studied last night, she wouldn't be nervous now.",
+        "She wouldn't be nervous now if she had studied last night",
+      ],
+    },
+    {
+      id: 3,
+      question: "It rains when the temperature drops below zero.",
+      answer: [
+        "If the temperature drops below zero, it rains.",
+        "It rains if the temperature drops below zero",
+      ],
+    },
+    {
+      id: 4,
+      question: "He is tired today because he worked late yesterday.",
+      answer: [
+        "If he hadn't worked late yesterday, he wouldn't be tired today.",
+        "He wouldn't be tired today if he hadn't worked late yesterday",
+      ],
+    },
+    {
+      id: 5,
+      question: "I don't have time now, so I can't help you.",
+      answer: [
+        "If I had time now, I could help you.",
+        "I could help you if I had time now",
+      ],
+    },
+    {
+      id: 6,
+      question: "She didn't wake up early, so she missed the bus.",
+      answer: [
+        "If she had woken up early, she wouldn't have missed the bus.",
+        "She wouldn't have missed the bus if she had woken up early",
+      ],
+    },
+    {
+      id: 7,
+      question: "He never saves money, so he doesn't have any now.",
+      answer: [
+        "If he saved money, he would have some now.",
+        "He would have some now if he saved money",
+      ],
+    },
+    {
+      id: 8,
+      question: "I didn’t charge my phone, so it died.",
+      answer: [
+        "If I had charged my phone, it wouldn't have died.",
+        "It wouldn't have died if I had charged my phone",
+      ],
+    },
+    {
+      id: 9,
+      question: "You touch fire, and you get burned.",
+      answer: [
+        "If you touch fire, you get burned.",
+        "You get burned if you touch fire",
+      ],
+    },
+    {
+      id: 10,
+      question: "He didn’t eat breakfast, so he is hungry now.",
+      answer: [
+        "If he had eaten breakfast, he wouldn't be hungry now.",
+        "He wouldn't be hungry now if he had eaten breakfast",
+      ],
+    },
+    {
+      id: 11,
+      question: "She practices a lot, so she will improve.",
+      answer: [
+        "If she practices a lot, she will improve.",
+        "She will improve if she practices a lot",
+      ],
+    },
+    {
+      id: 12,
+      question: "I didn’t see the sign, so I took the wrong road.",
+      answer: [
+        "If I had seen the sign, I wouldn't have taken the wrong road.",
+        "I wouldn't have taken the wrong road if I had seen the sign",
+      ],
+    },
+    {
+      id: 13,
+      question: "He is weak because he never exercises.",
+      answer: [
+        "If he exercised, he would be stronger.",
+        "He would be stronger if he exercised",
+      ],
+    },
+    {
+      id: 14,
+      question: "She left early, so she arrived on time.",
+      answer: [
+        "If she leaves early, she arrives on time.",
+        "She arrives on time if she leaves early",
+      ],
+    },
+    {
+      id: 15,
+      question: "We didn't book a table, so we couldn't get a seat.",
+      answer: [
+        "If we had booked a table, we could have gotten a seat.",
+        "We could have gotten a seat if we had booked a table",
+      ],
+    },
+    {
+      id: 16,
+      question: "The alarm didn’t ring, so he woke up late.",
+      answer: [
+        "If the alarm had rung, he wouldn't have woken up late.",
+        "He wouldn't have woken up late if the alarm had rung",
+      ],
+    },
+    {
+      id: 17,
+      question:
+        "He doesn't know English well, so he can't understand the movie.",
+      answer: [
+        "If he knew English well, he could understand the movie.",
+        "He could understand the movie if he knew English well",
+      ],
+    },
+    {
+      id: 18,
+      question: "She arrived early, but the office wasn't open.",
+      answer: [
+        "If the office had been open, she wouldn't have waited.",
+        "She wouldn't have waited if the office had been open",
+      ],
+    },
+    {
+      id: 19,
+      question: "The road is slippery because it snowed last night.",
+      answer: [
+        "If it hadn't snowed last night, the road wouldn't be slippery.",
+        "The road wouldn't be slippery if it hadn't snowed last night",
+      ],
+    },
+    {
+      id: 20,
+      question: "I always forget my keys, so I often get locked out.",
+      answer: [
+        "If I forget my keys, I get locked out.",
+        "I get locked out if I forget my keys",
+      ],
+    },
+    {
+      id: 21,
+      question: "He didn’t listen carefully, so he made a mistake.",
+      answer: [
+        "If he had listened carefully, he wouldn't have made a mistake.",
+        "He wouldn't have made a mistake if he had listened carefully",
+      ],
+    },
+    {
+      id: 22,
+      question: "She is sad now because her friend moved away.",
+      answer: [
+        "If her friend hadn't moved away, she wouldn't be sad now.",
+        "She wouldn't be sad now if her friend hadn't moved away",
+      ],
+    },
+    {
+      id: 23,
+      question: "I need money, but I don’t have a job.",
+      answer: [
+        "If I had a job, I would have money.",
+        "I would have money if I had a job",
+      ],
+    },
+    {
+      id: 24,
+      question: "He drove too fast, so he got a ticket.",
+      answer: [
+        "If he hadn't driven too fast, he wouldn't have gotten a ticket.",
+        "He wouldn't have gotten a ticket if he hadn't driven too fast",
+      ],
+    },
+    {
+      id: 25,
+      question: "She will fail because she never does her homework.",
+      answer: [
+        "If she never does her homework, she will fail.",
+        "She will fail if she never does her homework",
+      ],
+    },
+    {
+      id: 26,
+      question: "I forgot my wallet, so I couldn’t buy lunch.",
+      answer: [
+        "If I had brought my wallet, I could have bought lunch.",
+        "I could have bought lunch if I had brought my wallet",
+      ],
+    },
+    {
+      id: 27,
+      question: "He is bored now because he finished all his work early.",
+      answer: [
+        "If he hadn't finished all his work early, he wouldn't be bored now.",
+        "He wouldn't be bored now if he hadn't finished all his work early",
+      ],
+    },
+    {
+      id: 28,
+      question: "You heat ice, and it melts.",
+      answer: ["If you heat ice, it melts.", "It melts if you heat ice"],
+    },
+    {
+      id: 29,
+      question: "She didn't lock the door, so the dog ran out.",
+      answer: [
+        "If she had locked the door, the dog wouldn't have run out.",
+        "The dog wouldn't have run out if she had locked the door",
+      ],
+    },
+    {
+      id: 30,
+      question: "He is confused because he didn’t read the instructions.",
+      answer: [
+        "If he had read the instructions, he wouldn't be confused now.",
+        "He wouldn't be confused now if he had read the instructions",
+      ],
+    },
+    {
+      id: 31,
+      question: "I didn't take the job, so I am not living abroad now.",
+      answer: [
+        "If I had taken the job, I would be living abroad now.",
+        "I would be living abroad now if I had taken the job",
+      ],
+    },
+    {
+      id: 32,
+      question: "She doesn’t eat vegetables, so she isn’t healthy.",
+      answer: [
+        "If she ate vegetables, she would be healthier.",
+        "She would be healthier if she ate vegetables",
+      ],
+    },
+    {
+      id: 33,
+      question: "We didn’t leave early, so we missed the train.",
+      answer: [
+        "If we had left early, we wouldn't have missed the train.",
+        "We wouldn't have missed the train if we had left early",
+      ],
+    },
+    {
+      id: 34,
+      question: "He stayed up late, so he is sleepy now.",
+      answer: [
+        "If he hadn't stayed up late, he wouldn't be sleepy now.",
+        "He wouldn't be sleepy now if he hadn't stayed up late",
+      ],
+    },
+    {
+      id: 35,
+      question: "You don't water plants, and they die.",
+      answer: [
+        "If you don't water plants, they die.",
+        "They die if you don't water plants",
+      ],
+    },
+    {
+      id: 36,
+      question: "She didn’t check the weather, so she got caught in the rain.",
+      answer: [
+        "If she had checked the weather, she wouldn't have gotten wet.",
+        "She wouldn't have gotten wet if she had checked the weather",
+      ],
+    },
+    {
+      id: 37,
+      question: "He is angry now because she forgot his birthday.",
+      answer: [
+        "If she hadn't forgotten his birthday, he wouldn't be angry now.",
+        "He wouldn't be angry now if she hadn't forgotten his birthday",
+      ],
+    },
+    {
+      id: 38,
+      question: "I can’t understand him because he speaks too fast.",
+      answer: [
+        "If he spoke more slowly, I could understand him.",
+        "I could understand him if he spoke more slowly",
+      ],
+    },
+    {
+      id: 39,
+      question: "They arrived late, so they missed the beginning.",
+      answer: [
+        "If they hadn't arrived late, they wouldn't have missed the beginning.",
+        "They wouldn't have missed the beginning if they hadn't arrived late",
+      ],
+    },
+    {
+      id: 40,
+      question: "He doesn’t have his glasses, so he can’t read the sign.",
+      answer: [
+        "If he had his glasses, he could read the sign.",
+        "He could read the sign if he had his glasses",
+      ],
+    },
+    {
+      id: 41,
+      question: "The dog barked all night, so I couldn’t sleep.",
+      answer: [
+        "If the dog hadn't barked all night, I could have slept.",
+        "I could have slept if the dog hadn't barked all night",
+      ],
+    },
+    {
+      id: 42,
+      question: "She didn’t water the garden, so the flowers died.",
+      answer: [
+        "If she had watered the garden, the flowers wouldn't have died.",
+        "The flowers wouldn't have died if she had watered the garden",
+      ],
+    },
+    {
+      id: 43,
+      question: "He studies every day, so he always gets good grades.",
+      answer: [
+        "If he studies every day, he gets good grades.",
+        "He gets good grades if he studies every day",
+      ],
+    },
+    {
+      id: 44,
+      question: "I spilled my drink because I wasn’t holding it tightly.",
+      answer: [
+        "If I had held it tightly, I wouldn't have spilled it.",
+        "I wouldn't have spilled it if I had held it tightly",
+      ],
+    },
+    {
+      id: 45,
+      question: "She didn’t save the file, so she lost her work.",
+      answer: [
+        "If she had saved the file, she wouldn't have lost her work.",
+        "She wouldn't have lost her work if she had saved the file",
+      ],
+    },
+    {
+      id: 46,
+      question: "He didn’t rest yesterday, so he is sick today.",
+      answer: [
+        "If he had rested yesterday, he wouldn't be sick today.",
+        "He wouldn't be sick today if he had rested yesterday",
+      ],
+    },
+    {
+      id: 47,
+      question: "She works hard, so she will succeed.",
+      answer: [
+        "If she works hard, she will succeed.",
+        "She will succeed if she works hard",
+      ],
+    },
+    {
+      id: 48,
+      question: "I didn’t bring my jacket, so I’m cold now.",
+      answer: [
+        "If I had brought my jacket, I wouldn't be cold now.",
+        "I wouldn't be cold now if I had brought my jacket",
+      ],
+    },
+    {
+      id: 49,
+      question: "He didn’t hear the alarm, so he arrived late.",
+      answer: [
+        "If he had heard the alarm, he wouldn't have arrived late.",
+        "He wouldn't have arrived late if he had heard the alarm",
+      ],
+    },
+    {
+      id: 50,
+      question: "She doesn’t like reading, so she never buys books.",
+      answer: [
+        "If she liked reading, she would buy books.",
+        "She would buy books if she liked reading",
+      ],
+    },
+    {
+      id: 51,
+      question: "He didn’t save any money, so he can’t buy a new phone now.",
+      answer: [
+        "If he had saved money, he could buy a new phone now.",
+        "He could buy a new phone now if he had saved money",
+      ],
+    },
+    {
+      id: 52,
+      question: "She feels sick now because she ate too much cake.",
+      answer: [
+        "If she hadn't eaten so much cake, she wouldn't feel sick now.",
+        "She wouldn't feel sick now if she hadn't eaten so much cake",
+      ],
+    },
+    {
+      id: 53,
+      question: "The shop closes at 6, so we can’t go now.",
+      answer: [
+        "If the shop didn't close at 6, we could go now.",
+        "We could go now if the shop didn't close at 6",
+      ],
+    },
+    {
+      id: 54,
+      question: "He left the window open, so the room got cold.",
+      answer: [
+        "If he had closed the window, the room wouldn't have gotten cold.",
+        "The room wouldn't have gotten cold if he had closed the window",
+      ],
+    },
+    {
+      id: 55,
+      question: "She doesn’t study enough, so she won’t pass the exam.",
+      answer: [
+        "If she studied enough, she would pass the exam.",
+        "She would pass the exam if she studied enough",
+      ],
+    },
+    {
+      id: 56,
+      question: "We missed the last bus, so we had to walk home.",
+      answer: [
+        "If we hadn't missed the last bus, we wouldn't have walked home.",
+        "We wouldn't have walked home if we hadn't missed the last bus",
+      ],
+    },
+    {
+      id: 57,
+      question: "He didn’t bring an umbrella, so he got wet.",
+      answer: [
+        "If he had brought an umbrella, he wouldn't have gotten wet.",
+        "He wouldn't have gotten wet if he had brought an umbrella",
+      ],
+    },
+    {
+      id: 58,
+      question: "She is confident today because she practiced a lot yesterday.",
+      answer: [
+        "If she hadn't practiced a lot yesterday, she wouldn't be confident today.",
+        "She wouldn't be confident today if she hadn't practiced a lot yesterday",
+      ],
+    },
+    {
+      id: 59,
+      question: "You don’t exercise, so you aren’t strong.",
+      answer: [
+        "If you exercised, you would be stronger.",
+        "You would be stronger if you exercised",
+      ],
+    },
+    {
+      id: 60,
+      question: "He stayed home yesterday because he felt sick.",
+      answer: [
+        "If he hadn't felt sick, he wouldn't have stayed home.",
+        "He wouldn't have stayed home if he hadn't felt sick",
+      ],
+    },
+    {
+      id: 61,
+      question: "I can’t call you because my phone is dead.",
+      answer: [
+        "If my phone weren't dead, I could call you.",
+        "I could call you if my phone weren't dead",
+      ],
+    },
+    {
+      id: 62,
+      question: "She forgot her keys, so she couldn’t open the door.",
+      answer: [
+        "If she had brought her keys, she could have opened the door.",
+        "She could have opened the door if she had brought her keys",
+      ],
+    },
+    {
+      id: 63,
+      question: "He is sleepy now because he didn’t rest properly.",
+      answer: [
+        "If he had rested properly, he wouldn't be sleepy now.",
+        "He wouldn't be sleepy now if he had rested properly",
+      ],
+    },
+    {
+      id: 64,
+      question: "The dog ran away because you didn’t close the gate.",
+      answer: [
+        "If you had closed the gate, the dog wouldn't have run away.",
+        "The dog wouldn't have run away if you had closed the gate",
+      ],
+    },
+    {
+      id: 65,
+      question: "She works slowly, so she never finishes on time.",
+      answer: [
+        "If she worked faster, she would finish on time.",
+        "She would finish on time if she worked faster",
+      ],
+    },
+    {
+      id: 66,
+      question: "He lost his wallet because he wasn’t careful.",
+      answer: [
+        "If he had been careful, he wouldn't have lost his wallet.",
+        "He wouldn't have lost his wallet if he had been careful",
+      ],
+    },
+    {
+      id: 67,
+      question: "They didn’t check the map, so they got lost.",
+      answer: [
+        "If they had checked the map, they wouldn't have gotten lost.",
+        "They wouldn't have gotten lost if they had checked the map",
+      ],
+    },
+    {
+      id: 68,
+      question: "The machine stops when you press this button.",
+      answer: [
+        "If you press this button, the machine stops.",
+        "The machine stops if you press this button",
+      ],
+    },
+    {
+      id: 69,
+      question: "She didn’t turn off the stove, so the soup burned.",
+      answer: [
+        "If she had turned off the stove, the soup wouldn't have burned.",
+        "The soup wouldn't have burned if she had turned off the stove",
+      ],
+    },
+    {
+      id: 70,
+      question: "He is unhappy now because he made a bad decision.",
+      answer: [
+        "If he hadn't made a bad decision, he wouldn't be unhappy now.",
+        "He wouldn't be unhappy now if he hadn't made a bad decision",
+      ],
+    },
+    {
+      id: 71,
+      question: "The weather is cold because the wind is strong.",
+      answer: [
+        "If the wind weren't strong, the weather wouldn't be cold.",
+        "The weather wouldn't be cold if the wind weren't strong",
+      ],
+    },
+    {
+      id: 72,
+      question: "She didn’t bring her glasses, so she can’t read the menu.",
+      answer: [
+        "If she had brought her glasses, she could read the menu.",
+        "She could read the menu if she had brought her glasses",
+      ],
+    },
+    {
+      id: 73,
+      question: "I missed the meeting because my alarm didn’t ring.",
+      answer: [
+        "If my alarm had rung, I wouldn't have missed the meeting.",
+        "I wouldn't have missed the meeting if my alarm had rung",
+      ],
+    },
+    {
+      id: 74,
+      question: "He speaks too quietly, so I can’t hear him.",
+      answer: [
+        "If he spoke louder, I could hear him.",
+        "I could hear him if he spoke louder",
+      ],
+    },
+    {
+      id: 75,
+      question: "She didn’t take the medicine, so she didn’t get better.",
+      answer: [
+        "If she had taken the medicine, she would have gotten better.",
+        "She would have gotten better if she had taken the medicine",
+      ],
+    },
+    {
+      id: 76,
+      question: "They left early, so they avoided traffic.",
+      answer: [
+        "If they leave early, they avoid traffic.",
+        "They avoid traffic if they leave early",
+      ],
+    },
+    {
+      id: 77,
+      question: "He forgot to send the email, so the project was delayed.",
+      answer: [
+        "If he had sent the email, the project wouldn't have been delayed.",
+        "The project wouldn't have been delayed if he had sent the email",
+      ],
+    },
+    {
+      id: 78,
+      question: "She is cold because she didn’t bring a jacket.",
+      answer: [
+        "If she had brought a jacket, she wouldn't be cold now.",
+        "She wouldn't be cold now if she had brought a jacket",
+      ],
+    },
+    {
+      id: 79,
+      question: "You don’t sleep enough, so you feel tired every day.",
+      answer: [
+        "If you slept enough, you would feel better.",
+        "You would feel better if you slept enough",
+      ],
+    },
+    {
+      id: 80,
+      question: "I can’t concentrate because it is too noisy.",
+      answer: [
+        "If it weren't so noisy, I could concentrate.",
+        "I could concentrate if it weren't so noisy",
+      ],
+    },
+    {
+      id: 81,
+      question: "She didn’t save the file, so she had to start again.",
+      answer: [
+        "If she had saved the file, she wouldn't have had to start again.",
+        "She wouldn't have had to start again if she had saved the file",
+      ],
+    },
+    {
+      id: 82,
+      question: "He didn’t call me, so I waited all night.",
+      answer: [
+        "If he had called me, I wouldn't have waited all night.",
+        "I wouldn't have waited all night if he had called me",
+      ],
+    },
+    {
+      id: 83,
+      question: "The water is dirty because it rained heavily.",
+      answer: [
+        "If it hadn't rained heavily, the water wouldn't be dirty.",
+        "The water wouldn't be dirty if it hadn't rained heavily",
+      ],
+    },
+    {
+      id: 84,
+      question: "She talks too fast, so I can’t understand her.",
+      answer: [
+        "If she spoke more slowly, I could understand her.",
+        "I could understand her if she spoke more slowly",
+      ],
+    },
+    {
+      id: 85,
+      question: "He was late because he didn’t check the schedule.",
+      answer: [
+        "If he had checked the schedule, he wouldn't have been late.",
+        "He wouldn't have been late if he had checked the schedule",
+      ],
+    },
+    {
+      id: 86,
+      question: "They didn’t bring food, so they got hungry.",
+      answer: [
+        "If they had brought food, they wouldn't have gotten hungry.",
+        "They wouldn't have gotten hungry if they had brought food",
+      ],
+    },
+    {
+      id: 87,
+      question: "The classroom is hot because the fans are off.",
+      answer: [
+        "If the fans were on, the classroom wouldn't be hot.",
+        "The classroom wouldn't be hot if the fans were on",
+      ],
+    },
+    {
+      id: 88,
+      question: "He didn’t study enough, so he can’t solve the problem.",
+      answer: [
+        "If he had studied enough, he could solve the problem.",
+        "He could solve the problem if he had studied enough",
+      ],
+    },
+    {
+      id: 89,
+      question: "She got lost because she didn’t follow the guide.",
+      answer: [
+        "If she had followed the guide, she wouldn't have gotten lost.",
+        "She wouldn't have gotten lost if she had followed the guide",
+      ],
+    },
+    {
+      id: 90,
+      question: "I’m stressed today because I worked too much yesterday.",
+      answer: [
+        "If I hadn't worked too much yesterday, I wouldn't be stressed today.",
+        "I wouldn't be stressed today if I hadn't worked too much yesterday",
+      ],
+    },
+    {
+      id: 91,
+      question: "He didn’t wear sunscreen, so he got sunburned.",
+      answer: [
+        "If he had worn sunscreen, he wouldn't have gotten sunburned.",
+        "He wouldn't have gotten sunburned if he had worn sunscreen",
+      ],
+    },
+    {
+      id: 92,
+      question: "She left the lights on, so the battery died.",
+      answer: [
+        "If she had turned off the lights, the battery wouldn't have died.",
+        "The battery wouldn't have died if she had turned off the lights",
+      ],
+    },
+    {
+      id: 93,
+      question: "You don’t study regularly, so you forget everything.",
+      answer: [
+        "If you study regularly, you don't forget everything.",
+        "You don't forget everything if you study regularly",
+      ],
+    },
+    {
+      id: 94,
+      question: "He arrived early, but the shop wasn’t open yet.",
+      answer: [
+        "If the shop had been open, he wouldn't have had to wait.",
+        "He wouldn't have had to wait if the shop had been open",
+      ],
+    },
+    {
+      id: 95,
+      question: "She didn’t bring lunch, so she had to buy food.",
+      answer: [
+        "If she had brought lunch, she wouldn't have had to buy food.",
+        "She wouldn't have had to buy food if she had brought lunch",
+      ],
+    },
+    {
+      id: 96,
+      question: "He is exhausted now because he worked all night.",
+      answer: [
+        "If he hadn't worked all night, he wouldn't be exhausted now.",
+        "He wouldn't be exhausted now if he hadn't worked all night",
+      ],
+    },
+    {
+      id: 97,
+      question: "They argued because they misunderstood each other.",
+      answer: [
+        "If they hadn't misunderstood each other, they wouldn't have argued.",
+        "They wouldn't have argued if they hadn't misunderstood each other",
+      ],
+    },
+    {
+      id: 98,
+      question: "I can’t log in because I forgot my password.",
+      answer: [
+        "If I hadn't forgotten my password, I could log in.",
+        "I could log in if I hadn't forgotten my password",
+      ],
+    },
+    {
+      id: 99,
+      question: "She took the wrong bus, so she arrived late.",
+      answer: [
+        "If she had taken the right bus, she wouldn't have arrived late.",
+        "She wouldn't have arrived late if she had taken the right bus",
+      ],
+    },
+    {
+      id: 100,
+      question: "He didn’t drink enough water, so he feels weak now.",
+      answer: [
+        "If he had drunk enough water, he wouldn't feel weak now.",
+        "He wouldn't feel weak now if he had drunk enough water",
+      ],
+    },
+  ],
 };
 
 const selectUnits: selectType[] = [
@@ -9790,7 +10590,7 @@ const selectUnits: selectType[] = [
   },
   {
     unit: "Unit8",
-    lessons: ["Energy collocations", "Conditionals"],
+    lessons: ["Conditionals"],
   },
   {
     unit: "Unit9",
