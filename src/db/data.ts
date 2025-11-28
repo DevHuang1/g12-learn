@@ -8878,6 +8878,877 @@ const quesDB: QuesDB = {
       answer: ["land"],
     },
   ],
+  "Cause and Effect": [
+    {
+      id: 1,
+      question:
+        "A tornado blew the roof off the house. The family had to find another place to live. (as a result)",
+      answer: [
+        "A tornado blew the roof off the house. As a result, the family had to find another place to live.",
+        "A tornado blew the roof off the house, as a result, the family had to find another place to live.",
+      ],
+    },
+    {
+      id: 2,
+      question:
+        "The factory released toxic chemicals into the river. Fish started dying. (because of)",
+      answer: [
+        "Because of the factory releasing toxic chemicals into the river, fish started dying.",
+        "Fish started dying because of the factory releasing toxic chemicals into the river.",
+      ],
+    },
+    {
+      id: 3,
+      question:
+        "Heavy rains flooded the streets. Traffic came to a standstill. (owing to)",
+      answer: [
+        "Traffic came to a standstill owing to the heavy rains flooding the streets.",
+        "Owing to the heavy rains flooding the streets, traffic came to a standstill.",
+      ],
+    },
+    {
+      id: 4,
+      question:
+        "She studied hard for the exam. She scored the highest marks. (as a result of)",
+      answer: [
+        "She scored the highest marks as a result of studying hard for the exam.",
+        "As a result of studying hard for the exam, she scored the highest marks.",
+      ],
+    },
+    {
+      id: 5,
+      question:
+        "The power outage lasted several hours. Many businesses suffered losses. (consequently)",
+      answer: [
+        "The power outage lasted several hours; consequently, many businesses suffered losses.",
+        "Many businesses suffered losses, consequently, because of the power outage lasting several hours.",
+      ],
+    },
+    {
+      id: 6,
+      question:
+        "He forgot his umbrella. He got soaked in the rain. (as a consequence)",
+      answer: [
+        "He forgot his umbrella; as a consequence, he got soaked in the rain.",
+        "As a consequence of forgetting his umbrella, he got soaked in the rain.",
+      ],
+    },
+    {
+      id: 7,
+      question:
+        "The city banned plastic bags. Pollution levels dropped. (as a result)",
+      answer: [
+        "The city banned plastic bags. As a result, pollution levels dropped.",
+        "Pollution levels dropped as a result of the city banning plastic bags.",
+      ],
+    },
+    {
+      id: 8,
+      question:
+        "Traffic was extremely heavy. He missed his appointment. (because)",
+      answer: [
+        "He missed his appointment because traffic was extremely heavy.",
+        "Because traffic was extremely heavy, he missed his appointment.",
+      ],
+    },
+    {
+      id: 9,
+      question:
+        "The storm destroyed the bridge. The village was cut off. (due to)",
+      answer: [
+        "The village was cut off due to the storm destroying the bridge.",
+        "Due to the storm destroying the bridge, the village was cut off.",
+      ],
+    },
+    {
+      id: 10,
+      question:
+        "The team worked late into the night. The project was completed on time. (as a result)",
+      answer: [
+        "The team worked late into the night. As a result, the project was completed on time.",
+        "As a result of working late into the night, the team completed the project on time.",
+      ],
+    },
+    {
+      id: 11,
+      question:
+        "The heavy snowfall blocked the roads. Deliveries were delayed. (because of)",
+      answer: [
+        "Deliveries were delayed because of the heavy snowfall blocking the roads.",
+        "Because of the heavy snowfall blocking the roads, deliveries were delayed.",
+      ],
+    },
+    {
+      id: 12,
+      question:
+        "The new law reduced taxes for small businesses. Many startups flourished. (as a result)",
+      answer: [
+        "The new law reduced taxes for small businesses. As a result, many startups flourished.",
+        "Many startups flourished as a result of the new law reducing taxes for small businesses.",
+      ],
+    },
+    {
+      id: 13,
+      question:
+        "He skipped breakfast. He felt tired before lunch. (as a consequence)",
+      answer: [
+        "He skipped breakfast; as a consequence, he felt tired before lunch.",
+        "As a consequence of skipping breakfast, he felt tired before lunch.",
+      ],
+    },
+    {
+      id: 14,
+      question: "The river overflowed. Several homes were damaged. (owing to)",
+      answer: [
+        "Several homes were damaged owing to the river overflowing.",
+        "Owing to the river overflowing, several homes were damaged.",
+      ],
+    },
+    {
+      id: 15,
+      question:
+        "The company improved its customer service. Sales increased. (consequently)",
+      answer: [
+        "The company improved its customer service; consequently, sales increased.",
+        "Sales increased, consequently, because the company improved its customer service.",
+      ],
+    },
+    {
+      id: 16,
+      question:
+        "The students missed several classes. They failed the exam. (as a result of)",
+      answer: [
+        "They failed the exam as a result of missing several classes.",
+        "As a result of missing several classes, the students failed the exam.",
+      ],
+    },
+    {
+      id: 17,
+      question:
+        "Heavy winds knocked down the trees. Power lines were disrupted. (because)",
+      answer: [
+        "Power lines were disrupted because heavy winds knocked down the trees.",
+        "Because heavy winds knocked down the trees, power lines were disrupted.",
+      ],
+    },
+    {
+      id: 18,
+      question:
+        "The road was under construction. The journey took longer than expected. (due to)",
+      answer: [
+        "The journey took longer than expected due to the road being under construction.",
+        "Due to the road being under construction, the journey took longer than expected.",
+      ],
+    },
+    {
+      id: 19,
+      question:
+        "The garden was watered daily. The flowers bloomed beautifully. (as a result)",
+      answer: [
+        "The garden was watered daily. As a result, the flowers bloomed beautifully.",
+        "As a result of watering the garden daily, the flowers bloomed beautifully.",
+      ],
+    },
+    {
+      id: 20,
+      question:
+        "He ignored the warning signs. The accident happened. (as a consequence)",
+      answer: [
+        "He ignored the warning signs; as a consequence, the accident happened.",
+        "As a consequence of ignoring the warning signs, the accident happened.",
+      ],
+    },
+    {
+      id: 21,
+      question:
+        "The school introduced new learning methods. Student engagement improved. (as a result of)",
+      answer: [
+        "Student engagement improved as a result of the school introducing new learning methods.",
+        "As a result of the school introducing new learning methods, student engagement improved.",
+      ],
+    },
+    {
+      id: 22,
+      question:
+        "The storm damaged the roof. The house leaked during the rain. (owing to)",
+      answer: [
+        "The house leaked during the rain owing to the storm damaging the roof.",
+        "Owing to the storm damaging the roof, the house leaked during the rain.",
+      ],
+    },
+    {
+      id: 23,
+      question:
+        "The artist painted a beautiful mural. The wall became famous. (as a result)",
+      answer: [
+        "The artist painted a beautiful mural. As a result, the wall became famous.",
+        "As a result of painting a beautiful mural, the wall became famous.",
+      ],
+    },
+    {
+      id: 24,
+      question:
+        "He didn’t sleep well. He performed poorly in the meeting. (because of)",
+      answer: [
+        "He performed poorly in the meeting because of not sleeping well.",
+        "Because of not sleeping well, he performed poorly in the meeting.",
+      ],
+    },
+    {
+      id: 25,
+      question:
+        "The heavy traffic delayed the bus. Passengers were late. (consequently)",
+      answer: [
+        "The heavy traffic delayed the bus; consequently, passengers were late.",
+        "Passengers were late, consequently, because the heavy traffic delayed the bus.",
+      ],
+    },
+    {
+      id: 26,
+      question:
+        "The medicine was effective. His health improved quickly. (as a result of)",
+      answer: [
+        "His health improved quickly as a result of the medicine being effective.",
+        "As a result of the medicine being effective, his health improved quickly.",
+      ],
+    },
+    {
+      id: 27,
+      question: "The road was icy. Cars skidded off the road. (because)",
+      answer: [
+        "Cars skidded off the road because the road was icy.",
+        "Because the road was icy, cars skidded off the road.",
+      ],
+    },
+    {
+      id: 28,
+      question:
+        "The manager gave clear instructions. The task was completed on time. (as a result)",
+      answer: [
+        "The manager gave clear instructions. As a result, the task was completed on time.",
+        "As a result of the manager giving clear instructions, the task was completed on time.",
+      ],
+    },
+    {
+      id: 29,
+      question:
+        "The factory emitted smoke. Nearby residents suffered health issues. (owing to)",
+      answer: [
+        "Nearby residents suffered health issues owing to the factory emitting smoke.",
+        "Owing to the factory emitting smoke, nearby residents suffered health issues.",
+      ],
+    },
+    {
+      id: 30,
+      question:
+        "The team trained hard. They won the championship. (as a consequence)",
+      answer: [
+        "The team trained hard; as a consequence, they won the championship.",
+        "As a consequence of training hard, the team won the championship.",
+      ],
+    },
+    {
+      id: 31,
+      question:
+        "The software had a bug. Many users were frustrated. (because of)",
+      answer: [
+        "Many users were frustrated because of the software having a bug.",
+        "Because of the software having a bug, many users were frustrated.",
+      ],
+    },
+    {
+      id: 32,
+      question: "The sun was too strong. The picnic was canceled. (due to)",
+      answer: [
+        "The picnic was canceled due to the sun being too strong.",
+        "Due to the sun being too strong, the picnic was canceled.",
+      ],
+    },
+    {
+      id: 33,
+      question:
+        "The company reduced prices. Customer satisfaction increased. (as a result)",
+      answer: [
+        "The company reduced prices. As a result, customer satisfaction increased.",
+        "As a result of reducing prices, customer satisfaction increased.",
+      ],
+    },
+    {
+      id: 34,
+      question:
+        "She ignored the safety instructions. She got injured. (as a consequence)",
+      answer: [
+        "She ignored the safety instructions; as a consequence, she got injured.",
+        "As a consequence of ignoring the safety instructions, she got injured.",
+      ],
+    },
+    {
+      id: 35,
+      question: "The river froze. The bridge was closed. (because)",
+      answer: [
+        "The bridge was closed because the river froze.",
+        "Because the river froze, the bridge was closed.",
+      ],
+    },
+    {
+      id: 36,
+      question: "He missed the bus. He was late for work. (as a result)",
+      answer: [
+        "He missed the bus. As a result, he was late for work.",
+        "As a result of missing the bus, he was late for work.",
+      ],
+    },
+    {
+      id: 37,
+      question:
+        "The policy changed. Employees had to update their records. (owing to)",
+      answer: [
+        "Employees had to update their records owing to the policy change.",
+        "Owing to the policy change, employees had to update their records.",
+      ],
+    },
+    {
+      id: 38,
+      question:
+        "The storm uprooted trees. Streets were blocked. (consequently)",
+      answer: [
+        "The storm uprooted trees; consequently, streets were blocked.",
+        "Streets were blocked, consequently, because the storm uprooted trees.",
+      ],
+    },
+    {
+      id: 39,
+      question:
+        "The team worked overtime. The project was finished early. (as a result of)",
+      answer: [
+        "The project was finished early as a result of the team working overtime.",
+        "As a result of the team working overtime, the project was finished early.",
+      ],
+    },
+    {
+      id: 40,
+      question:
+        "The students ignored instructions. Many mistakes were made. (because of)",
+      answer: [
+        "Many mistakes were made because of the students ignoring instructions.",
+        "Because of the students ignoring instructions, many mistakes were made.",
+      ],
+    },
+    {
+      id: 41,
+      question: "The storm caused flooding. Roads became impassable. (due to)",
+      answer: [
+        "Roads became impassable due to the storm causing flooding.",
+        "Due to the storm causing flooding, roads became impassable.",
+      ],
+    },
+    {
+      id: 42,
+      question:
+        "The team improved communication. Errors decreased. (as a result)",
+      answer: [
+        "The team improved communication. As a result, errors decreased.",
+        "As a result of improving communication, errors decreased.",
+      ],
+    },
+    {
+      id: 43,
+      question: "He left the door open. The dog ran away. (as a consequence)",
+      answer: [
+        "He left the door open; as a consequence, the dog ran away.",
+        "As a consequence of leaving the door open, the dog ran away.",
+      ],
+    },
+    {
+      id: 44,
+      question: "Heavy rains damaged crops. Farmers faced losses. (because)",
+      answer: [
+        "Farmers faced losses because heavy rains damaged crops.",
+        "Because heavy rains damaged crops, farmers faced losses.",
+      ],
+    },
+    {
+      id: 45,
+      question:
+        "The new software had a glitch. Productivity dropped. (owing to)",
+      answer: [
+        "Productivity dropped owing to the new software having a glitch.",
+        "Owing to the new software having a glitch, productivity dropped.",
+      ],
+    },
+    {
+      id: 46,
+      question: "He didn’t set an alarm. He missed the meeting. (as a result)",
+      answer: [
+        "He didn’t set an alarm. As a result, he missed the meeting.",
+        "As a result of not setting an alarm, he missed the meeting.",
+      ],
+    },
+    {
+      id: 47,
+      question:
+        "The factory closed temporarily. Workers lost income. (because of)",
+      answer: [
+        "Workers lost income because of the factory closing temporarily.",
+        "Because of the factory closing temporarily, workers lost income.",
+      ],
+    },
+    {
+      id: 48,
+      question:
+        "She studied regularly. She passed the exam with ease. (as a result of)",
+      answer: [
+        "She passed the exam with ease as a result of studying regularly.",
+        "As a result of studying regularly, she passed the exam with ease.",
+      ],
+    },
+    {
+      id: 49,
+      question:
+        "The fire alarm went off. Everyone evacuated the building. (consequently)",
+      answer: [
+        "The fire alarm went off; consequently, everyone evacuated the building.",
+        "Everyone evacuated the building, consequently, because the fire alarm went off.",
+      ],
+    },
+    {
+      id: 50,
+      question: "The shipment was delayed. Stores ran out of stock. (due to)",
+      answer: [
+        "Stores ran out of stock due to the shipment being delayed.",
+        "Due to the shipment being delayed, stores ran out of stock.",
+      ],
+    },
+    {
+      id: 51,
+      question:
+        "The city experienced heavy rainfall. Streets were flooded. (as a result)",
+      answer: [
+        "The city experienced heavy rainfall. As a result, streets were flooded.",
+        "As a result of the city experiencing heavy rainfall, streets were flooded.",
+      ],
+    },
+    {
+      id: 52,
+      question:
+        "The team failed to coordinate. The project fell behind schedule. (because of)",
+      answer: [
+        "The project fell behind schedule because of the team failing to coordinate.",
+        "Because of the team failing to coordinate, the project fell behind schedule.",
+      ],
+    },
+    {
+      id: 53,
+      question:
+        "He forgot to lock the door. The house was robbed. (as a consequence)",
+      answer: [
+        "He forgot to lock the door; as a consequence, the house was robbed.",
+        "As a consequence of forgetting to lock the door, the house was robbed.",
+      ],
+    },
+    {
+      id: 54,
+      question:
+        "The traffic lights malfunctioned. Accidents occurred at the intersection. (owing to)",
+      answer: [
+        "Accidents occurred at the intersection owing to the traffic lights malfunctioning.",
+        "Owing to the traffic lights malfunctioning, accidents occurred at the intersection.",
+      ],
+    },
+    {
+      id: 55,
+      question:
+        "The restaurant reduced prices. Customer visits increased. (consequently)",
+      answer: [
+        "The restaurant reduced prices; consequently, customer visits increased.",
+        "Customer visits increased, consequently, because the restaurant reduced prices.",
+      ],
+    },
+    {
+      id: 56,
+      question: "She didn’t water the plants. They wilted. (because of)",
+      answer: [
+        "The plants wilted because of her not watering them.",
+        "Because of her not watering the plants, they wilted.",
+      ],
+    },
+    {
+      id: 57,
+      question:
+        "The power outage lasted hours. Many businesses closed early. (as a result)",
+      answer: [
+        "The power outage lasted hours. As a result, many businesses closed early.",
+        "As a result of the power outage lasting hours, many businesses closed early.",
+      ],
+    },
+    {
+      id: 58,
+      question:
+        "The team improved efficiency. Deadlines were met. (as a consequence)",
+      answer: [
+        "The team improved efficiency; as a consequence, deadlines were met.",
+        "As a consequence of improving efficiency, the team met all deadlines.",
+      ],
+    },
+    {
+      id: 59,
+      question: "The phone fell into water. It stopped working. (because)",
+      answer: [
+        "The phone stopped working because it fell into water.",
+        "Because the phone fell into water, it stopped working.",
+      ],
+    },
+    {
+      id: 60,
+      question: "The government raised taxes. Citizens protested. (owing to)",
+      answer: [
+        "Citizens protested owing to the government raising taxes.",
+        "Owing to the government raising taxes, citizens protested.",
+      ],
+    },
+    {
+      id: 61,
+      question:
+        "The bakery used fresh ingredients. The bread tasted better. (as a result)",
+      answer: [
+        "The bakery used fresh ingredients. As a result, the bread tasted better.",
+        "As a result of using fresh ingredients, the bakery’s bread tasted better.",
+      ],
+    },
+    {
+      id: 62,
+      question:
+        "The airplane was delayed. Passengers missed connections. (because of)",
+      answer: [
+        "Passengers missed connections because of the airplane being delayed.",
+        "Because of the airplane being delayed, passengers missed connections.",
+      ],
+    },
+    {
+      id: 63,
+      question:
+        "The team didn’t follow instructions. Mistakes were made. (as a consequence)",
+      answer: [
+        "The team didn’t follow instructions; as a consequence, mistakes were made.",
+        "As a consequence of not following instructions, the team made mistakes.",
+      ],
+    },
+    {
+      id: 64,
+      question: "The software was outdated. Computers ran slowly. (due to)",
+      answer: [
+        "Computers ran slowly due to the software being outdated.",
+        "Due to the software being outdated, computers ran slowly.",
+      ],
+    },
+    {
+      id: 65,
+      question:
+        "She ignored the warning. The vase fell and broke. (as a result)",
+      answer: [
+        "She ignored the warning. As a result, the vase fell and broke.",
+        "As a result of ignoring the warning, the vase fell and broke.",
+      ],
+    },
+    {
+      id: 66,
+      question:
+        "The children played outside all day. They were exhausted. (because of)",
+      answer: [
+        "They were exhausted because of playing outside all day.",
+        "Because of playing outside all day, the children were exhausted.",
+      ],
+    },
+    {
+      id: 67,
+      question:
+        "The new policy was implemented. Productivity increased. (as a result of)",
+      answer: [
+        "Productivity increased as a result of the new policy being implemented.",
+        "As a result of implementing the new policy, productivity increased.",
+      ],
+    },
+    {
+      id: 68,
+      question:
+        "The team skipped rehearsal. The performance had errors. (consequently)",
+      answer: [
+        "The team skipped rehearsal; consequently, the performance had errors.",
+        "The performance had errors, consequently, because the team skipped rehearsal.",
+      ],
+    },
+    {
+      id: 69,
+      question: "The streets were icy. Traffic slowed down. (owing to)",
+      answer: [
+        "Traffic slowed down owing to the streets being icy.",
+        "Owing to the streets being icy, traffic slowed down.",
+      ],
+    },
+    {
+      id: 70,
+      question:
+        "The student didn’t submit homework. She received a warning. (as a consequence)",
+      answer: [
+        "The student didn’t submit homework; as a consequence, she received a warning.",
+        "As a consequence of not submitting homework, the student received a warning.",
+      ],
+    },
+    {
+      id: 71,
+      question: "The machine was faulty. Production halted. (because)",
+      answer: [
+        "Production halted because the machine was faulty.",
+        "Because the machine was faulty, production halted.",
+      ],
+    },
+    {
+      id: 72,
+      question:
+        "The teacher praised the student. He gained confidence. (as a result)",
+      answer: [
+        "The teacher praised the student. As a result, he gained confidence.",
+        "As a result of the teacher praising him, the student gained confidence.",
+      ],
+    },
+    {
+      id: 73,
+      question:
+        "The company upgraded its system. Errors decreased. (as a result of)",
+      answer: [
+        "Errors decreased as a result of the company upgrading its system.",
+        "As a result of upgrading its system, errors decreased.",
+      ],
+    },
+    {
+      id: 74,
+      question: "The wind was strong. The boat capsized. (because of)",
+      answer: [
+        "The boat capsized because of the strong wind.",
+        "Because of the strong wind, the boat capsized.",
+      ],
+    },
+    {
+      id: 75,
+      question:
+        "The students worked hard. They topped the class. (as a result)",
+      answer: [
+        "The students worked hard. As a result, they topped the class.",
+        "As a result of working hard, the students topped the class.",
+      ],
+    },
+    {
+      id: 76,
+      question: "The heater stopped working. The room became cold. (due to)",
+      answer: [
+        "The room became cold due to the heater stopping working.",
+        "Due to the heater stopping working, the room became cold.",
+      ],
+    },
+    {
+      id: 77,
+      question: "The roads were blocked. The delivery was late. (because of)",
+      answer: [
+        "The delivery was late because of the roads being blocked.",
+        "Because of the roads being blocked, the delivery was late.",
+      ],
+    },
+    {
+      id: 78,
+      question: "He studied hard. He passed the test. (as a result)",
+      answer: [
+        "He studied hard. As a result, he passed the test.",
+        "As a result of studying hard, he passed the test.",
+      ],
+    },
+    {
+      id: 79,
+      question: "The heater was broken. The water froze. (owing to)",
+      answer: [
+        "The water froze owing to the heater being broken.",
+        "Owing to the heater being broken, the water froze.",
+      ],
+    },
+    {
+      id: 80,
+      question:
+        "The car ran out of fuel. The journey stopped. (as a consequence)",
+      answer: [
+        "The car ran out of fuel; as a consequence, the journey stopped.",
+        "As a consequence of running out of fuel, the car journey stopped.",
+      ],
+    },
+    {
+      id: 81,
+      question:
+        "The workers went on strike. Production was delayed. (as a result of)",
+      answer: [
+        "Production was delayed as a result of the workers going on strike.",
+        "As a result of the workers going on strike, production was delayed.",
+      ],
+    },
+    {
+      id: 82,
+      question: "The storm destroyed crops. Farmers lost income. (because)",
+      answer: [
+        "Farmers lost income because the storm destroyed crops.",
+        "Because the storm destroyed crops, farmers lost income.",
+      ],
+    },
+    {
+      id: 83,
+      question: "The system crashed. Data was lost. (as a consequence)",
+      answer: [
+        "The system crashed; as a consequence, data was lost.",
+        "As a consequence of the system crashing, data was lost.",
+      ],
+    },
+    {
+      id: 84,
+      question: "The manager changed the plan. Tasks were reassigned. (due to)",
+      answer: [
+        "Tasks were reassigned due to the manager changing the plan.",
+        "Due to the manager changing the plan, tasks were reassigned.",
+      ],
+    },
+    {
+      id: 85,
+      question: "The park was crowded. Visitors waited in line. (because of)",
+      answer: [
+        "Visitors waited in line because of the park being crowded.",
+        "Because of the park being crowded, visitors waited in line.",
+      ],
+    },
+    {
+      id: 86,
+      question: "The alarm wasn’t set. He overslept. (as a result)",
+      answer: [
+        "The alarm wasn’t set. As a result, he overslept.",
+        "As a result of not setting the alarm, he overslept.",
+      ],
+    },
+    {
+      id: 87,
+      question: "The printer malfunctioned. The report was delayed. (owing to)",
+      answer: [
+        "The report was delayed owing to the printer malfunctioning.",
+        "Owing to the printer malfunctioning, the report was delayed.",
+      ],
+    },
+    {
+      id: 88,
+      question:
+        "The boat capsized. The passengers were rescued. (as a consequence)",
+      answer: [
+        "The boat capsized; as a consequence, the passengers were rescued.",
+        "As a consequence of the boat capsizing, the passengers were rescued.",
+      ],
+    },
+    {
+      id: 89,
+      question: "The company offered discounts. Sales improved. (as a result)",
+      answer: [
+        "The company offered discounts. As a result, sales improved.",
+        "As a result of offering discounts, the company’s sales improved.",
+      ],
+    },
+    {
+      id: 90,
+      question:
+        "The students skipped class. They missed important lessons. (because of)",
+      answer: [
+        "They missed important lessons because of skipping class.",
+        "Because of skipping class, they missed important lessons.",
+      ],
+    },
+    {
+      id: 91,
+      question:
+        "The computer overheated. It shut down unexpectedly. (owing to)",
+      answer: [
+        "It shut down unexpectedly owing to the computer overheating.",
+        "Owing to the computer overheating, it shut down unexpectedly.",
+      ],
+    },
+    {
+      id: 92,
+      question:
+        "The heavy snowfall delayed flights. Passengers were stranded. (as a result)",
+      answer: [
+        "The heavy snowfall delayed flights. As a result, passengers were stranded.",
+        "As a result of the heavy snowfall delaying flights, passengers were stranded.",
+      ],
+    },
+    {
+      id: 93,
+      question:
+        "The teacher explained the topic clearly. Students understood well. (as a result of)",
+      answer: [
+        "Students understood well as a result of the teacher explaining the topic clearly.",
+        "As a result of the teacher explaining the topic clearly, students understood well.",
+      ],
+    },
+    {
+      id: 94,
+      question: "The bridge collapsed. Traffic was rerouted. (because)",
+      answer: [
+        "Traffic was rerouted because the bridge collapsed.",
+        "Because the bridge collapsed, traffic was rerouted.",
+      ],
+    },
+    {
+      id: 95,
+      question:
+        "The software update fixed bugs. System performance improved. (as a result)",
+      answer: [
+        "The software update fixed bugs. As a result, system performance improved.",
+        "As a result of fixing bugs, the software update improved system performance.",
+      ],
+    },
+    {
+      id: 96,
+      question:
+        "The company faced financial loss. Employees were laid off. (owing to)",
+      answer: [
+        "Employees were laid off owing to the company facing financial loss.",
+        "Owing to the company facing financial loss, employees were laid off.",
+      ],
+    },
+    {
+      id: 97,
+      question:
+        "The package was delayed. Customers complained. (as a consequence)",
+      answer: [
+        "The package was delayed; as a consequence, customers complained.",
+        "As a consequence of the package being delayed, customers complained.",
+      ],
+    },
+    {
+      id: 98,
+      question: "The child played in the mud. Clothes were dirty. (because of)",
+      answer: [
+        "Clothes were dirty because of the child playing in the mud.",
+        "Because of the child playing in the mud, clothes were dirty.",
+      ],
+    },
+    {
+      id: 99,
+      question:
+        "The train was canceled. Travelers missed appointments. (as a result)",
+      answer: [
+        "The train was canceled. As a result, travelers missed appointments.",
+        "As a result of the train being canceled, travelers missed appointments.",
+      ],
+    },
+    {
+      id: 100,
+      question: "The heavy rain caused flooding. Roads were closed. (due to)",
+      answer: [
+        "Roads were closed due to the heavy rain causing flooding.",
+        "Due to the heavy rain causing flooding, roads were closed.",
+      ],
+    },
+  ],
 };
 
 const selectUnits: selectType[] = [
@@ -8915,11 +9786,7 @@ const selectUnits: selectType[] = [
   },
   {
     unit: "Unit7",
-    lessons: [
-      "Words related to pollution and environment",
-      "Verbs of cause and effect",
-      "Linking words to show cause and effect",
-    ],
+    lessons: ["Words related to pollution and environment", "Cause and Effect"],
   },
   {
     unit: "Unit8",
