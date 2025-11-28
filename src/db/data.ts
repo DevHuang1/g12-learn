@@ -4799,509 +4799,510 @@ const quesDB: QuesDB = {
   "-ed and -ing adjectives": [
     {
       id: 1,
-      question:
-        "I'm disappointing/disappointed that you can't come to my wedding.",
-      answer: ["disappointed"],
+      question: "The puzzle was challenging/challenged for the students.",
+      answer: ["challenging"],
     },
     {
       id: 2,
-      question: "The movie was excite/exciting from start to finish.",
-      answer: ["exciting"],
+      question: "She felt fascinated/fascinating by the science exhibit.",
+      answer: ["fascinated"],
     },
     {
       id: 3,
-      question: "She felt embarrass/embarrassed after tripping in public.",
-      answer: ["embarrassed"],
+      question: "The documentary was surprising/surprised to the audience.",
+      answer: ["surprising"],
     },
     {
       id: 4,
-      question: "He looks bore/boring during the lecture.",
-      answer: ["bored"],
+      question: "He felt exhausted/exhausting after cleaning the whole house.",
+      answer: ["exhausted"],
     },
     {
       id: 5,
-      question: "The children are tire/tired after the long trip.",
-      answer: ["tired"],
+      question: "The magician’s trick was thrilling/thrilled for the children.",
+      answer: ["thrilling"],
     },
     {
       id: 6,
-      question: "The book was interest/interesting and kept me up all night.",
-      answer: ["interesting"],
+      question:
+        "The haunted house was frightening/frightened for the visitors.",
+      answer: ["frightening"],
     },
     {
       id: 7,
-      question: "I am confuse/confused by his explanation.",
-      answer: ["confused"],
+      question: "She felt satisfied/satisfying after completing the project.",
+      answer: ["satisfied"],
     },
     {
       id: 8,
-      question: "She is annoy/annoyed by the loud noise from next door.",
-      answer: ["annoyed"],
-    },
-    {
-      id: 9,
-      question: "The speech was inspire/inspiring for all the students.",
-      answer: ["inspiring"],
-    },
-    {
-      id: 10,
-      question: "They felt fright/frightened when they saw the dark alley.",
-      answer: ["frightened"],
-    },
-    {
-      id: 11,
-      question: "He is amuse/amused by the comedian's jokes.",
-      answer: ["amused"],
-    },
-    {
-      id: 12,
-      question:
-        "The situation is worry/worrying and needs immediate attention.",
-      answer: ["worrying"],
-    },
-    {
-      id: 13,
-      question: "I was amaze/amazed by her performance.",
-      answer: ["amazed"],
-    },
-    {
-      id: 14,
-      question: "The task seems confuse/confusing to most of the students.",
-      answer: ["confusing"],
-    },
-    {
-      id: 15,
-      question: "She is interest/interested in learning new languages.",
-      answer: ["interested"],
-    },
-    {
-      id: 16,
-      question: "The weather is bore/boring today, nothing exciting to do.",
-      answer: ["boring"],
-    },
-    {
-      id: 17,
-      question: "I am fright/frightened to go into the abandoned house.",
-      answer: ["frightened"],
-    },
-    {
-      id: 18,
-      question: "The teacher looks tire/tiring after a long day of classes.",
-      answer: ["tired"],
-    },
-    {
-      id: 19,
-      question: "He is depress/depressed after losing the match.",
-      answer: ["depressed"],
-    },
-    {
-      id: 20,
-      question: "The lecture was exhaust/exhausting, but very informative.",
+      question: "The long hike was exhausting/exhausted for everyone.",
       answer: ["exhausting"],
     },
     {
+      id: 9,
+      question: "He was worried/worrying about the upcoming exam.",
+      answer: ["worried"],
+    },
+    {
+      id: 10,
+      question:
+        "The comedian’s performance was amusing/amused for the audience.",
+      answer: ["amusing"],
+    },
+    {
+      id: 11,
+      question: "She felt disappointed/disappointing when her plan failed.",
+      answer: ["disappointed"],
+    },
+    {
+      id: 12,
+      question: "The lecture was confusing/confused for most students.",
+      answer: ["confusing"],
+    },
+    {
+      id: 13,
+      question: "He felt relieved/relieving after finishing the task.",
+      answer: ["relieved"],
+    },
+    {
+      id: 14,
+      question: "The speech was encouraging/encouraged for the team.",
+      answer: ["encouraging"],
+    },
+    {
+      id: 15,
+      question: "She was frustrated/frustrating with the repeated mistakes.",
+      answer: ["frustrated"],
+    },
+    {
+      id: 16,
+      question: "The weather was alarming/alarmed for everyone outdoors.",
+      answer: ["alarming"],
+    },
+    {
+      id: 17,
+      question: "He felt embarrassed/embarrassing when he tripped on stage.",
+      answer: ["embarrassed"],
+    },
+    {
+      id: 18,
+      question: "The hike was tiring/tired but enjoyable.",
+      answer: ["tiring"],
+    },
+    {
+      id: 19,
+      question: "She was shocked/shocking by the sudden news.",
+      answer: ["shocked"],
+    },
+    {
+      id: 20,
+      question: "The movie was depressing/depressed and left a sad feeling.",
+      answer: ["depressing"],
+    },
+    {
       id: 21,
-      question: "She felt relax/relaxed after the yoga session.",
-      answer: ["relaxed"],
+      question: "He felt relieved/relieving after finishing the test.",
+      answer: ["relieved"],
     },
     {
       id: 22,
       question:
-        "The story was fascinate/fascinating and kept everyone engaged.",
-      answer: ["fascinating"],
+        "The teacher was encouraging/encouraged to see the students try hard.",
+      answer: ["encouraged"],
     },
     {
       id: 23,
-      question: "I am satisfy/satisfied with the results of my project.",
-      answer: ["satisfied"],
+      question: "The surprise party was exciting/excited for everyone.",
+      answer: ["exciting"],
     },
     {
       id: 24,
-      question:
-        "The challenge was frustrate/frustrating, but rewarding in the end.",
-      answer: ["frustrating"],
+      question: "She was disappointed/disappointing by the cancelled trip.",
+      answer: ["disappointed"],
     },
     {
       id: 25,
-      question: "He seemed confuse/confused by the instructions.",
-      answer: ["confused"],
+      question: "The story was fascinating/fascinated for the children.",
+      answer: ["fascinating"],
     },
     {
       id: 26,
-      question:
-        "The presentation was depress/depressing and made us reflect deeply.",
-      answer: ["depressing"],
-    },
-    {
-      id: 27,
-      question: "She felt shock/shocked at the sudden news.",
-      answer: ["shocked"],
-    },
-    {
-      id: 28,
-      question: "The news was shock/shocking to the entire community.",
-      answer: ["shocking"],
-    },
-    {
-      id: 29,
-      question: "He was exhaust/exhausted after running the marathon.",
+      question: "He was exhausted/exhausting after running for hours.",
       answer: ["exhausted"],
     },
     {
-      id: 30,
-      question: "The movie was terrify/terrifying and kept us on edge.",
-      answer: ["terrifying"],
+      id: 27,
+      question: "The music was relaxing/relaxed after a long day.",
+      answer: ["relaxing"],
     },
     {
-      id: 31,
-      question: "She felt confuse/confused by the complex instructions.",
-      answer: ["confused"],
-    },
-    {
-      id: 32,
-      question: "The lecture was interest/interesting and full of examples.",
-      answer: ["interesting"],
-    },
-    {
-      id: 33,
-      question: "He was bore/boring during the long ceremony.",
-      answer: ["bored"],
-    },
-    {
-      id: 34,
-      question: "The rollercoaster ride was excite/exciting for the kids.",
-      answer: ["exciting"],
-    },
-    {
-      id: 35,
-      question: "I am amaze/amazed at how quickly she solved the puzzle.",
+      id: 28,
+      question: "She felt amazed/amazing by the beautiful landscape.",
       answer: ["amazed"],
     },
     {
-      id: 36,
-      question: "The noise outside is annoy/annoying.",
-      answer: ["annoying"],
-    },
-    {
-      id: 37,
-      question: "He was depress/depressed after the team lost.",
-      answer: ["depressed"],
-    },
-    {
-      id: 38,
-      question: "The work is exhaust/exhausting but rewarding.",
-      answer: ["exhausting"],
-    },
-    {
-      id: 39,
-      question: "She was tire/tired after a long day at school.",
-      answer: ["tired"],
-    },
-    {
-      id: 40,
-      question: "The magician’s performance was amaze/amazing.",
-      answer: ["amazing"],
-    },
-    {
-      id: 41,
-      question: "The story was fright/frightening for young children.",
-      answer: ["frightening"],
-    },
-    {
-      id: 42,
-      question: "He felt fright/frightened when the lights went out.",
-      answer: ["frightened"],
-    },
-    {
-      id: 43,
-      question: "The comedian was amuse/amusing everyone with his jokes.",
+      id: 29,
+      question: "The clown was amusing/amused all the kids.",
       answer: ["amusing"],
     },
     {
-      id: 44,
-      question: "She was amuse/amused by the clever prank.",
-      answer: ["amused"],
+      id: 30,
+      question: "He was frightened/frightening when the dog barked loudly.",
+      answer: ["frightened"],
     },
     {
-      id: 45,
-      question: "The task was confuse/confusing to the new students.",
-      answer: ["confusing"],
+      id: 31,
+      question: "The game was surprising/surprised for the players.",
+      answer: ["surprising"],
     },
     {
-      id: 46,
-      question: "He felt confuse/confused by the sudden change in plans.",
-      answer: ["confused"],
-    },
-    {
-      id: 47,
-      question: "The lecture was bore/boring because it lacked examples.",
-      answer: ["boring"],
-    },
-    {
-      id: 48,
-      question: "I am excite/excited about the upcoming concert.",
-      answer: ["excited"],
-    },
-    {
-      id: 49,
-      question: "The situation is worry/worrying and needs careful attention.",
-      answer: ["worrying"],
-    },
-    {
-      id: 50,
-      question: "He was worry/worried about missing the deadline.",
+      id: 32,
+      question: "She was worried/worrying about her exam results.",
       answer: ["worried"],
     },
     {
-      id: 51,
-      question: "She is interest/interested in learning Spanish.",
-      answer: ["interested"],
-    },
-    {
-      id: 52,
-      question: "The movie was interest/interesting and full of suspense.",
+      id: 33,
+      question:
+        "The science experiment was interesting/interested for the students.",
       answer: ["interesting"],
     },
     {
-      id: 53,
-      question: "He was frustrate/frustrated by the slow progress.",
-      answer: ["frustrated"],
-    },
-    {
-      id: 54,
-      question: "The situation is frustrate/frustrating for everyone involved.",
-      answer: ["frustrating"],
-    },
-    {
-      id: 55,
-      question: "I am satisfy/satisfied with the results of my exam.",
-      answer: ["satisfied"],
-    },
-    {
-      id: 56,
-      question: "The outcome was satisfy/satisfying and exceeded expectations.",
-      answer: ["satisfying"],
-    },
-    {
-      id: 57,
-      question: "She felt shock/shocked by the sudden announcement.",
+      id: 34,
+      question: "He was shocked/shocking by the sudden announcement.",
       answer: ["shocked"],
     },
     {
-      id: 58,
-      question: "The news was shock/shocking and unexpected.",
-      answer: ["shocking"],
-    },
-    {
-      id: 59,
-      question: "He was depress/depressed after hearing the bad news.",
-      answer: ["depressed"],
-    },
-    {
-      id: 60,
-      question: "The documentary was depress/depressing and deeply moving.",
-      answer: ["depressing"],
-    },
-    {
-      id: 61,
-      question: "The child was excite/excited to open the gift.",
-      answer: ["excited"],
-    },
-    {
-      id: 62,
-      question: "The party was excite/exciting with music and dancing.",
-      answer: ["exciting"],
-    },
-    {
-      id: 63,
-      question: "I am tire/tired after running five kilometers.",
-      answer: ["tired"],
-    },
-    {
-      id: 64,
-      question: "The hike was tire/tiring but enjoyable.",
+      id: 35,
+      question: "The marathon was tiring/tired but rewarding.",
       answer: ["tiring"],
     },
     {
-      id: 65,
-      question: "She felt embarrass/embarrassed when she forgot the lines.",
+      id: 36,
+      question: "She felt embarrassed/embarrassing after spilling her drink.",
       answer: ["embarrassed"],
     },
     {
-      id: 66,
+      id: 37,
+      question: "The movie was thrilling/thrilled from start to finish.",
+      answer: ["thrilling"],
+    },
+    {
+      id: 38,
+      question: "He was worried/worrying about forgetting his homework.",
+      answer: ["worried"],
+    },
+    {
+      id: 39,
+      question: "The team felt motivated/motivating after the coach’s speech.",
+      answer: ["motivated"],
+    },
+    {
+      id: 40,
+      question: "She was satisfied/satisfying with her artwork.",
+      answer: ["satisfied"],
+    },
+    {
+      id: 41,
+      question: "The speech was inspiring/inspired to the whole audience.",
+      answer: ["inspiring"],
+    },
+    {
+      id: 42,
+      question: "She felt overwhelmed/overwhelming by the amount of work.",
+      answer: ["overwhelmed"],
+    },
+    {
+      id: 43,
+      question: "The situation was confusing/confused for everyone involved.",
+      answer: ["confusing"],
+    },
+    {
+      id: 44,
+      question: "He was astonished/astonishing by the magician’s trick.",
+      answer: ["astonished"],
+    },
+    {
+      id: 45,
+      question: "The concert was exhilarating/exhilarated for the crowd.",
+      answer: ["exhilarating"],
+    },
+    {
+      id: 46,
+      question: "She was discouraged/discouraging after failing the test.",
+      answer: ["discouraged"],
+    },
+    {
+      id: 47,
+      question: "The book was captivating/captivated and hard to put down.",
+      answer: ["captivating"],
+    },
+    {
+      id: 48,
+      question: "He felt betrayed/betraying by his colleague’s actions.",
+      answer: ["betrayed"],
+    },
+    {
+      id: 49,
+      question: "The situation was threatening/threatened for the explorers.",
+      answer: ["threatening"],
+    },
+    {
+      id: 50,
+      question: "She was fascinated/fascinating by the ancient ruins.",
+      answer: ["fascinated"],
+    },
+    {
+      id: 51,
+      question: "The movie was terrifying/terrified for some viewers.",
+      answer: ["terrifying"],
+    },
+    {
+      id: 52,
+      question: "He was delighted/delighting with the gift he received.",
+      answer: ["delighted"],
+    },
+    {
+      id: 53,
+      question: "The task was exhausting/exhausted after hours of effort.",
+      answer: ["exhausting"],
+    },
+    {
+      id: 54,
+      question: "She felt intimidated/intimidating by the senior students.",
+      answer: ["intimidated"],
+    },
+    {
+      id: 55,
       question:
-        "The performance was embarrass/embarrassing because of the mistakes.",
-      answer: ["embarrassing"],
+        "The argument was frustrating/frustrated for everyone involved.",
+      answer: ["frustrating"],
+    },
+    {
+      id: 56,
+      question: "He was amazed/amazing by the breathtaking scenery.",
+      answer: ["amazed"],
+    },
+    {
+      id: 57,
+      question: "The performance was enchanting/enchanted for the audience.",
+      answer: ["enchanting"],
+    },
+    {
+      id: 58,
+      question: "She felt relieved/relieving after submitting the project.",
+      answer: ["relieved"],
+    },
+    {
+      id: 59,
+      question: "The experiment was intriguing/intrigued for the students.",
+      answer: ["intriguing"],
+    },
+    {
+      id: 60,
+      question: "He was astonished/astonishing at the sudden news.",
+      answer: ["astonished"],
+    },
+    {
+      id: 61,
+      question: "She was intimidated/intimidating by the huge dog.",
+      answer: ["intimidated"],
+    },
+    {
+      id: 62,
+      question: "The task was challenging/challenged for the new recruits.",
+      answer: ["challenging"],
+    },
+    {
+      id: 63,
+      question: "He felt astonished/astonishing at the magician’s final trick.",
+      answer: ["astonished"],
+    },
+    {
+      id: 64,
+      question: "The storm was frightening/frightened for the sailors.",
+      answer: ["frightening"],
+    },
+    {
+      id: 65,
+      question: "She was encouraged/encouraging by her teacher’s words.",
+      answer: ["encouraged"],
+    },
+    {
+      id: 66,
+      question: "The movie was captivating/captivated for the viewers.",
+      answer: ["captivating"],
     },
     {
       id: 67,
-      question: "He is confuse/confused by the instructions on the package.",
+      question: "He felt confused/confusing by the instructions.",
       answer: ["confused"],
     },
     {
       id: 68,
-      question: "The task is confuse/confusing and needs clarification.",
-      answer: ["confusing"],
+      question: "The idea was inspiring/inspired to the young inventor.",
+      answer: ["inspiring"],
     },
     {
       id: 69,
-      question: "She felt amaze/amazed by the breathtaking view.",
-      answer: ["amazed"],
+      question: "She was overwhelmed/overwhelming by the news.",
+      answer: ["overwhelmed"],
     },
     {
       id: 70,
-      question: "The artwork was amaze/amazing and drew admiration.",
-      answer: ["amazing"],
+      question: "The conversation was amusing/amused everyone present.",
+      answer: ["amusing"],
     },
     {
       id: 71,
-      question: "The lecture was bore/boring and many students nodded off.",
-      answer: ["boring"],
+      question: "He felt relieved/relieving after finishing the exam.",
+      answer: ["relieved"],
     },
     {
       id: 72,
-      question: "He felt bore/bored during the long speech.",
-      answer: ["bored"],
+      question: "The challenge was exhausting/exhausted after hours of work.",
+      answer: ["exhausting"],
     },
     {
       id: 73,
-      question: "The child was fright/frightened by the loud thunder.",
-      answer: ["frightened"],
+      question: "She was fascinated/fascinating by the rare butterfly.",
+      answer: ["fascinated"],
     },
     {
       id: 74,
-      question: "The haunted house was fright/frightening for visitors.",
-      answer: ["frightening"],
+      question: "The painting was mesmerizing/mesmerized the art lovers.",
+      answer: ["mesmerizing"],
     },
     {
       id: 75,
-      question: "He is annoy/annoyed by the constant interruptions.",
-      answer: ["annoyed"],
+      question: "He felt frustrated/frustrating by the slow progress.",
+      answer: ["frustrated"],
     },
     {
       id: 76,
-      question: "The dripping faucet is annoy/annoying me.",
-      answer: ["annoying"],
+      question: "The lecture was inspiring/inspired to the students.",
+      answer: ["inspiring"],
     },
     {
       id: 77,
-      question: "She felt depress/depressed after the argument.",
-      answer: ["depressed"],
+      question: "She was shocked/shocking by the sudden thunder.",
+      answer: ["shocked"],
     },
     {
       id: 78,
-      question: "The movie was depress/depressing and quite sad.",
-      answer: ["depressing"],
+      question: "The task was demanding/demanded full attention.",
+      answer: ["demanding"],
     },
     {
       id: 79,
-      question: "I am excite/excited for the weekend trip.",
-      answer: ["excited"],
+      question: "He was intrigued/intriguing by the mysterious letter.",
+      answer: ["intrigued"],
     },
     {
       id: 80,
-      question: "The rollercoaster ride was excite/exciting and thrilling.",
+      question: "The playground was exciting/excited for the children.",
       answer: ["exciting"],
     },
     {
       id: 81,
-      question: "He was exhaust/exhausted after working all day.",
-      answer: ["exhausted"],
+      question: "She felt astonished/astonishing at the discovery.",
+      answer: ["astonished"],
     },
     {
       id: 82,
-      question: "The schedule is exhaust/exhausting and nonstop.",
-      answer: ["exhausting"],
+      question: "The experiment was challenging/challenged for the students.",
+      answer: ["challenging"],
     },
     {
       id: 83,
-      question: "She is interest/interested in volunteering abroad.",
-      answer: ["interested"],
-    },
-    {
-      id: 84,
-      question: "The workshop was interest/interesting and informative.",
-      answer: ["interesting"],
-    },
-    {
-      id: 85,
-      question: "He felt shock/shocked by the sudden change in plans.",
-      answer: ["shocked"],
-    },
-    {
-      id: 86,
-      question: "The news was shock/shocking and unexpected.",
-      answer: ["shocking"],
-    },
-    {
-      id: 87,
-      question: "The audience was amuse/amused by the clown’s antics.",
-      answer: ["amused"],
-    },
-    {
-      id: 88,
-      question: "The performance was amuse/amusing and made everyone laugh.",
-      answer: ["amusing"],
-    },
-    {
-      id: 89,
-      question: "She was frustrate/frustrated with the repeated errors.",
-      answer: ["frustrated"],
-    },
-    {
-      id: 90,
-      question: "The test was frustrate/frustrating and challenging.",
-      answer: ["frustrating"],
-    },
-    {
-      id: 91,
-      question: "He felt relax/relaxed after a long walk in the park.",
-      answer: ["relaxed"],
-    },
-    {
-      id: 92,
-      question: "The massage was relax/relaxing and pleasant.",
-      answer: ["relaxing"],
-    },
-    {
-      id: 93,
-      question: "The movie was terrify/terrifying and kept us on edge.",
-      answer: ["terrifying"],
-    },
-    {
-      id: 94,
-      question: "He felt terrify/terrified by the sudden noise.",
+      question: "He was terrified/terrifying during the horror movie.",
       answer: ["terrified"],
     },
     {
-      id: 95,
-      question: "She was exhaust/exhausted after studying all night.",
+      id: 84,
+      question:
+        "The book was intriguing/intrigued and kept me reading all night.",
+      answer: ["intriguing"],
+    },
+    {
+      id: 85,
+      question: "She felt encouraged/encouraging after the positive feedback.",
+      answer: ["encouraged"],
+    },
+    {
+      id: 86,
+      question: "The speech was motivating/motivated for all attendees.",
+      answer: ["motivating"],
+    },
+    {
+      id: 87,
+      question:
+        "He was exhausted/exhausting after running the obstacle course.",
       answer: ["exhausted"],
     },
     {
+      id: 88,
+      question: "The view from the mountain was breathtaking/breathed.",
+      answer: ["breathtaking"],
+    },
+    {
+      id: 89,
+      question: "She was overwhelmed/overwhelming by the crowd.",
+      answer: ["overwhelmed"],
+    },
+    {
+      id: 90,
+      question: "The lecture was stimulating/stimulated and sparked ideas.",
+      answer: ["stimulating"],
+    },
+    {
+      id: 91,
+      question: "He felt startled/startling when the phone rang loudly.",
+      answer: ["startled"],
+    },
+    {
+      id: 92,
+      question: "The challenge was demanding/demanded complete focus.",
+      answer: ["demanding"],
+    },
+    {
+      id: 93,
+      question: "She was fascinated/fascinating by the ancient ruins.",
+      answer: ["fascinated"],
+    },
+    {
+      id: 94,
+      question: "The news was shocking/shocked everyone at the meeting.",
+      answer: ["shocking"],
+    },
+    {
+      id: 95,
+      question: "He felt intimidated/intimidating by the large crowd.",
+      answer: ["intimidated"],
+    },
+    {
       id: 96,
-      question: "The work was exhaust/exhausting and required full attention.",
-      answer: ["exhausting"],
+      question: "The lecture was stimulating/stimulated many questions.",
+      answer: ["stimulating"],
     },
     {
       id: 97,
-      question: "He is excite/excited to meet his favorite author.",
-      answer: ["excited"],
+      question: "She was intrigued/intriguing by the puzzle’s solution.",
+      answer: ["intrigued"],
     },
     {
       id: 98,
-      question: "The show was excite/exciting with many surprises.",
-      answer: ["exciting"],
+      question: "The performance was mesmerizing/mesmerized the audience.",
+      answer: ["mesmerizing"],
     },
     {
       id: 99,
-      question: "She felt embarrass/embarrassed during the awkward silence.",
-      answer: ["embarrassed"],
+      question: "He felt discouraged/discouraging after the failed attempt.",
+      answer: ["discouraged"],
     },
     {
       id: 100,
-      question: "The mistake was embarrass/embarrassing but forgivable.",
-      answer: ["embarrassing"],
+      question: "The new assignment was exhausting/exhausted for the team.",
+      answer: ["exhausting"],
     },
   ],
   "Adjectives with prepositions": [
@@ -5907,305 +5908,437 @@ const quesDB: QuesDB = {
     },
   ],
   "Colour idioms": [
-    {
-      id: 1,
-      question:
-        "Moe Moe is (A. out of the red, B. green with envy, C. in the red) over Sandra's new shoes.",
-      answer: ["B"],
-    },
+    { id: 1, question: "He turned ____ with anger.", answer: ["red"] },
     {
       id: 2,
-      question:
-        "The company is (A. tickled pink, B. in the red, C. white as a sheet) after the financial loss.",
-      answer: ["B"],
+      question: "She felt ____ after hearing the sad news.",
+      answer: ["blue", "feeling blue"],
     },
-    {
-      id: 3,
-      question:
-        "He turned (A. in the red, B. white as a sheet, C. green with envy) when he saw his rival’s success.",
-      answer: ["C"],
-    },
-    {
-      id: 4,
-      question:
-        "After hearing the shocking news, she went (A. green with envy, B. tickled pink, C. white as a sheet).",
-      answer: ["C"],
-    },
+    { id: 3, question: "He looked ____ with jealousy.", answer: ["green"] },
+    { id: 4, question: "The traffic light was ____.", answer: ["red"] },
     {
       id: 5,
-      question:
-        "They were (A. tickled pink, B. out of the red, C. in the red) about winning the lottery.",
-      answer: ["A"],
+      question: "Her cheeks went ____ when she blushed.",
+      answer: ["pink"],
     },
     {
       id: 6,
-      question:
-        "He felt (A. in the red, B. green with envy, C. white as a sheet) when his friend got the promotion.",
-      answer: ["B"],
+      question: "He waved a ____ during the match.",
+      answer: ["yellow"],
     },
     {
       id: 7,
-      question:
-        "The restaurant went (A. tickled pink, B. out of the red, C. in the red) after the pandemic.",
-      answer: ["C"],
+      question: "She went ____ as a ghost after the news.",
+      answer: ["white"],
     },
     {
       id: 8,
-      question:
-        "She was (A. green with envy, B. tickled pink, C. white as a sheet) when her book got published.",
-      answer: ["B"],
+      question: "He is the ____ sheep of the family.",
+      answer: ["black"],
     },
     {
       id: 9,
-      question:
-        "He looked (A. tickled pink, B. in the red, C. white as a sheet) when he heard the terrifying news.",
-      answer: ["C"],
+      question: "His face turned ____ with embarrassment.",
+      answer: ["red"],
     },
     {
       id: 10,
-      question:
-        "The young artist was (A. in the red, B. green with envy, C. tickled pink) at seeing her friend’s artwork appreciated.",
-      answer: ["B"],
+      question: "Her hands were cold and ____ from the winter air.",
+      answer: ["blue"],
     },
-    {
-      id: 11,
-      question:
-        "Although she had studied hard, she was (A. green with envy, B. tickled pink, C. white as a sheet) when her friend got the award.",
-      answer: ["B"],
-    },
+    { id: 11, question: "The plant looked fresh and ____.", answer: ["green"] },
     {
       id: 12,
-      question:
-        "Walking into the empty room, he turned (A. white as a sheet, B. green with envy, C. tickled pink) at the unexpected mess.",
-      answer: ["C"],
+      question: "The warning level was raised to ____.",
+      answer: ["yellow"],
     },
     {
       id: 13,
-      question:
-        "They were (A. out of the red, B. tickled pink, C. green with envy) once the project was finally approved.",
-      answer: ["A"],
+      question: "She turned ____ after running too fast.",
+      answer: ["red"],
     },
-    {
-      id: 14,
-      question:
-        "She whispered to herself, feeling (A. green with envy, B. white as a sheet, C. tickled pink) about her colleague’s success.",
-      answer: ["C"],
-    },
+    { id: 14, question: "He bought a shiny ____ watch.", answer: ["gold"] },
     {
       id: 15,
-      question:
-        "After the long hike, he looked (A. tickled pink, B. out of the red, C. white as a sheet) at the breathtaking view.",
-      answer: ["B"],
+      question: "Her bracelet was made of pure ____.",
+      answer: ["silver"],
     },
-    {
-      id: 16,
-      question:
-        "The student, having heard the results, was (A. green with envy, B. tickled pink, C. white as a sheet) of his rival’s high score.",
-      answer: ["C"],
-    },
+    { id: 16, question: "The dog rolled in ____ mud.", answer: ["brown"] },
     {
       id: 17,
-      question:
-        "Even though she was exhausted, she felt (A. tickled pink, B. out of the red, C. green with envy) after helping the children.",
-      answer: ["B"],
+      question: "The fruit turned ____ when it ripened.",
+      answer: ["orange"],
     },
-    {
-      id: 18,
-      question:
-        "He turned (A. white as a sheet, B. tickled pink, C. green with envy) when the unexpected guest arrived.",
-      answer: ["C"],
-    },
-    {
-      id: 19,
-      question:
-        "Seeing her sister’s new dress, she went (A. green with envy, B. tickled pink, C. white as a sheet).",
-      answer: ["A"],
-    },
-    {
-      id: 20,
-      question:
-        "Once the debts were cleared, the company was (A. tickled pink, B. out of the red, C. green with envy).",
-      answer: ["C"],
-    },
+    { id: 18, question: "His hair turned ____ with age.", answer: ["gray"] },
+    { id: 19, question: "She wore a bright ____ dress.", answer: ["pink"] },
+    { id: 20, question: "He turned ____ with fear.", answer: ["white"] },
+
     {
       id: 21,
-      question:
-        "The little boy was (A. tickled pink, B. white as a sheet, C. green with envy) when he saw the puppy in the shop window.",
-      answer: ["B"],
+      question: "She went ____ when she saw the celebrity.",
+      answer: ["pink"],
     },
     {
       id: 22,
-      question:
-        "He looked (A. green with envy, B. tickled pink, C. out of the red) after learning his neighbor bought a new car.",
-      answer: ["C"],
+      question: "He felt ____ after losing his wallet.",
+      answer: ["blue", "feeling blue"],
     },
     {
       id: 23,
-      question:
-        "She felt (A. tickled pink, B. white as a sheet, C. green with envy) on her birthday when everyone sang for her.",
-      answer: ["A"],
+      question: "His face went ____ in the cold wind.",
+      answer: ["red"],
     },
     {
       id: 24,
-      question:
-        "After receiving the shocking news, he turned (A. white as a sheet, B. green with envy, C. tickled pink).",
-      answer: ["B"],
+      question: "The team got the ____ light to start.",
+      answer: ["green"],
     },
     {
       id: 25,
-      question:
-        "Watching her colleague get promoted, she was (A. green with envy, B. tickled pink, C. out of the red).",
-      answer: ["C"],
+      question: "The leaves were bright ____ in spring.",
+      answer: ["green"],
     },
     {
       id: 26,
-      question:
-        "The chef was (A. tickled pink, B. green with envy, C. white as a sheet) at seeing his dish featured in the magazine.",
-      answer: ["B"],
+      question: "He has a ____ thumb for gardening.",
+      answer: ["green"],
     },
     {
       id: 27,
-      question:
-        "Despite the storm, the sailors were (A. out of the red, B. tickled pink, C. green with envy) when they docked safely.",
-      answer: ["A"],
+      question: "The teacher marked the mistakes in ____ ink.",
+      answer: ["red"],
     },
     {
       id: 28,
-      question:
-        "He felt (A. white as a sheet, B. green with envy, C. tickled pink) after watching the horror movie.",
-      answer: ["C"],
+      question: "She carried a large ____ bag to school.",
+      answer: ["brown"],
     },
     {
       id: 29,
-      question:
-        "Seeing the lottery results, she went (A. tickled pink, B. out of the red, C. green with envy).",
-      answer: ["B"],
+      question: "His cheeks turned ____ from laughing too hard.",
+      answer: ["red"],
     },
     {
       id: 30,
-      question:
-        "The students were (A. green with envy, B. tickled pink, C. white as a sheet) when the top scorer received a trophy.",
-      answer: ["C"],
+      question: "The old photo turned ____ over time.",
+      answer: ["yellow"],
     },
     {
       id: 31,
-      question:
-        "Having just won the competition, he was (A. tickled pink, B. green with envy, C. out of the red).",
-      answer: ["B"],
+      question: "Wearing a shiny ____ necklace made her smile.",
+      answer: ["gold"],
     },
     {
       id: 32,
-      question:
-        "She turned (A. white as a sheet, B. tickled pink, C. green with envy) when the glass slipped from her hands.",
-      answer: ["C"],
+      question: "After the shock, his face looked ____.",
+      answer: ["white"],
     },
-    {
-      id: 33,
-      question:
-        "The couple felt (A. tickled pink, B. out of the red, C. green with envy) after receiving their wedding invitations.",
-      answer: ["A"],
-    },
+    { id: 33, question: "The car was painted bright ____.", answer: ["blue"] },
     {
       id: 34,
-      question:
-        "Walking through the gallery, he looked (A. green with envy, B. tickled pink, C. white as a sheet) at the art pieces.",
-      answer: ["B"],
+      question: "She bought a soft ____ sweater for winter.",
+      answer: ["purple"],
     },
     {
       id: 35,
-      question:
-        "Despite losing the match, the team was (A. out of the red, B. tickled pink, C. green with envy) because of their improvement.",
-      answer: ["C"],
+      question: "He seemed ____ and tired after the long walk.",
+      answer: ["green"],
     },
     {
       id: 36,
-      question:
-        "He went (A. tickled pink, B. white as a sheet, C. green with envy) after hearing he had passed the exam.",
-      answer: ["B"],
+      question: "The guests were welcomed with a ____ carpet.",
+      answer: ["red"],
     },
     {
       id: 37,
-      question:
-        "Seeing the promotion announcement, she was (A. green with envy, B. tickled pink, C. out of the red).",
-      answer: ["C"],
+      question: "After the argument, his expression was ____.",
+      answer: ["red"],
     },
     {
       id: 38,
-      question:
-        "The audience turned (A. white as a sheet, B. tickled pink, C. green with envy) when the lights went out suddenly.",
-      answer: ["B"],
+      question: "She found a shiny ____ coin on the floor.",
+      answer: ["gold"],
     },
     {
       id: 39,
-      question:
-        "After finishing the marathon, he was (A. tickled pink, B. out of the red, C. green with envy).",
-      answer: ["C"],
+      question: "Some of his hair turned ____ at the temples.",
+      answer: ["gray"],
     },
     {
       id: 40,
-      question:
-        "He felt (A. green with envy, B. tickled pink, C. white as a sheet) seeing his rival’s success.",
-      answer: ["B"],
+      question: "The little girl wore a light ____ dress.",
+      answer: ["pink"],
     },
+
     {
       id: 41,
-      question:
-        "She was (A. tickled pink, B. white as a sheet, C. green with envy) when her artwork got displayed.",
-      answer: ["C"],
+      question: "The morning sun gave a ____ glow to the room.",
+      answer: ["gold"],
     },
     {
       id: 42,
-      question:
-        "The children, having seen the magician, went (A. tickled pink, B. green with envy, C. out of the red).",
-      answer: ["B"],
+      question: "During sunset, the sky turned deep ____.",
+      answer: ["orange"],
     },
     {
       id: 43,
-      question:
-        "He turned (A. white as a sheet, B. tickled pink, C. green with envy) when the earthquake alarm rang.",
-      answer: ["C"],
+      question: "His hands were dirty with ____ dust.",
+      answer: ["brown"],
     },
     {
       id: 44,
-      question:
-        "Despite the difficulties, she was (A. tickled pink, B. out of the red, C. green with envy) about completing the project.",
-      answer: ["B"],
+      question: "He went ____ after seeing the bill.",
+      answer: ["white"],
     },
     {
       id: 45,
-      question:
-        "Seeing the first prize, he felt (A. green with envy, B. tickled pink, C. white as a sheet).",
-      answer: ["C"],
+      question: "A sudden storm raised a ____ flag on the coast.",
+      answer: ["red"],
     },
     {
       id: 46,
-      question:
-        "After receiving the gift, she was (A. tickled pink, B. green with envy, C. out of the red).",
-      answer: ["B"],
+      question: "She bought a long ____ skirt for the dance.",
+      answer: ["purple"],
     },
     {
       id: 47,
-      question:
-        "He turned (A. white as a sheet, B. tickled pink, C. green with envy) at the sudden loud noise.",
-      answer: ["B"],
+      question: "The walls were painted soft ____ to make the room calm.",
+      answer: ["pink"],
     },
     {
       id: 48,
-      question:
-        "The audience was (A. tickled pink, B. out of the red, C. green with envy) after the amazing performance.",
-      answer: ["C"],
+      question: "He wore a heavy coat of ____ leather.",
+      answer: ["brown"],
     },
     {
       id: 49,
-      question:
-        "She felt (A. green with envy, B. tickled pink, C. white as a sheet) when her friend received a promotion.",
-      answer: ["B"],
+      question: "His expression became ____ when he heard the truth.",
+      answer: ["red"],
     },
     {
       id: 50,
-      question:
-        "Having completed the project successfully, he was (A. tickled pink, B. green with envy, C. out of the red).",
-      answer: ["C"],
+      question: "The artist used ____ paint to highlight the details.",
+      answer: ["yellow"],
+    },
+    {
+      id: 51,
+      question: "Her bracelet shined with a ____ color.",
+      answer: ["silver"],
+    },
+    {
+      id: 52,
+      question: "He felt ____ after finishing the difficult task.",
+      answer: ["blue", "feeling blue"],
+    },
+    {
+      id: 53,
+      question: "The leaves turned ____ in autumn.",
+      answer: ["orange"],
+    },
+    {
+      id: 54,
+      question: "She wore a ____ hat to keep the sun away.",
+      answer: ["pink"],
+    },
+    {
+      id: 55,
+      question: "The mountain peaks were capped with ____ snow.",
+      answer: ["white"],
+    },
+    { id: 56, question: "He painted the door bright ____.", answer: ["red"] },
+    {
+      id: 57,
+      question: "The old book had pages of ____ color.",
+      answer: ["yellow"],
+    },
+    {
+      id: 58,
+      question: "Her favorite shoes were shiny ____.",
+      answer: ["black"],
+    },
+    {
+      id: 59,
+      question: "The grass looked healthy and ____ after the rain.",
+      answer: ["green"],
+    },
+    {
+      id: 60,
+      question: "The cat had ____ fur along its back.",
+      answer: ["gray"],
+    },
+
+    { id: 61, question: "She smiled at him with ____ eyes.", answer: ["blue"] },
+    {
+      id: 62,
+      question: "The new car is painted in bright ____.",
+      answer: ["red"],
+    },
+    {
+      id: 63,
+      question: "His expression turned ____ when he saw the test result.",
+      answer: ["white"],
+    },
+    {
+      id: 64,
+      question: "The little boy wore a ____ scarf in winter.",
+      answer: ["yellow"],
+    },
+    {
+      id: 65,
+      question: "He held a ____ umbrella in the rain.",
+      answer: ["black"],
+    },
+    {
+      id: 66,
+      question: "The walls were decorated with ____ paint.",
+      answer: ["purple"],
+    },
+    {
+      id: 67,
+      question: "Her cheeks were ____ after running.",
+      answer: ["pink"],
+    },
+    {
+      id: 68,
+      question: "The old chair was made of dark ____ wood.",
+      answer: ["brown"],
+    },
+    {
+      id: 69,
+      question: "He looked ____ while waiting for the results.",
+      answer: ["blue", "feeling blue"],
+    },
+    {
+      id: 70,
+      question: "The sky became ____ just before the storm.",
+      answer: ["gray"],
+    },
+    {
+      id: 71,
+      question: "She wore a ____ dress to the party.",
+      answer: ["pink"],
+    },
+    {
+      id: 72,
+      question: "He looked ____ after the long swim.",
+      answer: ["green"],
+    },
+    {
+      id: 73,
+      question: "The room was painted in soft ____.",
+      answer: ["purple"],
+    },
+    {
+      id: 74,
+      question: "His face turned ____ when he heard the news.",
+      answer: ["red"],
+    },
+    {
+      id: 75,
+      question: "The sky appeared ____ at sunrise.",
+      answer: ["orange"],
+    },
+    { id: 76, question: "She bought a shiny ____ ring.", answer: ["gold"] },
+    {
+      id: 77,
+      question: "The snow on the mountains was pure ____.",
+      answer: ["white"],
+    },
+    {
+      id: 78,
+      question: "He wore a ____ jacket during the trip.",
+      answer: ["blue"],
+    },
+    {
+      id: 79,
+      question: "The old table had a ____ surface.",
+      answer: ["brown"],
+    },
+    {
+      id: 80,
+      question: "Her cheeks were ____ after eating ice cream.",
+      answer: ["pink"],
+    },
+
+    {
+      id: 81,
+      question: "The cat’s fur looked ____ in sunlight.",
+      answer: ["gray"],
+    },
+    {
+      id: 82,
+      question: "He felt ____ after the tiring day.",
+      answer: ["blue", "feeling blue"],
+    },
+    {
+      id: 83,
+      question: "The leaves were turning ____ in the fall.",
+      answer: ["orange"],
+    },
+    { id: 84, question: "She wore ____ shoes to school.", answer: ["black"] },
+    {
+      id: 85,
+      question: "The painting used bright ____ tones.",
+      answer: ["yellow"],
+    },
+    {
+      id: 86,
+      question: "His coat had a soft ____ lining.",
+      answer: ["purple"],
+    },
+    {
+      id: 87,
+      question: "The little boy’s face was ____ after playing outside.",
+      answer: ["red"],
+    },
+    {
+      id: 88,
+      question: "The flowers in the garden were ____.",
+      answer: ["pink"],
+    },
+    {
+      id: 89,
+      question: "The leaves on the tree turned ____ as autumn came.",
+      answer: ["red"],
+    },
+    {
+      id: 90,
+      question: "Her bracelet was made of shiny ____ beads.",
+      answer: ["silver"],
+    },
+    { id: 91, question: "He wore a ____ hat to keep warm.", answer: ["brown"] },
+    {
+      id: 92,
+      question: "Her face went ____ when she heard the joke.",
+      answer: ["red"],
+    },
+    {
+      id: 93,
+      question: "The sky turned ____ before the rain started.",
+      answer: ["gray"],
+    },
+    {
+      id: 94,
+      question: "He held a ____ balloon at the party.",
+      answer: ["yellow"],
+    },
+    { id: 95, question: "Her shoes were shiny ____.", answer: ["black"] },
+    {
+      id: 96,
+      question: "The snow on the hill looked ____ in the sunlight.",
+      answer: ["white"],
+    },
+    { id: 97, question: "The kids painted the wall ____.", answer: ["pink"] },
+    {
+      id: 98,
+      question: "He wore a ____ scarf during winter.",
+      answer: ["blue"],
+    },
+    { id: 99, question: "The autumn leaves turned ____.", answer: ["orange"] },
+    {
+      id: 100,
+      question: "Her necklace was made of shiny ____ beads.",
+      answer: ["gold"],
     },
   ],
   "Subordinating conjunctions in adverbial clauses": [
@@ -7069,6 +7202,1172 @@ const quesDB: QuesDB = {
       ],
     },
   ],
+  "Adverbial phrases": [
+    {
+      id: 1,
+      question:
+        "(A. In short, B. On the whole, C. By and large) the manager summarized the meeting efficiently.",
+      answer: ["A"],
+    },
+    {
+      id: 2,
+      question:
+        "The children laughed loudly, (A. in no time, B. on rare occasions, C. as a matter of fact) enjoying the playful afternoon.",
+      answer: ["C"],
+    },
+    {
+      id: 3,
+      question:
+        "He quickly repaired the computer (A. in theory, B. in practice, C. at first) without anyone noticing.",
+      answer: ["B"],
+    },
+    {
+      id: 4,
+      question:
+        "Only after the exam did she understand (A. in essence, B. by all means, C. on the contrary) the tricky questions.",
+      answer: ["A"],
+    },
+    {
+      id: 5,
+      question:
+        "At the park, the dogs ran freely (A. by chance, B. in particular, C. in the meantime).",
+      answer: ["B"],
+    },
+    {
+      id: 6,
+      question:
+        "She hesitated before speaking, (A. on purpose, B. in a nutshell, C. as a result) worried about offending anyone.",
+      answer: ["A"],
+    },
+    {
+      id: 7,
+      question:
+        "During the festival, many tourists enjoyed the music (A. at first, B. in the spotlight, C. on the whole).",
+      answer: ["C"],
+    },
+    {
+      id: 8,
+      question:
+        "To my surprise, the results showed (A. in theory, B. in effect, C. at times) the plan was successful.",
+      answer: ["B"],
+    },
+    {
+      id: 9,
+      question:
+        "The teacher praised the students, (A. as a result, B. in a nutshell, C. in the meantime) motivating them further.",
+      answer: ["A"],
+    },
+    {
+      id: 10,
+      question:
+        "On rare occasions, he would join the discussion (A. in short, B. in due course, C. by all means) to share his ideas.",
+      answer: ["B"],
+    },
+    {
+      id: 11,
+      question:
+        "The workers completed the project, (A. eventually, B. in other words, C. at last) feeling proud of their achievement.",
+      answer: ["A"],
+    },
+    {
+      id: 12,
+      question:
+        "(A. In fact, B. By contrast, C. In general) the scientist explained the complex theory clearly.",
+      answer: ["A"],
+    },
+    {
+      id: 13,
+      question:
+        "She whispered softly, (A. at times, B. in return, C. on second thought) so that no one would hear.",
+      answer: ["C"],
+    },
+    {
+      id: 14,
+      question:
+        "He arrived early (A. in the meantime, B. by all means, C. at any rate) to prepare the presentation.",
+      answer: ["C"],
+    },
+    {
+      id: 15,
+      question:
+        "(A. On the contrary, B. In a nutshell, C. As a matter of fact) the evidence proved his innocence.",
+      answer: ["C"],
+    },
+    {
+      id: 16,
+      question:
+        "The meeting lasted hours, (A. in practice, B. in short, C. on the whole) exhausting everyone.",
+      answer: ["C"],
+    },
+    {
+      id: 17,
+      question:
+        "Only after reading the letter did he understand (A. in essence, B. by chance, C. in due course) the sender’s intention.",
+      answer: ["A"],
+    },
+    {
+      id: 18,
+      question:
+        "The bird flew across the sky (A. for example, B. on rare occasions, C. in turn) gracefully.",
+      answer: ["C"],
+    },
+    {
+      id: 19,
+      question:
+        "(A. In the meantime, B. By contrast, C. On the whole) the students completed the exercise quickly.",
+      answer: ["A"],
+    },
+    {
+      id: 20,
+      question:
+        "He forgot his keys, (A. in a nutshell, B. in due course, C. at first) making him late for work.",
+      answer: ["B"],
+    },
+    {
+      id: 21,
+      question:
+        "At the conference, the keynote speaker (A. in practice, B. in short, C. by all means) inspired the audience.",
+      answer: ["C"],
+    },
+    {
+      id: 22,
+      question:
+        "She realized her mistake only after (A. at last, B. in essence, C. by contrast) reviewing the document.",
+      answer: ["B"],
+    },
+    {
+      id: 23,
+      question:
+        "The company expanded rapidly, (A. as a result, B. on rare occasions, C. in theory) surprising its competitors.",
+      answer: ["A"],
+    },
+    {
+      id: 24,
+      question:
+        "(A. In the spotlight, B. In brief, C. On the whole) the artist showcased her latest paintings.",
+      answer: ["C"],
+    },
+    {
+      id: 25,
+      question:
+        "He left the meeting, (A. in effect, B. on second thought, C. by chance) feeling relieved.",
+      answer: ["B"],
+    },
+    {
+      id: 26,
+      question:
+        "The sun rose beautifully, (A. in a nutshell, B. at times, C. as a matter of fact) signaling a new day.",
+      answer: ["C"],
+    },
+    {
+      id: 27,
+      question:
+        "(A. On the whole, B. By contrast, C. In short) the project team delivered quality results.",
+      answer: ["A"],
+    },
+    {
+      id: 28,
+      question:
+        "He walked quietly, (A. at first, B. in the meantime, C. on purpose) to avoid disturbing anyone.",
+      answer: ["C"],
+    },
+    {
+      id: 29,
+      question:
+        "The manager explained the rules clearly, (A. in effect, B. on the contrary, C. by and large) so everyone understood.",
+      answer: ["A"],
+    },
+    {
+      id: 30,
+      question:
+        "(A. In return, B. By all means, C. As a matter of fact) she helped the new students feel welcome.",
+      answer: ["C"],
+    },
+    {
+      id: 31,
+      question:
+        "The children enjoyed the party, (A. on second thought, B. in the spotlight, C. by chance) laughing and playing games.",
+      answer: ["C"],
+    },
+    {
+      id: 32,
+      question:
+        "He made the announcement, (A. at this point, B. in a nutshell, C. in theory) and everyone paid attention.",
+      answer: ["B"],
+    },
+    {
+      id: 33,
+      question:
+        "The proposal was rejected, (A. in the meantime, B. as a matter of fact, C. on the contrary) disappointing the team.",
+      answer: ["C"],
+    },
+    {
+      id: 34,
+      question:
+        "Only after the inspection did they realize (A. by chance, B. in essence, C. in short) the problem’s severity.",
+      answer: ["B"],
+    },
+    {
+      id: 35,
+      question:
+        "She answered confidently, (A. at times, B. by all means, C. in practice) impressing the interviewers.",
+      answer: ["C"],
+    },
+    {
+      id: 36,
+      question:
+        "(A. In brief, B. On the whole, C. At first) the volunteers completed their tasks efficiently.",
+      answer: ["B"],
+    },
+    {
+      id: 37,
+      question:
+        "He laughed loudly, (A. in theory, B. on purpose, C. in return) at the amusing story.",
+      answer: ["B"],
+    },
+    {
+      id: 38,
+      question:
+        "The artist created a masterpiece, (A. in effect, B. in due course, C. by contrast) earning praise from critics.",
+      answer: ["B"],
+    },
+    {
+      id: 39,
+      question:
+        "At dawn, the hikers started climbing, (A. on the whole, B. at times, C. in essence) determined to reach the summit.",
+      answer: ["A"],
+    },
+    {
+      id: 40,
+      question:
+        "She reflected on the situation, (A. in short, B. by chance, C. as a matter of fact) realizing her mistake.",
+      answer: ["C"],
+    },
+    {
+      id: 41,
+      question:
+        "(A. On the contrary, B. In effect, C. In a nutshell) the students completed their assignments on time.",
+      answer: ["B"],
+    },
+    {
+      id: 42,
+      question:
+        "The flight gets delayed, (A. in contrast, B. in due course, C. on rare occasions) frustrating passengers.",
+      answer: ["C"],
+    },
+    {
+      id: 43,
+      question:
+        "The technicians repaired the damaged circuit, (A. in no time, B. in the spotlight, C. in essence) impressing the supervisor.",
+      answer: ["A"],
+    },
+    {
+      id: 44,
+      question:
+        "He accepted the unexpected invitation, (A. on the whole, B. in other words, C. at short notice) without hesitation.",
+      answer: ["C"],
+    },
+    {
+      id: 45,
+      question:
+        "The children played outside, (A. in the long run, B. on top of that, C. in the meantime) enjoying the sunny weather.",
+      answer: ["C"],
+    },
+    {
+      id: 46,
+      question:
+        "The leader reconsidered the proposal, (A. from time to time, B. on second thought, C. beyond doubt) and made changes.",
+      answer: ["B"],
+    },
+    {
+      id: 47,
+      question:
+        "The results will speak for themselves, (A. at this stage, B. on rare occasions, C. in due time) once the analysis is complete.",
+      answer: ["C"],
+    },
+    {
+      id: 48,
+      question:
+        "The curtain dropped, (A. in the spotlight, B. in the background, C. all of a sudden) surprising the audience.",
+      answer: ["C"],
+    },
+    {
+      id: 49,
+      question:
+        "Employees can request extra training, (A. by all means, B. in particular, C. in most cases) to improve their skills.",
+      answer: ["C"],
+    },
+    {
+      id: 50,
+      question:
+        "The witnesses were escorted out safely, (A. on the contrary, B. in no time, C. in due course) avoiding commotion.",
+      answer: ["B"],
+    },
+    {
+      id: 51,
+      question:
+        "(A. By the way, B. In particular, C. On second thought) he changed his mind after hearing the arguments.",
+      answer: ["B"],
+    },
+    {
+      id: 52,
+      question:
+        "We shouldn't interfere, (A. in theory, B. in that case, C. in the first place) to respect their privacy.",
+      answer: ["A"],
+    },
+    {
+      id: 53,
+      question:
+        "The contract is explained clearly, (A. in addition, B. in the meantime, C. in detail) for all parties to understand.",
+      answer: ["C"],
+    },
+    {
+      id: 54,
+      question:
+        "They reached the mountain, (A. after all, B. on top of that, C. at last) tired but satisfied.",
+      answer: ["A"],
+    },
+    {
+      id: 55,
+      question:
+        "He behaves responsibly, (A. by and large, B. in practice, C. in summary) earning trust from everyone.",
+      answer: ["B"],
+    },
+    {
+      id: 56,
+      question:
+        "She won the competition, (A. as a result, B. to my surprise, C. in other words) impressing all judges.",
+      answer: ["C"],
+    },
+    {
+      id: 57,
+      question:
+        "He rarely speaks, (A. in the meantime, B. in other words, C. in contrast) keeping his thoughts private.",
+      answer: ["A"],
+    },
+    {
+      id: 58,
+      question:
+        "The training improved skills, (A. at long last, B. by contrast, C. in general) across all participants.",
+      answer: ["B"],
+    },
+    {
+      id: 59,
+      question:
+        "The system will be updated, (A. eventually, B. in contrast, C. in the meantime) to improve performance.",
+      answer: ["C"],
+    },
+    {
+      id: 60,
+      question:
+        "Do you know her address? (A. for example, B. in short, C. by the way)",
+      answer: ["A"],
+    },
+    {
+      id: 61,
+      question:
+        "The evidence proved his innocence, (A. in a nutshell, B. likewise, C. on the contrary) convincing the jury.",
+      answer: ["B"],
+    },
+    {
+      id: 62,
+      question:
+        "The storm may hit, (A. in turn, B. in spite of that, C. at any moment) causing disruptions.",
+      answer: ["C"],
+    },
+    {
+      id: 63,
+      question:
+        "She practices singing, (A. in effect, B. at times, C. as a result) to prepare for the competition.",
+      answer: ["A"],
+    },
+    {
+      id: 64,
+      question:
+        "He found his lost keys, (A. to begin with, B. in contrast, C. by chance) under the sofa.",
+      answer: ["C"],
+    },
+    {
+      id: 65,
+      question:
+        "The doctor advised rest, (A. nevertheless, B. in other words, C. in particular) for faster recovery.",
+      answer: ["B"],
+    },
+    {
+      id: 66,
+      question:
+        "She dropped the hint, (A. at the same time, B. on the other hand, C. on purpose) hoping he would notice.",
+      answer: ["C"],
+    },
+    {
+      id: 67,
+      question:
+        "The manager will handle complaints, (A. in essence, B. in particular, C. in the meantime) without delay.",
+      answer: ["A"],
+    },
+    {
+      id: 68,
+      question:
+        "They shouldn't interfere, (A. once in a while, B. in brief, C. in the first place) no matter the situation.",
+      answer: ["B"],
+    },
+    {
+      id: 69,
+      question:
+        "The dog barked loudly, (A. in general, B. in the meantime, C. all of a sudden) startling everyone nearby.",
+      answer: ["C"],
+    },
+    {
+      id: 70,
+      question:
+        "The investment will benefit you, (A. in summary, B. in contrast, C. in the long term) if managed wisely.",
+      answer: ["B"],
+    },
+    {
+      id: 71,
+      question:
+        "She misunderstood the instructions, (A. by far, B. in contrast, C. clearly) and asked for clarification.",
+      answer: ["A"],
+    },
+    {
+      id: 72,
+      question:
+        "The machine overheated, (A. at the same time, B. at first, C. as a result) and caused a delay in production.",
+      answer: ["C"],
+    },
+    {
+      id: 73,
+      question:
+        "He contributed to the success, (A. in the meantime, B. in short, C. to a great extent) showing great dedication.",
+      answer: ["B"],
+    },
+    {
+      id: 74,
+      question:
+        "He rarely participates, (A. in return, B. in practice, C. in contrast) despite being capable.",
+      answer: ["C"],
+    },
+    {
+      id: 75,
+      question:
+        "The discussion continued, (A. all of a sudden, B. in other words, C. in proceeding) without interruptions.",
+      answer: ["B"],
+    },
+    {
+      id: 76,
+      question:
+        "The research shows clear patterns, (A. for example, B. in turn, C. in summary) across multiple experiments.",
+      answer: ["A"],
+    },
+    {
+      id: 77,
+      question:
+        "The store closed early, (A. even so, B. in the meantime, C. on the contrary) due to maintenance work.",
+      answer: ["C"],
+    },
+    {
+      id: 78,
+      question:
+        "You’ll need a permit, (A. in general, B. by chance, C. in this case) to access the restricted area.",
+      answer: ["B"],
+    },
+    {
+      id: 79,
+      question:
+        "He spoke honestly, (A. at any rate, B. on the contrary, C. in truth) despite opposition from others.",
+      answer: ["C"],
+    },
+    {
+      id: 80,
+      question:
+        "She accepted the offer, (A. in a moment, B. at first, C. nevertheless) after careful consideration.",
+      answer: ["A"],
+    },
+    {
+      id: 81,
+      question:
+        "He prepared dinner, (A. at once, B. ideally, C. in the meantime) while waiting for guests.",
+      answer: ["B"],
+    },
+    {
+      id: 82,
+      question:
+        "The policy changes everything, (A. on the whole, B. in contrast, C. in effect) as planned by the administration.",
+      answer: ["C"],
+    },
+    {
+      id: 83,
+      question:
+        "We cannot disclose anything, (A. on the contrary, B. in detail, C. at the moment) due to confidentiality.",
+      answer: ["B"],
+    },
+    {
+      id: 84,
+      question:
+        "The company expanded its branches, (A. in the meantime, B. in particular, C. likewise) to meet demand.",
+      answer: ["A"],
+    },
+    {
+      id: 85,
+      question:
+        "The door slammed shut, (A. by and large, B. in brief, C. suddenly) frightening everyone nearby.",
+      answer: ["C"],
+    },
+    {
+      id: 86,
+      question:
+        "You must follow the rules, (A. in summary, B. on the whole, C. in this case) for a safe environment.",
+      answer: ["B"],
+    },
+    {
+      id: 87,
+      question:
+        "They reached an agreement, (A. in fact, B. in contrast, C. eventually) after long negotiations.",
+      answer: ["C"],
+    },
+    {
+      id: 88,
+      question:
+        "She goes hiking, (A. in conclusion, B. in the meantime, C. once in a while) to relax and exercise.",
+      answer: ["A"],
+    },
+    {
+      id: 89,
+      question:
+        "Your decision influences the team, (A. as a matter of fact, B. at times, C. in effect) more than you realize.",
+      answer: ["B"],
+    },
+    {
+      id: 90,
+      question:
+        "The results were positive, (A. in other words, B. in contrast, C. in general) indicating success.",
+      answer: ["C"],
+    },
+    {
+      id: 91,
+      question:
+        "The work must be done, (A. above all, B. as usual, C. in any case) without delay.",
+      answer: ["B"],
+    },
+    {
+      id: 92,
+      question:
+        "The baby slept peacefully, (A. in this case, B. as a result, C. in the meantime) after the feeding.",
+      answer: ["A"],
+    },
+    {
+      id: 93,
+      question:
+        "He changed his career, (A. by contrast, B. in general, C. eventually) seeking better opportunities.",
+      answer: ["C"],
+    },
+    {
+      id: 94,
+      question:
+        "She thanked them for their kindness, (A. in short, B. in the meantime, C. in return) with a heartfelt note.",
+      answer: ["B"],
+    },
+    {
+      id: 95,
+      question:
+        "The plan works, (A. either way, B. on the contrary, C. on the whole) when executed properly.",
+      answer: ["A"],
+    },
+    {
+      id: 96,
+      question:
+        "The workers took a break, (A. in a nutshell, B. in other words, C. in the meantime) after finishing their tasks.",
+      answer: ["B"],
+    },
+    {
+      id: 97,
+      question:
+        "The committee approved the request, (A. at first, B. in effect, C. likewise) without much debate.",
+      answer: ["C"],
+    },
+    {
+      id: 98,
+      question:
+        "The team improved, (A. in other words, B. at the same time, C. as a matter of fact) showing great progress.",
+      answer: ["A"],
+    },
+    {
+      id: 99,
+      question:
+        "We need more information, (A. once again, B. in practice, C. in short) before making the decision.",
+      answer: ["B"],
+    },
+    {
+      id: 100,
+      question:
+        "He was right, (A. to summarize, B. even so, C. in reality) despite initial doubts.",
+      answer: ["A"],
+    },
+  ],
+  "No matter": [
+    {
+      id: 1,
+      question: "Time flies too fast, but our friendship lasts forever.",
+      answer: [
+        "No matter how fast time flies, our friendship lasts forever.",
+        "Our friendship lasts forever no matter how fast time flies.",
+      ],
+    },
+    {
+      id: 1,
+      question: "He keeps practicing the piano. His progress is still slow.",
+      answer: [
+        "No matter how hard he practices, his progress is still slow",
+        "His progress is still slow, no matter how hard he practices",
+      ],
+    },
+    {
+      id: 2,
+      question: "She apologizes again and again. He refuses to forgive her.",
+      answer: [
+        "No matter how sincerely she apologizes, he refuses to forgive her",
+        "He refuses to forgive her, no matter how sincerely she apologizes",
+      ],
+    },
+    {
+      id: 3,
+      question:
+        "They explain the instructions repeatedly. The students remain confused.",
+      answer: [
+        "No matter how clearly they explain the instructions, the students remain confused",
+        "The students remain confused, no matter how clearly they explain the instructions",
+      ],
+    },
+    {
+      id: 4,
+      question: "She dresses beautifully. Nobody seems to notice her.",
+      answer: [
+        "No matter how beautifully she dresses, nobody seems to notice her",
+        "Nobody seems to notice her, no matter how beautifully she dresses",
+      ],
+    },
+    {
+      id: 5,
+      question: "He tries to stay calm. His voice still shakes.",
+      answer: [
+        "No matter how calm he tries to stay, his voice still shakes",
+        "His voice still shakes, no matter how calm he tries to stay",
+      ],
+    },
+    {
+      id: 6,
+      question: "They clean the house thoroughly. Dust keeps appearing.",
+      answer: [
+        "No matter how thoroughly they clean the house, dust keeps appearing",
+        "Dust keeps appearing, no matter how thoroughly they clean the house",
+      ],
+    },
+    {
+      id: 7,
+      question:
+        "She prepares carefully for the interview. She still feels nervous.",
+      answer: [
+        "No matter how carefully she prepares for the interview, she still feels nervous",
+        "She still feels nervous, no matter how carefully she prepares for the interview",
+      ],
+    },
+    {
+      id: 8,
+      question: "He speaks politely. The manager remains rude.",
+      answer: [
+        "No matter how politely he speaks, the manager remains rude",
+        "The manager remains rude, no matter how politely he speaks",
+      ],
+    },
+    {
+      id: 9,
+      question: "She saves money every month. Her expenses keep increasing.",
+      answer: [
+        "No matter how carefully she saves money, her expenses keep increasing",
+        "Her expenses keep increasing, no matter how carefully she saves money",
+      ],
+    },
+    {
+      id: 10,
+      question: "He trains daily for the race. His speed barely improves.",
+      answer: [
+        "No matter how hard he trains, his speed barely improves",
+        "His speed barely improves, no matter how hard he trains",
+      ],
+    },
+    {
+      id: 11,
+      question: "She explains her feelings. He still misunderstands her.",
+      answer: [
+        "No matter how openly she explains her feelings, he still misunderstands her",
+        "He still misunderstands her, no matter how openly she explains her feelings",
+      ],
+    },
+    {
+      id: 12,
+      question: "They negotiate patiently. The issue remains unresolved.",
+      answer: [
+        "No matter how patiently they negotiate, the issue remains unresolved",
+        "The issue remains unresolved, no matter how patiently they negotiate",
+      ],
+    },
+    {
+      id: 13,
+      question: "He works overtime. His salary stays the same.",
+      answer: [
+        "No matter how long he works overtime, his salary stays the same",
+        "His salary stays the same, no matter how long he works overtime",
+      ],
+    },
+    {
+      id: 14,
+      question: "She sings beautifully. The judges are still unimpressed.",
+      answer: [
+        "No matter how beautifully she sings, the judges are still unimpressed",
+        "The judges are still unimpressed, no matter how beautifully she sings",
+      ],
+    },
+    {
+      id: 15,
+      question: "He acts bravely. Fear still takes over him.",
+      answer: [
+        "No matter how bravely he acts, fear still takes over him",
+        "Fear still takes over him, no matter how bravely he acts",
+      ],
+    },
+    {
+      id: 16,
+      question: "She decorates the room elegantly. The guests don’t react.",
+      answer: [
+        "No matter how elegantly she decorates the room, the guests don’t react",
+        "The guests don’t react, no matter how elegantly she decorates the room",
+      ],
+    },
+    {
+      id: 17,
+      question: "He studies consistently. The lessons remain difficult.",
+      answer: [
+        "No matter how consistently he studies, the lessons remain difficult",
+        "The lessons remain difficult, no matter how consistently he studies",
+      ],
+    },
+    {
+      id: 18,
+      question: "She tries to cheer him up. He stays gloomy.",
+      answer: [
+        "No matter how cheerfully she tries, he stays gloomy",
+        "He stays gloomy, no matter how cheerfully she tries",
+      ],
+    },
+    {
+      id: 19,
+      question: "They warn him repeatedly. He ignores every warning.",
+      answer: [
+        "No matter how seriously they warn him, he ignores every warning",
+        "He ignores every warning, no matter how seriously they warn him",
+      ],
+    },
+    {
+      id: 20,
+      question: "He pushes the door forcefully. It refuses to open.",
+      answer: [
+        "No matter how forcefully he pushes the door, it refuses to open",
+        "It refuses to open, no matter how forcefully he pushes the door",
+      ],
+    },
+    {
+      id: 21,
+      question: "She compliments him often. His mood does not change.",
+      answer: [
+        "No matter how kindly she compliments him, his mood does not change",
+        "His mood does not change, no matter how kindly she compliments him",
+      ],
+    },
+    {
+      id: 22,
+      question: "He cleans the car carefully. The stains remain.",
+      answer: [
+        "No matter how carefully he cleans the car, the stains remain",
+        "The stains remain, no matter how carefully he cleans the car",
+      ],
+    },
+    {
+      id: 23,
+      question: "They cook delicious meals. The children refuse to eat.",
+      answer: [
+        "No matter how deliciously they cook, the children refuse to eat",
+        "The children refuse to eat, no matter how deliciously they cook",
+      ],
+    },
+    {
+      id: 24,
+      question: "He decorates the stage creatively. The audience stays silent.",
+      answer: [
+        "No matter how creatively he decorates the stage, the audience stays silent",
+        "The audience stays silent, no matter how creatively he decorates the stage",
+      ],
+    },
+    {
+      id: 25,
+      question: "She warns her brother gently. He still does the same thing.",
+      answer: [
+        "No matter how gently she warns her brother, he still does the same thing",
+        "He still does the same thing, no matter how gently she warns her brother",
+      ],
+    },
+    {
+      id: 26,
+      question: "He searches everywhere. He cannot find his keys.",
+      answer: [
+        "No matter how thoroughly he searches, he cannot find his keys",
+        "He cannot find his keys, no matter how thoroughly he searches",
+      ],
+    },
+    {
+      id: 27,
+      question: "They shout loudly. The dog doesn’t respond.",
+      answer: [
+        "No matter how loudly they shout, the dog doesn’t respond",
+        "The dog doesn’t respond, no matter how loudly they shout",
+      ],
+    },
+    {
+      id: 28,
+      question: "She argues confidently. They still disagree with her.",
+      answer: [
+        "No matter how confidently she argues, they still disagree with her",
+        "They still disagree with her, no matter how confidently she argues",
+      ],
+    },
+    {
+      id: 29,
+      question: "He writes neatly. The teacher still complains.",
+      answer: [
+        "No matter how neatly he writes, the teacher still complains",
+        "The teacher still complains, no matter how neatly he writes",
+      ],
+    },
+    {
+      id: 30,
+      question: "She focuses during the lecture. She still misses key points.",
+      answer: [
+        "No matter how attentively she focuses, she still misses key points",
+        "She still misses key points, no matter how attentively she focuses",
+      ],
+    },
+    {
+      id: 31,
+      question: "He tries to impress the coach. He never gets selected.",
+      answer: [
+        "No matter how hard he tries to impress the coach, he never gets selected",
+        "He never gets selected, no matter how hard he tries to impress the coach",
+      ],
+    },
+    {
+      id: 32,
+      question: "She chooses her words carefully. She still offends someone.",
+      answer: [
+        "No matter how carefully she chooses her words, she still offends someone",
+        "She still offends someone, no matter how carefully she chooses her words",
+      ],
+    },
+    {
+      id: 33,
+      question: "They reduce the ticket price. Sales remain low.",
+      answer: [
+        "No matter how low they reduce the ticket price, sales remain low",
+        "Sales remain low, no matter how low they reduce the ticket price",
+      ],
+    },
+    {
+      id: 34,
+      question: "He wakes up early. He still arrives late.",
+      answer: [
+        "No matter how early he wakes up, he still arrives late",
+        "He still arrives late, no matter how early he wakes up",
+      ],
+    },
+    {
+      id: 35,
+      question: "She begs him softly. He refuses to listen.",
+      answer: [
+        "No matter how softly she begs him, he refuses to listen",
+        "He refuses to listen, no matter how softly she begs him",
+      ],
+    },
+    {
+      id: 36,
+      question: "He sharpens the knife repeatedly. It stays dull.",
+      answer: [
+        "No matter how often he sharpens the knife, it stays dull",
+        "It stays dull, no matter how often he sharpens the knife",
+      ],
+    },
+    {
+      id: 37,
+      question: "They cheer loudly. The team still loses.",
+      answer: [
+        "No matter how loudly they cheer, the team still loses",
+        "The team still loses, no matter how loudly they cheer",
+      ],
+    },
+    {
+      id: 38,
+      question: "She knocks politely. Nobody opens the door.",
+      answer: [
+        "No matter how politely she knocks, nobody opens the door",
+        "Nobody opens the door, no matter how politely she knocks",
+      ],
+    },
+    {
+      id: 39,
+      question: "He prepares delicious food. They do not appreciate it.",
+      answer: [
+        "No matter how deliciously he prepares the food, they do not appreciate it",
+        "They do not appreciate it, no matter how deliciously he prepares the food",
+      ],
+    },
+    {
+      id: 40,
+      question: "She trusts people easily. She always gets hurt.",
+      answer: [
+        "No matter how easily she trusts people, she always gets hurt",
+        "She always gets hurt, no matter how easily she trusts people",
+      ],
+    },
+    {
+      id: 41,
+      question: "He smiles warmly. They still feel uncomfortable around him.",
+      answer: [
+        "No matter how warmly he smiles, they still feel uncomfortable around him",
+        "They still feel uncomfortable around him, no matter how warmly he smiles",
+      ],
+    },
+    {
+      id: 42,
+      question: "She concentrates on reading. She hears every noise.",
+      answer: [
+        "No matter how deeply she concentrates, she hears every noise",
+        "She hears every noise, no matter how deeply she concentrates",
+      ],
+    },
+    {
+      id: 43,
+      question: "They give detailed instructions. The machine won't work.",
+      answer: [
+        "No matter how detailed their instructions are, the machine won't work",
+        "The machine won't work, no matter how detailed their instructions are",
+      ],
+    },
+    {
+      id: 44,
+      question: "He runs quickly. The bus leaves before he arrives.",
+      answer: [
+        "No matter how quickly he runs, the bus leaves before he arrives",
+        "The bus leaves before he arrives, no matter how quickly he runs",
+      ],
+    },
+    {
+      id: 45,
+      question: "She speaks confidently. Her classmates still doubt her.",
+      answer: [
+        "No matter how confidently she speaks, her classmates still doubt her",
+        "Her classmates still doubt her, no matter how confidently she speaks",
+      ],
+    },
+    {
+      id: 46,
+      question: "He reviews the lesson. The topic remains confusing.",
+      answer: [
+        "No matter how thoroughly he reviews the lesson, the topic remains confusing",
+        "The topic remains confusing, no matter how thoroughly he reviews the lesson",
+      ],
+    },
+    {
+      id: 47,
+      question: "They greet everyone happily. Few people greet them back.",
+      answer: [
+        "No matter how happily they greet everyone, few people greet them back",
+        "Few people greet them back, no matter how happily they greet everyone",
+      ],
+    },
+    {
+      id: 48,
+      question: "She types carefully. The text still has errors.",
+      answer: [
+        "No matter how carefully she types, the text still has errors",
+        "The text still has errors, no matter how carefully she types",
+      ],
+    },
+    {
+      id: 49,
+      question: "He maintains his diet strictly. His weight does not change.",
+      answer: [
+        "No matter how strictly he maintains his diet, his weight does not change",
+        "His weight does not change, no matter how strictly he maintains his diet",
+      ],
+    },
+    {
+      id: 50,
+      question: "She tries to stay positive. Her anxiety keeps returning.",
+      answer: [
+        "No matter how positive she tries to stay, her anxiety keeps returning",
+        "Her anxiety keeps returning, no matter how positive she tries to stay",
+      ],
+    },
+    {
+      id: 82,
+      question: "He drives carefully. He still gets stuck in traffic.",
+      answer: [
+        "No matter how carefully he drives, he still gets stuck in traffic",
+        "He still gets stuck in traffic, no matter how carefully he drives",
+      ],
+    },
+    {
+      id: 83,
+      question: "She writes neatly. The teacher still criticizes her work.",
+      answer: [
+        "No matter how neatly she writes, the teacher still criticizes her work",
+        "The teacher still criticizes her work, no matter how neatly she writes",
+      ],
+    },
+    {
+      id: 84,
+      question: "They plan the trip carefully. Problems still arise.",
+      answer: [
+        "No matter how carefully they plan the trip, problems still arise",
+        "Problems still arise, no matter how carefully they plan the trip",
+      ],
+    },
+    {
+      id: 85,
+      question: "He works long hours. The project remains incomplete.",
+      answer: [
+        "No matter how long he works, the project remains incomplete",
+        "The project remains incomplete, no matter how long he works",
+      ],
+    },
+    {
+      id: 86,
+      question: "She cooks deliciously. Nobody eats the food.",
+      answer: [
+        "No matter how deliciously she cooks, nobody eats the food",
+        "Nobody eats the food, no matter how deliciously she cooks",
+      ],
+    },
+    {
+      id: 87,
+      question: "He explains slowly. They still cannot understand.",
+      answer: [
+        "No matter how slowly he explains, they still cannot understand",
+        "They still cannot understand, no matter how slowly he explains",
+      ],
+    },
+    {
+      id: 88,
+      question: "She wakes up early. She is still late to school.",
+      answer: [
+        "No matter how early she wakes up, she is still late to school",
+        "She is still late to school, no matter how early she wakes up",
+      ],
+    },
+    {
+      id: 89,
+      question: "They study hard. They still fail the exam.",
+      answer: [
+        "No matter how hard they study, they still fail the exam",
+        "They still fail the exam, no matter how hard they study",
+      ],
+    },
+    {
+      id: 90,
+      question: "He runs fast. The other runners still beat him.",
+      answer: [
+        "No matter how fast he runs, the other runners still beat him",
+        "The other runners still beat him, no matter how fast he runs",
+      ],
+    },
+    {
+      id: 91,
+      question: "She tries to smile. Nobody notices her happiness.",
+      answer: [
+        "No matter how much she tries to smile, nobody notices her happiness",
+        "Nobody notices her happiness, no matter how much she tries to smile",
+      ],
+    },
+    {
+      id: 92,
+      question: "He explains carefully. Some students still make mistakes.",
+      answer: [
+        "No matter how carefully he explains, some students still make mistakes",
+        "Some students still make mistakes, no matter how carefully he explains",
+      ],
+    },
+    {
+      id: 93,
+      question: "They practice daily. The team performance remains weak.",
+      answer: [
+        "No matter how much they practice daily, the team performance remains weak",
+        "The team performance remains weak, no matter how much they practice daily",
+      ],
+    },
+    {
+      id: 94,
+      question: "She decorates beautifully. Nobody appreciates her effort.",
+      answer: [
+        "No matter how beautifully she decorates, nobody appreciates her effort",
+        "Nobody appreciates her effort, no matter how beautifully she decorates",
+      ],
+    },
+    {
+      id: 95,
+      question: "He apologizes politely. They still ignore him.",
+      answer: [
+        "No matter how politely he apologizes, they still ignore him",
+        "They still ignore him, no matter how politely he apologizes",
+      ],
+    },
+    {
+      id: 96,
+      question: "She works hard. The results are still disappointing.",
+      answer: [
+        "No matter how hard she works, the results are still disappointing",
+        "The results are still disappointing, no matter how hard she works",
+      ],
+    },
+    {
+      id: 97,
+      question: "He studies late. He still forgets the material.",
+      answer: [
+        "No matter how late he studies, he still forgets the material",
+        "He still forgets the material, no matter how late he studies",
+      ],
+    },
+    {
+      id: 98,
+      question: "She sings loudly. The audience remains silent.",
+      answer: [
+        "No matter how loudly she sings, the audience remains silent",
+        "The audience remains silent, no matter how loudly she sings",
+      ],
+    },
+    {
+      id: 99,
+      question: "They explain carefully. Some people still misunderstand.",
+      answer: [
+        "No matter how carefully they explain, some people still misunderstand",
+        "Some people still misunderstand, no matter how carefully they explain",
+      ],
+    },
+    {
+      id: 100,
+      question: "He works hard every day. He still does not succeed.",
+      answer: [
+        "No matter how hard he works every day, he still does not succeed",
+        "He still does not succeed, no matter how hard he works every day",
+      ],
+    },
+  ],
 };
 
 const selectUnits: selectType[] = [
@@ -7098,6 +8397,54 @@ const selectUnits: selectType[] = [
     lessons: [
       "Colour idioms",
       "Subordinating conjunctions in adverbial clauses",
+    ],
+  },
+  {
+    unit: "Unit6",
+    lessons: ["Adverbial phrases", "No matter"],
+  },
+  {
+    unit: "Unit7",
+    lessons: [
+      "Words related to pollution and environment",
+      "Verbs of cause and effect",
+      "Linking words to show cause and effect",
+    ],
+  },
+  {
+    unit: "Unit8",
+    lessons: ["Energy collocations", "Conditionals"],
+  },
+  {
+    unit: "Unit9",
+    lessons: [
+      "Phrasal verbs",
+      "Verbs followed by a noun group and a bare infinitive",
+      "Verbs followed by a noun group and a to-infinitive",
+    ],
+  },
+  {
+    unit: "Unit10",
+    lessons: [
+      "Words related to communication",
+      "to/in order to/so as to",
+      "so that/in order that",
+    ],
+  },
+  {
+    unit: "Unit11",
+    lessons: [
+      "Words related to illness",
+      "As if/ As though",
+      "Introductory phrases",
+    ],
+  },
+  {
+    unit: "Unit12",
+    lessons: [
+      "Aspects of culture",
+      "Phrasal verbs",
+      "Relative pronouns and relative adverbs",
     ],
   },
 ];
