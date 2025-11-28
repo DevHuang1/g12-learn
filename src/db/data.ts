@@ -8368,6 +8368,516 @@ const quesDB: QuesDB = {
       ],
     },
   ],
+  "Words related to pollution and environment": [
+    {
+      id: 1,
+      question: "Air p____ can be caused by natural events.",
+      answer: ["pollution"],
+    },
+    {
+      id: 2,
+      question: "R____ is the process of turning waste into reusable material.",
+      answer: ["Recycling"],
+    },
+    {
+      id: 3,
+      question: "W____ contamination affects rivers, lakes, and oceans.",
+      answer: ["Water"],
+    },
+    {
+      id: 4,
+      question: "Deforestation can lead to s____ erosion.",
+      answer: ["soil"],
+    },
+    {
+      id: 5,
+      question: "G____ emissions contribute to global warming.",
+      answer: ["Greenhouse"],
+    },
+    {
+      id: 6,
+      question: "L____ pollution comes from plastic and garbage left on land.",
+      answer: ["Land"],
+    },
+    {
+      id: 7,
+      question: "C____ change affects weather patterns worldwide.",
+      answer: ["Climate"],
+    },
+    {
+      id: 8,
+      question: "S____ energy comes from the sun and is renewable.",
+      answer: ["Solar"],
+    },
+    {
+      id: 9,
+      question: "N____ resources include forests, water, and minerals.",
+      answer: ["Natural"],
+    },
+    {
+      id: 10,
+      question: "O____ pollution harms marine life and ecosystems.",
+      answer: ["Oil"],
+    },
+    {
+      id: 11,
+      question: "Factories release c____ into the air, affecting health.",
+      answer: ["chemicals"],
+    },
+    {
+      id: 12,
+      question: "Deforestation, or the loss of forests, is also called d____.",
+      answer: ["deforestation"],
+    },
+    {
+      id: 13,
+      question: "Wildlife suffers when e____ are destroyed by human activity.",
+      answer: ["ecosystems"],
+    },
+    {
+      id: 14,
+      question: "The c____ footprint shows how much carbon we produce.",
+      answer: ["carbon"],
+    },
+    {
+      id: 15,
+      question: "G____ gases contribute to global warming.",
+      answer: ["Geenhouse"],
+    },
+    {
+      id: 16,
+      question: "Rivers can be poisoned by m____ waste from cities.",
+      answer: ["municipal"],
+    },
+    {
+      id: 17,
+      question: "Breathing s____ can cause respiratory problems.",
+      answer: ["smog"],
+    },
+    {
+      id: 18,
+      question: "N____ disasters become worse when the environment is damaged.",
+      answer: ["Natural"],
+    },
+    {
+      id: 19,
+      question: "C____ layer depletion allows harmful UV rays to reach Earth.",
+      answer: ["Carbon"],
+    },
+    {
+      id: 20,
+      question: "Food chains are disrupted by f____ pollution.",
+      answer: ["food"],
+    },
+    {
+      id: 21,
+      question: "H____ power uses rivers and waterfalls to generate energy.",
+      answer: ["Hydro"],
+    },
+    {
+      id: 22,
+      question: "Using reusable items reduces s____ waste.",
+      answer: ["solid"],
+    },
+    {
+      id: 23,
+      question: "Vehicles produce t____ emissions that pollute the air.",
+      answer: ["toxic"],
+    },
+    {
+      id: 24,
+      question: "Proper w____ disposal prevents many diseases.",
+      answer: ["waste"],
+    },
+    {
+      id: 25,
+      question: "Protecting e____ is everyone's responsibility.",
+      answer: ["environment"],
+    },
+    {
+      id: 26,
+      question: "Soil becomes infertile due to l____ degradation.",
+      answer: ["land"],
+    },
+    {
+      id: 27,
+      question: "The o____ layer shields us from ultraviolet radiation.",
+      answer: ["ozone"],
+    },
+    {
+      id: 28,
+      question: "C____ spills can devastate oceans and marine life.",
+      answer: ["Chemical"],
+    },
+    {
+      id: 29,
+      question: "I____ noise affects both humans and animals.",
+      answer: ["Industrial"],
+    },
+    {
+      id: 30,
+      question: "Contaminated water is caused by p____ pollutants.",
+      answer: ["water"],
+    },
+    {
+      id: 31,
+      question: "Recycling programs reduce the need for r____ materials.",
+      answer: ["raw"],
+    },
+    {
+      id: 32,
+      question: "Solar e____ converts sunlight into usable electricity.",
+      answer: ["energy"],
+    },
+    {
+      id: 33,
+      question: "Deforestation causes d____ of animal habitats.",
+      answer: ["destruction"],
+    },
+    {
+      id: 34,
+      question: "Acid rain, or a____ deposition, harms lakes and forests.",
+      answer: ["acid"],
+    },
+    {
+      id: 35,
+      question: "Fossil fuel combustion produces f____ gases.",
+      answer: ["fossil"],
+    },
+    {
+      id: 36,
+      question: "Runoff from farms can lead to c____ pollution in rivers.",
+      answer: ["chemical"],
+    },
+    {
+      id: 37,
+      question:
+        "B____ contamination can result from sewage entering water bodies.",
+      answer: ["Biological"],
+    },
+    {
+      id: 38,
+      question: "Planting trees helps reduce the effects of c____.",
+      answer: ["climate"],
+    },
+    {
+      id: 39,
+      question:
+        "Overfishing and habitat loss increase e____ risks for species.",
+      answer: ["extinction"],
+    },
+    {
+      id: 40,
+      question: "Many cities struggle with a____ pollution during winter.",
+      answer: ["air"],
+    },
+    {
+      id: 41,
+      question: "O____ spills from ships are a major threat to marine life.",
+      answer: ["Oil"],
+    },
+    {
+      id: 42,
+      question:
+        "Environmentalists warn about e____ change affecting weather patterns.",
+      answer: ["environmental"],
+    },
+    {
+      id: 43,
+      question: "Plastic bags and bottles contribute to p____ waste.",
+      answer: ["plastic"],
+    },
+    {
+      id: 44,
+      question: "Noise from construction sites is a form of n____ pollution.",
+      answer: ["noise"],
+    },
+    {
+      id: 45,
+      question:
+        "Erosion of soil due to wind and water is called s____ erosion.",
+      answer: ["soil"],
+    },
+    {
+      id: 46,
+      question: "Droughts and floods are consequences of c____ change.",
+      answer: ["climate"],
+    },
+    {
+      id: 47,
+      question: "Releasing untreated sewage causes s____ water pollution.",
+      answer: ["surface"],
+    },
+    {
+      id: 48,
+      question: "Industrial zones produce a large amount of t____ waste.",
+      answer: ["toxic"],
+    },
+    {
+      id: 49,
+      question: "C____ farming practices can harm the environment.",
+      answer: ["Chemical"],
+    },
+    {
+      id: 50,
+      question: "Reforestation helps restore d____ lands.",
+      answer: ["degraded"],
+    },
+    {
+      id: 51,
+      question: "M____ management is important for urban areas.",
+      answer: ["Municipal"],
+    },
+    {
+      id: 52,
+      question: "O____ depletion leads to higher risks of skin cancer.",
+      answer: ["Ozone"],
+    },
+    {
+      id: 53,
+      question: "E____ protection is vital for preserving wildlife.",
+      answer: ["Ecosystem"],
+    },
+    {
+      id: 54,
+      question: "L____ contamination affects crop production.",
+      answer: ["Land"],
+    },
+    {
+      id: 55,
+      question: "Airplanes and cars emit g____ gases into the atmosphere.",
+      answer: ["greenhouse"],
+    },
+    {
+      id: 56,
+      question: "Industrial d____ contributes heavily to river pollution.",
+      answer: ["discharge"],
+    },
+    {
+      id: 57,
+      question: "S____ pollution is a growing problem in cities.",
+      answer: ["Smog"],
+    },
+    {
+      id: 58,
+      question: "Fires in forests lead to a____ pollution.",
+      answer: ["air"],
+    },
+    {
+      id: 59,
+      question: "R____ materials can be reused to reduce waste.",
+      answer: ["Recyclable"],
+    },
+    {
+      id: 60,
+      question: "C____ emissions must be reduced to fight global warming.",
+      answer: ["Carbon"],
+    },
+    {
+      id: 61,
+      question: "Many rivers suffer from w____ dumped by nearby factories.",
+      answer: ["waste"],
+    },
+    {
+      id: 62,
+      question: "Cars in the city contribute heavily to a____ pollution.",
+      answer: ["air"],
+    },
+    {
+      id: 63,
+      question: "Farmers must be careful with p____ to avoid harming the soil.",
+      answer: ["pesticide"],
+    },
+    {
+      id: 64,
+      question: "The rise of g____ gases is a major cause of global warming.",
+      answer: ["greenhouse"],
+    },
+    {
+      id: 65,
+      question: "Wind and solar are forms of r____ energy.",
+      answer: ["renewable"],
+    },
+    {
+      id: 66,
+      question: "O____ spills can devastate marine life.",
+      answer: ["Oil"],
+    },
+    {
+      id: 67,
+      question: "Harmful r____ left by factories can enter the food chain.",
+      answer: ["residue"],
+    },
+    {
+      id: 68,
+      question: "Water becomes unsafe due to c____ contamination.",
+      answer: ["chemical"],
+    },
+    {
+      id: 69,
+      question: "Fertilizer overuse leads to e____ in lakes.",
+      answer: ["eutrophication"],
+    },
+    {
+      id: 70,
+      question: "L____ degradation is accelerated by deforestation.",
+      answer: ["Land"],
+    },
+
+    {
+      id: 71,
+      question: "Handling h____ waste incorrectly can be dangerous.",
+      answer: ["hazardous"],
+    },
+    {
+      id: 72,
+      question: "Every human has an e____ footprint that affects nature.",
+      answer: ["ecological"],
+    },
+    {
+      id: 73,
+      question: "Many p____ eventually end up polluting oceans.",
+      answer: ["plastic"],
+    },
+    {
+      id: 74,
+      question: "Residents nearby complained about industrial a____.",
+      answer: ["air"],
+    },
+    {
+      id: 75,
+      question: "R____ farming practices help preserve the soil.",
+      answer: ["Responsible"],
+    },
+    {
+      id: 76,
+      question: "Smoke contains t____ particles that are harmful to lungs.",
+      answer: ["toxic"],
+    },
+    {
+      id: 77,
+      question: "Water t____ ensures rivers are safe for human use.",
+      answer: ["treatment"],
+    },
+    {
+      id: 78,
+      question: "Proper c____ management prevents land pollution.",
+      answer: ["waste"],
+    },
+    {
+      id: 79,
+      question: "Laws limit n____ emissions from vehicles.",
+      answer: ["nitrogen"],
+    },
+    {
+      id: 80,
+      question: "Climate change worsens with increased d____ of forests.",
+      answer: ["deforestation"],
+    },
+
+    {
+      id: 81,
+      question: "Noise p____ is a growing problem in urban areas.",
+      answer: ["pollution"],
+    },
+    {
+      id: 82,
+      question: "s____ water often contains harmful bacteria.",
+      answer: ["Surface"],
+    },
+    {
+      id: 83,
+      question: "O____ depletion has global consequences.",
+      answer: ["Ozone"],
+    },
+    {
+      id: 84,
+      question: "Mining causes l____ contamination.",
+      answer: ["lead"],
+    },
+    {
+      id: 85,
+      question: "Hospitals produce large amounts of m____ waste.",
+      answer: ["medical"],
+    },
+    {
+      id: 86,
+      question: "Using green t____ reduces air pollution in cities.",
+      answer: ["transport"],
+    },
+    {
+      id: 87,
+      question: "R____ of plastic helps reduce environmental damage.",
+      answer: ["Recycling"],
+    },
+    {
+      id: 88,
+      question: "Overfishing can damage f____ populations.",
+      answer: ["fish"],
+    },
+    {
+      id: 89,
+      question: "H____ oil spills affect both sea creatures and birds.",
+      answer: ["Huge"],
+    },
+    {
+      id: 90,
+      question: "C____ emissions from cars contribute to smog.",
+      answer: ["Carbon"],
+    },
+
+    {
+      id: 91,
+      question: "Farms often cause s____ runoff into nearby streams.",
+      answer: ["surface"],
+    },
+    {
+      id: 92,
+      question: "Microbeads in p____ products pollute waterways.",
+      answer: ["plastic"],
+    },
+    {
+      id: 93,
+      question: "Factories create e____ hazards for local communities.",
+      answer: ["environmental"],
+    },
+    {
+      id: 94,
+      question: "Vehicles release t____ gases that acidify rain.",
+      answer: ["toxic"],
+    },
+    {
+      id: 95,
+      question: "G____ gases trap heat and warm the Earth.",
+      answer: ["Greenhouse"],
+    },
+    {
+      id: 96,
+      question: "C____ spilled into oceans endangers marine life.",
+      answer: ["Chemical"],
+    },
+    {
+      id: 97,
+      question: "High levels of a____ contamination are dangerous to health.",
+      answer: ["air"],
+    },
+    {
+      id: 98,
+      question: "Improper w____ disposal harms wildlife.",
+      answer: ["waste"],
+    },
+    {
+      id: 99,
+      question: "Shifting to r____ resources can prevent further damage.",
+      answer: ["renewable"],
+    },
+    {
+      id: 100,
+      question:
+        "Farmers must prevent l____ degradation to grow crops successfully.",
+      answer: ["land"],
+    },
+  ],
 };
 
 const selectUnits: selectType[] = [
