@@ -10549,7 +10549,7 @@ const quesDB: QuesDB = {
       ],
     },
   ],
-  PhrasalVerbs: [
+  "Phrasal verbs": [
     {
       id: 1,
       question: "She turned down the job offer because of the low salary.",
