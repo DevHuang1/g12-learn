@@ -10549,6 +10549,16 @@ const quesDB: QuesDB = {
       ],
     },
   ],
+  PhrasalVerbs: [
+    {
+      id: 1,
+      question: "She turned down the job offer because of the low salary.",
+      answer: [
+        "She turned down the job offer because of the low salary.",
+        "She rejected the job offer because of the low salary.",
+      ],
+    },
+  ],
 };
 
 const selectUnits: selectType[] = [
