@@ -16,7 +16,9 @@ const Navigation: React.FC = () => {
           ☰
         </button>
         <ul className={`navbar-menu ${open ? "active" : ""}`}>
-          <li>Home</li>
+          <li>
+            <a href="/">Home</a>
+          </li>
           <li>Initial Letters</li>
           <li onClick={() => setShowPopup(true)}>About</li>
         </ul>
