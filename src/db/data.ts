@@ -10606,7 +10606,7 @@ const quesDB: QuesDB = {
 { id: 50, question: "They ___ a new project. (A. started over, B. started up, C. started in)", answer: ["B"] }
 ],
 "Verbs followed by a noun group and a bare infinitive": [
- { id: 41, question: "We must ___ the problem carefully. (A. deal with, B. deal over, C. deal up)", answer: ["A"] },
+ { id: 1, question: "We must ___ the problem carefully. (A. deal with, B. deal over, C. deal up)", answer: ["A"] },
 ]
 };
 
