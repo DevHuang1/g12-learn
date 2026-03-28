@@ -10607,6 +10607,7 @@ const quesDB: QuesDB = {
 ],
 "Verbs followed by a noun group and a bare infinitive": [
  { id: 1, question: "We must ___ the problem carefully. (A. deal with, B. deal over, C. deal up)", answer: ["A"] },
+ { id: 1, question: "We must ___ the problem carefully. (A. deal with, B. deal over, C. deal up)", answer: ["A"] },
 ]
 };
 
